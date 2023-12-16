@@ -1,0 +1,14 @@
+drwxrwxrwx   5 mgrtn@centroastrologico.com.ar 505          4096 Mar 28  2018 .
+drwxrwxrwx  33 mgrtn@centroastrologico.com.ar 505          4096 Dec 11 22:30 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1129 Mar 28  2018 advanced-cache.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 28  2018 languages
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         11758 Mar 28  2018 ossdl-cdn.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 28  2018 plugins
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         53192 Mar 28  2018 readme.txt
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 28  2018 rest
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1270 Mar 28  2018 wp-cache-base.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3647 Mar 28  2018 wp-cache-config-sample.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2872 Mar 28  2018 wp-cache-phase1.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505        106059 Mar 28  2018 wp-cache-phase2.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505        211752 Mar 28  2018 wp-cache.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         58120 Mar 28  2018 wp-super-cache.pot

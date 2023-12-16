@@ -1,0 +1,273 @@
+#home-section .row {
+    border-bottom: 0px!important;
+}
+
+#nav-bar-mobile{
+	width: 100%!important;
+}
+
+#footer-mobile{
+	background-color: #3E6493;
+	font-size: 12px!important;
+	text-align: center!important;
+}
+
+#footer-mobile hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.divider {
+    height: 1px;
+    overflow: hidden;
+    background-color: #FFF!important;
+}
+
+.navbar-nav {
+    margin: 0px!important;
+}
+
+/*NUEVO*/
+
+nav.menu {
+    background-image: url('../images/bg-menu.jpg')
+}
+nav.menu .container {
+    height: 42px;
+    font-size: 13px
+}
+#navegacion>ul {
+    height: 30px;
+    width: 1070px
+}
+#navegacion>ul>li {
+    height: 42px;
+    border-right: 2px solid #bebebe
+}
+#navegacion>ul>li:last-child {
+    border-right: 0
+}
+#navegacion>ul>li>a {
+    padding: 9px 15px;
+    height: 42px
+}
+#navegacion a {
+    color: #28278d
+}
+#navegacion>ul>li>ul {
+    background-color: #28278d
+}
+#navegacion>ul>li>ul>li {
+    border-bottom: 1px solid white
+}
+#navegacion li.active,
+#navegacion li:hover {
+    background-color: #efd8ac
+}
+#navegacion li.active a,
+#navegacion li:hover a {
+    color: #28278d;
+    text-shadow: none
+}
+#navegacion li:hover>ul>li>a {
+    color: white
+}
+.signos {
+    background-color: #e8ba60;
+    background-color: #020526;
+    background-image: url("../images/bg-signos.png")
+}
+.signos div.container#navegacionSignos {
+    height: 120px
+}
+.signos div.container#navegacionSignos ul {
+    width: 1076px;
+    margin: 0 auto;
+    background-color: #e8ba60
+}
+.signos div.container#navegacionSignos ul>li {
+    cursor: pointer;
+    background-color: #e8ba60;
+    padding-top: 18px;
+    width: 86px;
+    height: 120px;
+    padding-right: 0;
+    padding-left: 0;
+    border-right: 2px solid #f2d8a4;
+    -moz-transition-duration: .5s;
+    -webkit-transition-duration: .5s;
+    -o-transition-duration: .5s;
+    transition-duration: .5s
+}
+.signos div.container#navegacionSignos ul>li a {
+    text-align: center;
+    font-weight: 600;
+    font-size: 1em;
+    margin-left: 0;
+    display: block
+}
+.signos div.container#navegacionSignos ul>li>img.active {
+    display: block;
+    display: none
+}
+.signos div.container#navegacionSignos ul>li>img.inactive {
+    display: block
+}
+.signos div.container#navegacionSignos ul>li:hover>img.inactive {
+    top: 0
+}
+a {
+    color: #28278d
+}
+a:hover {
+    color: #28278d
+}
+a.btn-warning,
+button.btn-warning {
+    background-color: #4864b4;
+    padding: 5px;
+    border: 1px solid #28278d
+}
+a.btn-warning:hover,
+button.btn-warning:hover {
+    background-color: #28278d;
+    border: 1px solid #28278d
+}
+.header-cont {
+    background-color: #020526!important;
+    background-image: none
+}
+.header-cont div.container {
+    background-image: url("../images/all/header-astrologia.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.header-cont div.header {
+    color: white
+}
+.header-cont div.header div.logo div {
+    margin-left: 0
+}
+.header-cont div.header h1 {
+    font-size: 2em
+}
+.header-cont div.header div.slogan p,
+.header-cont div.header div.slogan h1,
+.header-cont div.header div.slogan h4 {
+    font-family: inherit
+}
+div.fixed nav.newsletter {
+    margin-top: 30px
+}
+div#contents {
+    background-color: white
+}
+div#contents div#sections {
+    margin-top: 15px;
+    padding: 10px 15px
+}
+div#contents div#sections div.innerSections {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px 25px
+}
+div.col-derecha {
+    padding-top: 25px;
+    float: right;
+}
+div.col-derecha div.sectionColDer {
+    border-bottom: 1px solid #4864b4
+}
+.articulo .artTitulo {
+    color: #28278d;
+    border-bottom: solid 2px #4864b4!important
+}
+.articulo .artTitulo .inner {
+    border-bottom: solid 4px #4864b4!important
+}
+.articulo .hr {
+    border-top: 0!important
+}
+.articulo ul>li,
+.articulo ul>li.onchild {
+    background-position: 0 8px!important
+}
+.articulo div.inline-img-1 {
+    margin-bottom: 20px
+}
+.articulo div.inline-img-1 img {
+    float: left;
+    margin-right: 20px
+}
+.articulo div.inline-img-2 img {
+    float: right;
+    margin-left: 20px
+}
+div#eventoModal .modal-dialog .modal-content {
+    background-color: #28278d
+}
+#programa-de-estudios-collapse .panel div.panel-heading {
+    background-color: #fff8e8
+}
+#programa-de-estudios-collapse .panel div.panel-heading div.panel-title div.head h2 {
+    color: #28278d
+}
+#programa-de-estudios-collapse .panel div.panel-heading div.panel-title div.head h3 {
+    color: #767674
+}
+#programa-de-estudios-collapse .panel div.panel-heading div.panel-title span {
+    color: #767674
+}
+#programa-de-estudios-collapse .panel div.panel-body {
+    border-top: 3px solid #28278d
+}
+#programa-de-estudios-collapse .panel div.panel-body h2 {
+    background-color: #28278d
+}
+#programa-de-estudios-collapse .panel .panel:last-child {
+    border-bottom: 5px solid #28278d
+}
+#programa-de-estudios-collapse .panel .panel {
+    border-color: #28278d
+}
+#programa-de-estudios-collapse .panel .panel div.panel-heading.par {
+    background-color: #e7e0d0
+}
+#programa-de-estudios-collapse .panel .panel div.panel-heading {
+    background-color: #fff8e8
+}
+#programa-de-estudios-collapse .panel .panel div.panel-heading div.panel-title div.head h3 {
+    color: #28278d
+}
+nav.footer {
+    color: white
+}
+nav.footer div.inner-footer {
+    background-image: url("../images/bg-signos.jpg")
+}
+nav.footer div.inner-footer div.footer-escuela h4 {
+    color: white
+}
+nav.footer div.copy {
+    background-color: #33537a
+}
+nav.footer div.copy div.container {
+    color: white
+}
+nav.footer div.footer-contacto {
+    color: white
+}
+nav.footer li.mainMenuBtn>div>a {
+    color: white
+}
+nav.footer div.footer-redes {
+    color: white
+}
+.panel-title img {
+    float: left;
+    margin-right: 20px;
+}
+#programa-de-estudios-collapse .panel div.panel-body h2 {
+    background-color: transparent;
+}

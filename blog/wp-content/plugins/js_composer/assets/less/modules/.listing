@@ -1,0 +1,16 @@
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 .
+drwxrwxrwx  13 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 ..
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 ui
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3611 Feb  5  2017 vc_buttons.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           989 Feb  5  2017 vc_fullscreen.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           734 Feb  5  2017 vc_helper.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           864 Feb  5  2017 vc_messages.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1776 Feb  5  2017 vc_modals.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5879 Feb  5  2017 vc_navbar.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4877 Feb  5  2017 vc_panels.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           529 Feb  5  2017 vc_placeholder.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           196 Feb  5  2017 vc_preloader.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1660 Feb  5  2017 vc_switcher.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            95 Feb  5  2017 vc_table.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3413 Feb  5  2017 vc_teaser_box.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2265 Feb  5  2017 vc_welcome.less

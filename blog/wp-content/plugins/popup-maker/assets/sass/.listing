@@ -1,0 +1,16 @@
+drwxrwxrwx   5 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5844 Apr  7  2018 admin-batch.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505             0 Apr  7  2018 admin-deprecated.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           282 Apr  7  2018 admin-editor-styles.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2269 Apr  7  2018 admin-extensions-page.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1327 Apr  7  2018 admin-general.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2386 Apr  7  2018 admin-popup-editor.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2286 Apr  7  2018 admin-settings-page.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           352 Apr  7  2018 admin-shortcode-ui.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           593 Apr  7  2018 admin-support-page.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2541 Apr  7  2018 admin-theme-editor.scss
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 modules
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 partials
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           494 Apr  7  2018 site.scss
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 vendor

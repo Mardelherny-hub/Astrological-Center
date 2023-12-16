@@ -1,0 +1,214 @@
+html,body{height:100%;padding:0}
+
+html,body,input,div,button,nav,form,a,span,h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11{font-family:'Open Sans',sans-serif}
+
+h4 {font-family:'Open Sans',sans-serif; line-height:14px!important; padding-left:65px!important; }
+h12{font-family:'Open Sans',sans-serif; line-height:14px!important; padding-left:5px; }
+
+h1{font-family:'Open Sans',sans-serif; line-height:14px!important; padding-left:60px!important; }
+
+h7 { font-size:14px; margin-left:20px; }
+h8 { font-size:14px; margin-left:20px; line-height:18px; padding-bottom:10px; padding-left:65px!important;}
+h9 { font-size:18px;}
+h10 { font-size:16px;}
+h11 { font-size:14px;}
+
+
+/*body{background-color:#fff; background-image:url(../../images/calendario2.jpg)!important;}*/
+
+a{color:#ffffff; font-weight:bold;}
+
+a:hover{color:#fc3f15}
+
+.menublog{
+	color:#ffffff;
+	background-color:;
+	font-family:'PT Sans',sans-serif;
+	font-size:14px;
+	line-height:18px;
+	}
+
+nav.header-nav{background-color:#fff;border-bottom:4px solid #ee9d0a;color:#000;padding-top:10px; padding-bottom:10px;}
+
+nav.header-nav div.header-cont{padding-top:0}
+
+nav.header-nav .hAztlan{margin-bottom:0;margin-top:5px}
+
+nav.header-nav .hdirector{margin:0}
+
+.escuela-de{margin-bottom:20px}
+
+.informacion{background-color:#FFF!important;}
+
+@media (min-width:361px){
+	
+	.main-text{padding:0 40px}
+	
+	
+	
+	
+	
+	
+	
+	}
+	
+	@media (min-width:992px){
+		
+		nav.header-nav{padding-top:0;height:80px;background-image:url(../../images/bg-header-2.jpg);background-repeat:repeat;}
+		
+		nav.header-nav div.header-cont{height:76px;background-image:url(../../images/piedra-2.png);background-position:right top;background-repeat:no-repeat}
+		
+		.logo{padding-top:5px; }
+		.pull-left{margin-right:5px!important; }
+		
+		.logo div{margin-left:10px; margin-right:10px;padding-top:5px;font-weight:700}
+		
+		.logo div h5{font-weight:700;margin-bottom:0;padding-top:8px;margin-top:0}
+		
+		.logo div h4{margin-top:0}
+		
+		.logo img{width:60px;padding-top:5px; margin-right:10px!important;}
+		
+		.logo .hAztlan{font-weight:700}.
+		slogan{height:80px;text-align:center}
+		
+		.slogan p,.slogan h4{margin:0}
+		
+		.slogan h1{margin-top:0;margin-bottom:5px;font-weight:700;font-size:2em}
+		
+		.slogan .hEscuela{margin-top:5px;margin-bottom:5px;font-weight:700}
+		
+		.slogan .hEnsenanza{margin-top:5px;margin-bottom:0}
+		
+		div.main-text{padding:0 0}
+		
+		#form{position:absolute;right:20px;bottom:50px;padding:10px; width:380px;}
+		
+		#form .envianos{margin-top:5px;margin-bottom:15px}
+		
+		#form h1,#form h2,#form h3,#form h4,#form h5,#form legend,#form label{font-family:'PT Sans',sans-serif}
+		
+		#form form{background-repeat:no-repeat;background-size:100%;background-color:rgba(238,157,10,.8);-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;padding:10px}
+		
+		#form label{color:#fff;font-weight:500;font-size:15px}
+		
+		#form button{color:#fff;font-weight:700;font-size:20px;width:100%;position:absolute;bottom:-10px;left:0;background-color:#0176A1;border-color:#1030e3}
+		
+		div.fecha{position:absolute;top:120px;color:#333;font-size:20px;font-weight:600;font-size:30px;color:#fff;background-color:#9a2d16;-webkit-border-top-right-radius:10px;-webkit-border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:0;-webkit-border-top-left-radius:0;-moz-border-radius-topright:10px;-moz-border-radius-bottomright:10px;-moz-border-radius-bottomleft:0;-moz-border-radius-topleft:0;border-top-right-radius:10px;border-bottom-right-radius:10px;border-bottom-left-radius:0;border-top-left-radius:0;-moz-background-clip:padding-box;-webkit-background-clip:padding-box;background-clip:padding-box;padding-left:20px;padding-right:20px;z-index:200}
+		
+		div.promo{background-color:rgba(255,255,255,.9);-webkit-border-top-right-radius:10px;-webkit-border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:0;-webkit-border-top-left-radius:0;-moz-border-radius-topright:10px;-moz-border-radius-bottomright:10px;-moz-border-radius-bottomleft:0;-moz-border-radius-topleft:0;border-top-right-radius:10px;border-bottom-right-radius:10px;border-bottom-left-radius:0;border-top-left-radius:0;-moz-background-clip:padding-box;-webkit-background-clip:padding-box;background-clip:padding-box;position:absolute;left:0;top:150px;padding:20px}
+		
+		div.promo h1,div.promo h2,div.promo h3,div.promo h4,div.promo h5{font-family:'PT Sans',sans-serif}
+		
+		div.promo .titulo{text-transform:uppercase;margin-top:0;margin-bottom:0;font-weight:600;font-size:50px;text-align:left}
+		
+		div.promo .intro{color:#0176a1;margin-top:0;margin-bottom:0;text-align:left;font-size:30px}
+		
+		div.promo .metodo{color:#0176a1;margin-top:5px;margin-bottom:0;font-weight:700;text-align:left;font-size:23px}
+		
+		div.frase.big{top:315px}
+		
+		div.frase{background-color:#ee9d0a;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;position:absolute;left:20px;top:295px;padding:0 20px}
+		
+		div.frase h1,div.frase h2,div.frase h3,div.frase h4,div.frase h5{font-family:'PT Sans',sans-serif;color:#fff;font-weight:500;font-size:25px}
+		
+		#contents{background-image:url(http://aztlan.org.ar/blog/consultas/site/images/fondo_tarot.jpg)!important;height:680px;background-size:cover}
+		
+		#contents.cc{background-image:url(../../images/cc.jpg)!important}
+		
+		#contents.cgj{background-image:url(../../images/bd-buda.jpg)!important}
+		
+		#contents.bd{background-image:url(../../images/bd-buda.jpg)!important}
+		}
+		
+		body.psico{background-image:url(../../images/fondo2.jpg)!important; background-repeat:repeat;}
+		
+		.entrar{padding:10px;-webkit-border-top-right-radius:0;-webkit-border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:10px;-webkit-border-top-left-radius:0;-moz-border-radius-topright:0;-moz-border-radius-bottomright:10px;-moz-border-radius-bottomleft:10px;-moz-border-radius-topleft:0;border-top-right-radius:0;border-bottom-right-radius:10px;border-bottom-left-radius:10px;border-top-left-radius:0;-moz-background-clip:padding-box;-webkit-background-clip:padding-box;background-clip:padding-box;background-color:#ee9d0a;width:250px;margin:0 auto;text-align:center;font-weight:700;margin-bottom:10px}
+		.entrar a{color:#fff}
+		
+		.form-mobile{padding:50px;}
+		
+		@media (min-width:768px)
+		{
+			
+			body{background-repeat:repeat; background-color:#fff}
+			
+			.entrar{padding:10px;-webkit-border-top-right-radius:0;-webkit-border-bottom-right-radius:10px;-webkit-border-bottom-left-radius:10px;-webkit-border-top-left-radius:0;-moz-border-radius-topright:0;-moz-border-radius-bottomright:10px;-moz-border-radius-bottomleft:10px;-moz-border-radius-topleft:0;border-top-right-radius:0;border-bottom-right-radius:10px;border-bottom-left-radius:10px;border-top-left-radius:0;-moz-background-clip:padding-box;-webkit-background-clip:padding-box;background-clip:padding-box;background-color:#ee9d0a;width:250px;margin-right:30px;text-align:center;font-weight:700;float:right}
+			
+			.entrar a{color:#fff}}
+			
+			#mobile-contents{padding:0 20px;text-align:center}
+			
+			#mobile-contents span{display:block}
+			
+			#mobile-contents .titulo{font-size:24px;font-weight:900; margin-top:15px; line-height:26px; color:#FFFFFF!important; }
+			
+			#mobile-contents .subtitulo{font-size:20px; color:#FFFFFF!important;}
+			
+			#mobile-contents .metodo{margin-top:10px}
+			
+			#contents{text-align:center;background-image:none;background-repeat:no-repeat}
+			
+			.main-text{padding:0 10px}
+.form-mobile{padding:20px 40px;background-repeat:no-repeat;background-size:cover;margin-top:20px; background-color:#D90000}
+
+.form-mobile .btnSend{text-align:left;margin-left:20px}
+
+div.bonificacion{padding:10px;-webkit-border-top-right-radius:10px;-webkit-border-bottom-right-radius:0;-webkit-border-bottom-left-radius:0;-webkit-border-top-left-radius:10px;-moz-border-radius-topright:10px;-moz-border-radius-bottomright:0;-moz-border-radius-bottomleft:0;-moz-border-radius-topleft:10px;border-top-right-radius:10px;border-bottom-right-radius:0;border-bottom-left-radius:0;border-top-left-radius:10px;-moz-background-clip:padding-box;-webkit-background-clip:padding-box;background-clip:padding-box;background-color:#F0CB8C;margin-top:15px;text-align:center;font-weight:700}
+
+.sub-titulos{font-weight:700;font-size:18px;margin-top:15px}
+
+.sub-titulos2{font-weight:400;font-size:14px;margin-top:5px; display:inline-block; margin-bottom:10px;}
+
+.sub-titulos3{font-weight:700;font-size:18px;margin-top:5px; line-height:20px;}
+
+.sub-titulos4{font-weight:400;font-size:14px;margin-top:5px; display:inline-block;}
+
+.sub-titulos5{font-weight:400;font-size:16px;margin-top:5px; display:inline-block; margin-bottom:5px;}
+
+.titulo1{font-weight:700;font-size:22px;margin-top:15px}
+
+
+.texto{margin-top:10px}
+
+.programa{padding:0 20px}
+
+.form-cont{padding-left:40px;padding-top:40px}
+
+.envianos{text-align:center;color:#fff;font-weight:600;border:0; font-size:20px!important; margin-bottom: 10px!important;}
+
+.envianos2{text-align:center!important; color:#fff;font-weight:600;border:0; font-size:14px!important;}
+
+.envianos3{text-align:center;color:#fff;font-weight:600;border:0; font-size:14px!important; margin-bottom:10px;}
+
+.entrar-2{text-align:center;margin-top:10px;font-size:1.5em;font-weight:600} 
+.entrar-2 a{color:#fff;padding:5px 20px;background-color:#D90000;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px}
+.footer{margin-top:20px;margin-bottom:20px}
+
+.footer .container{padding-top:5px;font-size:12px;text-align:center;border-top:4px solid #ee9d0a; color:#FFFFFF!important;}
+
+.facebook-cont{position:relative}.facebook-cont a.facebook{position:absolute;top:60px;right:10px}
+
+div.beneficios{padding-top:0;background-repeat:no-repeat}
+
+div.beneficios ul>li.list-group-item{border:none;background:0 0;padding-top:4px;padding-bottom:4px;font-weight:600}
+
+body.astro{background-image:url(../../images/fondoastro.jpg)!important; background-repeat:repeat; background-color:#fff}
+
+body.tarot{background-image:url(../../images/fondotarot.jpg)!important; background-repeat:repeat; background-color:#fff}
+
+body.astro .astro-horarios{background-color:#fff;padding-top:20px}
+
+body.astro nav.header-nav{border-bottom:4px solid #fff}
+
+body.astro .entrar{background-color:#fff}
+
+body.astro .entrar a{color:#fff}b
+
+body.astro .entrar-2 a{background-color:#0f24bb;color:#fff}
+
+body.astro .footer .container{border-top:4px solid #fff}
+
+body.astro a{color:#fff}
+
+/*body.astro a{color:#0f24bb}*/

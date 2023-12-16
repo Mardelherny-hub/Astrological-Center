@@ -1,0 +1,76 @@
+@import "../elements.less";
+
+
+
+div#formsModal{
+	.modal-dialog{
+		width: 100%;
+		max-width: 1000px;
+
+		.modal-content{
+			//background-color: #7c0000;
+			padding: 15px;
+			.rounded(10px);
+
+			div.modal-header{
+				background-color: white;
+				background-repeat: no-repeat;
+				background-position: right top;
+				border: none;
+				.border-radius(10px,0,0,10px);
+
+				button{
+					opacity: 1;
+					text-shadow:none;
+					background-color: rgba(255,255,255,.8);
+					padding: 5px 10px;
+					.rounded(5px);
+					margin-top: -10px;
+					margin-right: -10px;
+				}
+
+				h1 {
+					font-size: 3.5em;
+					font-weight: 400;
+					margin: 0;
+					margin-bottom: 0px;
+				}
+				h2{
+					margin-top: 5px;
+					margin-bottom: 0px;
+					font-size: 1.5em;
+					font-weight: 600;
+					letter-spacing: 1px;
+				}
+				h3 {
+					font-size: 1em;
+					font-weight: 300;
+					letter-spacing: 1px;
+					margin-top: 10px;
+				}
+			}//endHEADER
+
+			div.modal-body{
+				padding: 0;
+				margin-top: 10px;
+				.row{
+					margin:0;
+				}
+
+				div.errorMsg,
+					div.consultaOk{
+						display:none;
+					}
+			}//end BODY
+
+			div.modal-footer{
+				margin-top: 0;
+				text-align: center;
+				background-color: white;
+				font-weight: 500;
+				font-size: 1.2em;
+				.border-radius(0,10px,10px,0);
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+drwxrwxrwx   8 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 .
+drwxrwxrwx  41 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 ..
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 compat
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 content-options
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7044 Nov 23  2019 content-options.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         21170 Nov 23  2019 featured-content.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1763 Nov 23  2019 infinite-scroll.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 js
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3149 Nov 23  2019 random-redirect.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 responsive-videos
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3830 Nov 23  2019 responsive-videos.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3138 Nov 23  2019 site-breadcrumbs.php
+drwxrwxrwx   5 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 site-logo
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1373 Nov 23  2019 site-logo.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6443 Nov 23  2019 social-links.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 social-menu
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2893 Nov 23  2019 social-menu.php

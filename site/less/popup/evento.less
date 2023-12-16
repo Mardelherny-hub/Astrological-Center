@@ -1,0 +1,131 @@
+@import "../elements.less";
+
+@media (min-width: 768px) {
+  div.modal-header{				
+				background-image: url('../../../es/popup/img/logo-header.png');
+			}
+}
+
+div.modal-header.no-image{
+	background-image:none!important;
+}
+
+div#eventoModal{
+	.modal-dialog{
+		width: 100%;
+		max-width: 820px;
+		
+		button.close{					
+					text-shadow:none;					
+					padding: 5px 10px;
+					.rounded(5px);
+					//margin-top: -10px;					
+					position:absolute;
+					background-color:white;
+					opacity:0.8;
+					right:0px;
+					padding:10px;
+				}
+
+		.modal-content{
+			background-color: #7c0000;
+			padding: 15px;
+			.rounded(10px);
+
+			div.modal-header{
+				background-color: white;			
+				background-repeat: no-repeat;
+				background-position: right top;
+				border: none;
+				.border-radius(10px,0,0,10px);
+				
+				
+
+				h1 {			
+					font-size: 2.5em;
+					font-weight: 600;					
+					margin: 0;
+					margin-bottom: 0px;
+				}
+				h2{
+					margin-top: 5px;
+					margin-bottom: 0px;
+					font-size: 1.5em;
+					font-weight: 600;
+					letter-spacing: 1px;
+				}
+				h3 {				
+					font-size: 1em;
+					font-weight: 300;
+					letter-spacing: 1px;
+					margin-top: 10px;
+				}
+			}//endHEADER
+
+			div.modal-body{
+				padding: 0;				
+				.row{
+					margin:0;
+				}
+
+				
+				div.contenido{
+					background-color: white;					
+					padding: 0px 0 20px 0;
+					border-bottom:0px solid;
+
+					img{
+						width: 100%;
+						//margin-bottom: 10px;
+					}
+					
+					div.mod-titulo{
+						padding:20px;
+						text-align:center;
+						color:white;
+					}
+					
+					div.reserva{
+						font-weight: 600;
+						text-align: center;
+						font-size: 1.2em;
+					}
+					
+					
+
+					.bs-callout {
+					padding: 5px 20px;
+					margin: 20px 0;
+					border: 1px solid #eee;
+					border-left-width: 5px;
+					border-radius: 3px;
+					}
+					.bs-callout-danger {
+					border-left-color: #0f24bb;
+					}
+				
+				}
+				
+				div.mod-footer{
+						text-align:center;
+						color:white;
+						margin-top:10px;
+						font-size:18px;
+						padding-top:25px;
+						
+						a{color:white;}
+					}
+					
+			}//end BODY		
+
+			div.modal-footer{
+				margin-top: 0;
+				text-align: center;
+				background-color: white;
+				font-weight: 500;
+				font-size: 1.2em;
+				.border-radius(0,10px,10px,0);
+			}
+		}		
+	}	
+}

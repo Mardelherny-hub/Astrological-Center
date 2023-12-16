@@ -1,0 +1,16 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 .
+drwxrwxrwx  41 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3689 Nov 23  2019 atd-autoproofread.js
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9138 Nov 23  2019 atd-nonvis-editor-plugin.js
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2159 Nov 23  2019 atd-rtl.css
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1427 Nov 23  2019 atd-rtl.min.css
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         18748 Nov 23  2019 atd.core.js
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2063 Nov 23  2019 atd.css
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1519 Nov 23  2019 atd.min.css
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           515 Nov 23  2019 button.gif
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4657 Nov 23  2019 config-options.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4356 Nov 23  2019 config-unignore.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         13470 Nov 23  2019 jquery.atd.js
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3330 Nov 23  2019 proxy.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 rtl
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 tinymce

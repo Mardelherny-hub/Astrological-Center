@@ -1,0 +1,8 @@
+drwxr-xr-x   4 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x   5 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         10646 Oct 23  2014 Config_File.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         54170 Oct 23  2014 Smarty.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         77407 Oct 23  2014 Smarty_Compiler.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          3311 Oct 23  2014 debug.tpl
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 internals
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 plugins

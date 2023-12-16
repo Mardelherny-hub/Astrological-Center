@@ -1,0 +1,6 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx  11 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         21502 Apr  7  2018 bootstrap.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         34191 Apr  7  2018 wfWAFGeoIP.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         18549 Apr  7  2018 wfWAFIPBlocksController.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7716 Apr  7  2018 wfWAFUserIPRange.php

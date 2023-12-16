@@ -1,0 +1,17 @@
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 .
+drwxrwxrwx  15 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1072 Nov 23  2019 3rd-party.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1621 Nov 23  2019 bbpress.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           485 Nov 23  2019 beaverbuilder.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           924 Nov 23  2019 bitly.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           180 Nov 23  2019 buddypress.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3347 Nov 23  2019 class.jetpack-modules-overrides.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 debug-bar
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           663 Nov 23  2019 debug-bar.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3254 Nov 23  2019 domain-mapping.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           156 Nov 23  2019 polldaddy.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           553 Nov 23  2019 qtranslate-x.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1382 Nov 23  2019 vaultpress.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3215 Nov 23  2019 woocommerce-services.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2136 Nov 23  2019 woocommerce.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1781 Nov 23  2019 wpml.php

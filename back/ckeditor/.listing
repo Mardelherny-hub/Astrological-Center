@@ -1,0 +1,16 @@
+drwxr-xr-x   7 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x  12 mgrtn@centroastrologico.com.ar 505          4096 Oct 20  2015 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         44082 Oct 23  2014 CHANGES.md
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         68193 Oct 23  2014 LICENSE.md
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1344 Oct 23  2014 README.md
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 adapters
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505            69 Oct 23  2014 auxiliar.css
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          2744 Oct 23  2014 build-config.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505        508072 Oct 23  2014 ckeditor.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           446 Oct 23  2014 config.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1727 Oct 23  2014 contents.css
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 lang
+drwxr-xr-x  28 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 plugins
+drwxr-xr-x   4 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 samples
+drwxr-xr-x   3 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 skins
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          3483 Oct 23  2014 styles.js

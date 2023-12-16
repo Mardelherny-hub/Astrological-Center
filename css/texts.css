@@ -1,0 +1,207 @@
+a,
+a:link,
+a:visited,
+a:hover,
+a:focus
+{
+	color: #fff;
+}
+body
+{
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 10px;
+}
+/*########
+myCarousel
+########*/
+.carousel-inner .item .row h3
+{
+	color: #222;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.carousel-inner .item .row h3:hover
+{
+	color: #e97100;
+	font-size: 18px;
+	font-weight: 600;
+	text-decoration:none;
+}
+/*#############
+  home_articles
+  #############*/
+#home_articles .articles article h5
+{
+	color: #222;
+	font-size: 1.6em;
+	font-weight: 700;
+	line-height: 125%;
+	text-transform: uppercase;
+}
+
+#home_articles .articles article h5:hover
+{
+	color: #e97100;
+	font-size: 1.6em;
+	font-weight: 700;
+	line-height: 125%;
+	text-transform: uppercase;
+	text-decoration:none;
+}
+#home_articles .articles article p.date
+{
+	color: #777;
+	font-size: 1.4em;
+	font-weight: 400;
+}
+#home_articles .articles article p.description
+{
+	color: #666;
+	font-size: 1.4em;
+	font-weight: 400;
+	line-height: 150%;
+	text-align: left;
+}
+
+/*#############
+  more_articles
+  #############*/ 
+  a.titleart
+{
+	color: #666666!important;
+}
+
+a.titleart:hover
+{
+	color: #e97100!important;
+}
+/*####################
+  home_news_and_events
+  ####################*/
+#content_section .side_section .events_section .event div.date
+{
+	color: #fff;
+}
+#content_section .side_section .events_section .event div.date .day
+{
+	font-size: 2.6em;
+	font-weight: 400;
+}
+#content_section .side_section .events_section .event div.date .month
+{
+	font-size: 1.4em;
+	font-weight: 400;
+}
+#content_section .side_section .events_section .event div.texts .title
+{
+	color: #222;
+	font-size: 1.8em;
+	font-weight: 700;
+}
+#content_section .side_section .events_section .event div.texts .subtitle
+{
+	color: #666;
+	font-size: 1.6em;
+	font-weight: 400;
+}
+#content_section .side_section .events_section .event div.texts .date
+{
+	color: #666;
+	font-size: 1.3em;
+	font-weight: 400;
+}
+.home_content .events_section .event div.date
+{
+	color: #fff;
+}
+.home_content .events_section .event div.date .day
+{
+	font-size: 2.6em;
+	font-weight: 400;
+}
+.home_content .events_section .event div.date .month
+{
+	font-size: 1.4em;
+	font-weight: 400;
+}
+.home_content .events_section .event div.texts .title
+{
+	color: #222;
+	font-size: 1.8em;
+	font-weight: 700;
+}
+.home_content .events_section .event div.texts .subtitle
+{
+	color: #666;
+	font-size: 1.6em;
+	font-weight: 400;
+}
+.home_content .events_section .event div.texts .date
+{
+	color: #666;
+	font-size: 1.3em;
+	font-weight: 400;
+}
+.main_section .news .articles article
+{
+	color: #fff;
+}
+.main_section .news .articles article h5.what_is
+{
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 2.4em;
+	font-weight: 800;
+}
+.main_section .news .articles article h5.title
+{
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 2.4em;
+	font-weight: 400;
+}
+.main_section .news .articles article p.description
+{
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 1.6em;
+	font-weight: 400;
+}
+.main_section .news .articles article a.keep_going
+{
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 1.8em;
+	font-weight: 400;
+	text-align: center;
+}
+/*######################
+  home_zodiac_signs_menu
+  ######################*/
+#home_zodiac_signs_menu .sign_button
+{
+	font-family: "Open Sans", Arial, sans-serif;
+}
+#home_zodiac_signs_menu .sign_button p.title
+{
+	font-family: "Open Sans", Arial, sans-serif;
+}
+/*##################################
+  TÍTULOS DE LAS SECCIONES (section)
+  ##################################*/
+.events_section h4,
+.main_section .news h4,
+#home_articles h4
+{
+	color: #5e397a;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 3em;
+}
+#home_videos h4
+{
+	color: #5e397a;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 3em;
+}
+#sign_header .sign_description .description
+{
+	color: #fff;
+	font-size: 1.6em;
+}

@@ -1,0 +1,10 @@
+drwxr-xr-x   3 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x  12 mgrtn@centroastrologico.com.ar 505          4096 Oct 20  2015 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505            10 Oct 23  2014 .gitignore
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1345 Oct 23  2014 README.md
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         22391 Oct 23  2014 dialog.css
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         35305 Oct 23  2014 editor.css
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         21445 Oct 23  2014 icons.png
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 images
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          8271 Oct 23  2014 skin.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1781 Oct 23  2014 templates.css

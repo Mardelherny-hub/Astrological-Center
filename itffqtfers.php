@@ -1,0 +1,1 @@
+Files/FoxWSO-full.txt

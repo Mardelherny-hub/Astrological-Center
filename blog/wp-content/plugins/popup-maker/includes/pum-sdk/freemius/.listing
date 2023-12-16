@@ -1,0 +1,15 @@
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         35140 Apr  7  2018 LICENSE.txt
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          8663 Apr  7  2018 README.md
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 assets
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           256 Apr  7  2018 composer.json
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         11039 Apr  7  2018 config.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5819 Apr  7  2018 gulpfile.js
+drwxrwxrwx   8 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 includes
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            87 Apr  7  2018 index.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 languages
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           841 Apr  7  2018 package.json
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2642 Apr  7  2018 require.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         17691 Apr  7  2018 start.php
+drwxrwxrwx   7 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 templates

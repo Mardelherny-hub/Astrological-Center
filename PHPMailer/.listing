@@ -1,0 +1,11 @@
+drwxr-xr-x   4 mgrtn@centroastrologico.com.ar 505          4096 Aug  4  2019 .
+drwx--x---  20 mgrtn@centroastrologico.com.ar 501          4096 Nov 27 18:36 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          2092 Aug  4  2019 COMMITMENT
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         26529 Aug  4  2019 LICENSE
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         16398 Aug  4  2019 README.md
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          4590 Aug  4  2019 SECURITY.md
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505             5 Aug  4  2019 VERSION
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1748 Aug  4  2019 composer.json
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          4866 Aug  4  2019 get_oauth_token.php
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Aug  4  2019 language
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Aug  4  2019 src

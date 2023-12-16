@@ -1,0 +1,11 @@
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1583 Apr  7  2018 _colors.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505             0 Apr  7  2018 _functions.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            73 Apr  7  2018 _load.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9259 Apr  7  2018 _mixins.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            72 Apr  7  2018 _start.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           168 Apr  7  2018 _vars.scss
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 admin
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2707 Apr  7  2018 customizer.scss
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            87 Apr  7  2018 index.php

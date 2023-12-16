@@ -1,0 +1,13 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx  12 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           610 Apr  7  2018 global-status.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7535 Apr  7  2018 option-howgetips.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6420 Apr  7  2018 options-group-alert.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4496 Apr  7  2018 options-group-dashboard.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2752 Apr  7  2018 options-group-email-summary.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6854 Apr  7  2018 options-group-general.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          8106 Apr  7  2018 options-group-import.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          8289 Apr  7  2018 options-group-license.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2256 Apr  7  2018 options-group-view-customization.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2931 Apr  7  2018 status-payment-expiring.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2443 Apr  7  2018 status-renewing.php

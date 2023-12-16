@@ -1,0 +1,16 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 .
+drwxrwxrwx   8 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         62421 Mar 27  2018 FrmAppHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         11904 Mar 27  2018 FrmCSVExportHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           735 Mar 27  2018 FrmEmailHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         18576 Mar 27  2018 FrmEntriesHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          8336 Mar 27  2018 FrmEntriesListHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         50040 Mar 27  2018 FrmFieldsHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           589 Mar 27  2018 FrmFormActionsHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         31269 Mar 27  2018 FrmFormsHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         11876 Mar 27  2018 FrmFormsListHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         29814 Mar 27  2018 FrmListHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2079 Mar 27  2018 FrmShortcodeHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         12809 Mar 27  2018 FrmStylesHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7043 Mar 27  2018 FrmTipsHelper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         44300 Mar 27  2018 FrmXMLHelper.php

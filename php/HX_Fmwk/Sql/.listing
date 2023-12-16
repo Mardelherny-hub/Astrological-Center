@@ -1,0 +1,8 @@
+drwxr-xr-x   3 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x   8 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           840 Oct 23  2014 Autonum.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          2342 Oct 23  2014 Conexion.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           582 Oct 23  2014 IConnection.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1108 Oct 23  2014 IRecordset.class.php
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 MySql
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           380 Oct 23  2014 SQLExceptionCode.class.php

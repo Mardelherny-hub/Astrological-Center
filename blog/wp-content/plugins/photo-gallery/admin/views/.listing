@@ -1,0 +1,16 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   5 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4336 Apr  7  2018 AddTags.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         12478 Apr  7  2018 AdminView.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         17901 Apr  7  2018 Albums.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6023 Apr  7  2018 Albumsgalleries.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         46306 Apr  7  2018 Editimage.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         49082 Apr  7  2018 Galleries.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3621 Apr  7  2018 Licensing.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505        343674 Apr  7  2018 Options.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505        383834 Apr  7  2018 Shortcode.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505        302325 Apr  7  2018 Themes.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4708 Apr  7  2018 Uninstall.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         10541 Apr  7  2018 Widget.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9645 Apr  7  2018 WidgetSlideshow.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9965 Apr  7  2018 WidgetTags.php

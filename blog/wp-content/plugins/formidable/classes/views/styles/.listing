@@ -1,0 +1,16 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 .
+drwxrwxrwx  11 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9410 Mar 27  2018 _buttons.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2301 Mar 27  2018 _check-box-radio-fields.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9279 Mar 27  2018 _field-colors.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2661 Mar 27  2018 _field-description.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3679 Mar 27  2018 _field-labels.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2875 Mar 27  2018 _field-sizes.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1367 Mar 27  2018 _form-description.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3830 Mar 27  2018 _form-messages.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1319 Mar 27  2018 _form-title.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4213 Mar 27  2018 _general.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4563 Mar 27  2018 _sample_form.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2014 Mar 27  2018 custom_css.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2680 Mar 27  2018 manage.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4623 Mar 27  2018 show.php

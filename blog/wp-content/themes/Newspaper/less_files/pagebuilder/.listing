@@ -1,0 +1,15 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 .
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7156 Sep 10  2015 blocks.less
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 included
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 included_front_css_incomplete
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         14089 Sep 10  2015 modules.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6169 Sep 10  2015 td_ads.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1345 Sep 10  2015 td_authors.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           170 Sep 10  2015 td_definition_list.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5648 Sep 10  2015 td_gallery.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           163 Sep 10  2015 td_revolution_slider.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9405 Sep 10  2015 td_slide.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5584 Sep 10  2015 td_slide_big.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         12738 Sep 10  2015 td_social.less
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           190 Sep 10  2015 td_text_with_title.less

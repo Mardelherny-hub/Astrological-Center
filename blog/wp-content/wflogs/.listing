@@ -1,0 +1,8 @@
+drwxrwxr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Dec 12 11:10 .
+drwxrwxrwx   9 mgrtn@centroastrologico.com.ar 505          4096 Nov 21 22:29 ..
+-rw-rw-r--   1 mgrtn@centroastrologico.com.ar 505           133 Sep  7  2016 .htaccess
+-rw-rw----   1 mgrtn@centroastrologico.com.ar 505         40083 Nov 24 22:53 attack-data.php
+-rw-rw----   1 mgrtn@centroastrologico.com.ar 505       1284004 Dec 12 11:10 config.php
+-rw-rw----   1 mgrtn@centroastrologico.com.ar 505            51 Dec 12 11:10 ips.php
+-rw-rw-r--   1 mgrtn@centroastrologico.com.ar 505        350894 Dec  9 12:30 rules.php
+-rw-rw----   1 mgrtn@centroastrologico.com.ar 505        147944 Dec  9 12:30 wafRules.rules

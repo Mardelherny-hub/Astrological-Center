@@ -1,0 +1,15 @@
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   8 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6893 Apr  7  2018 PopupInstaller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3640 Apr  7  2018 SGFblikePopup.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2308 Apr  7  2018 SGHtmlPopup.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1396 Apr  7  2018 SGImagePopup.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6885 Apr  7  2018 SGPBExtension.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5597 Apr  7  2018 SGPBExtensionManager.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4939 Apr  7  2018 SGPBExtensionsConnector.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         13206 Apr  7  2018 SGPopup.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2640 Apr  7  2018 SGPopupBuilderMain.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1498 Apr  7  2018 SGShortcodePopup.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           550 Apr  7  2018 SgRegistry.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505             0 Apr  7  2018 index.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 sgDataTable

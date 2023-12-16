@@ -1,0 +1,6 @@
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x   4 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           949 Oct 23  2014 SectionManagerModel.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           102 Oct 23  2014 appModel.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           231 Oct 23  2014 hashModel.js
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           599 Oct 23  2014 sectionModel.js

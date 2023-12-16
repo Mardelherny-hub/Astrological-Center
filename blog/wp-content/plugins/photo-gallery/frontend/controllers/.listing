@@ -1,0 +1,16 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   5 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           635 Apr  7  2018 BWGControllerAlbum_compact_preview.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1126 Apr  7  2018 BWGControllerAlbum_extended_preview.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           635 Apr  7  2018 BWGControllerAlbum_masonry_preview.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2763 Apr  7  2018 BWGControllerBlog_style.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2752 Apr  7  2018 BWGControllerCarousel.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           286 Apr  7  2018 BWGControllerDownload_gallery.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4371 Apr  7  2018 BWGControllerGalleryBox.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           595 Apr  7  2018 BWGControllerImage_browser.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2593 Apr  7  2018 BWGControllerShare.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           574 Apr  7  2018 BWGControllerSlideshow.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           576 Apr  7  2018 BWGControllerThumbnails.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           621 Apr  7  2018 BWGControllerThumbnails_masonry.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           615 Apr  7  2018 BWGControllerThumbnails_mosaic.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           557 Apr  7  2018 BWGControllerWidget.php

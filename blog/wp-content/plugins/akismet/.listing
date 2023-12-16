@@ -1,0 +1,15 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 .
+drwxrwxrwx  33 mgrtn@centroastrologico.com.ar 505          4096 Dec 11 22:30 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           629 Mar 27  2018 .htaccess
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         18092 Mar 27  2018 LICENSE.txt
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 _inc
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2543 Mar 27  2018 akismet.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         43985 Mar 27  2018 class.akismet-admin.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2712 Mar 27  2018 class.akismet-cli.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7939 Mar 27  2018 class.akismet-rest-api.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2856 Mar 27  2018 class.akismet-widget.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         53240 Mar 27  2018 class.akismet.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            26 Mar 27  2018 index.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         17611 Mar 27  2018 readme.txt
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 views
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6437 Mar 27  2018 wrapper.php

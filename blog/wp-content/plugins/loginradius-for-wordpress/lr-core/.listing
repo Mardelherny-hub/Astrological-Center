@@ -1,0 +1,9 @@
+drwxrwxrwx   7 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 .
+drwxrwxrwx   5 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 ..
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 admin
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 assets
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 includes
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 js
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Sep  7  2016 lib
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          8670 Sep  7  2016 lr-core.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            52 Sep  7  2016 module.config

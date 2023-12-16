@@ -1,0 +1,13 @@
+drwxr-xr-x   8 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x   4 mgrtn@centroastrologico.com.ar 505          4096 Nov 24  2016 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505            35 Oct 23  2014 .htaccess
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 Controller
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 Core
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 Functions
+drwxr-xr-x   3 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 Sql
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 System
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           273 Oct 23  2014 config.xml
+drwxr-xr-x   5 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 libs
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           580 Oct 23  2014 load.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           251 Oct 23  2014 load.xml
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           211 Oct 23  2014 namespaces.xml

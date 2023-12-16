@@ -1,0 +1,11 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 .
+drwxrwxrwx  33 mgrtn@centroastrologico.com.ar 505          4096 Dec 11 22:30 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           395 Mar 27  2018 .gitattributes
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           617 Mar 27  2018 .gitignore
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           945 Mar 27  2018 anti-spam-functions.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2827 Mar 27  2018 anti-spam-info.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9111 Mar 27  2018 anti-spam.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            28 Mar 27  2018 index.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 js
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 log
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         10094 Mar 27  2018 readme.txt

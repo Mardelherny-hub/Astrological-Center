@@ -1,0 +1,13 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 .
+drwxrwxrwx   8 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 ..
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 access
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         28226 Feb  5  2017 class-vc-base.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5052 Feb  5  2017 class-vc-mapper.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1123 Feb  5  2017 class-vc-page.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1280 Feb  5  2017 class-vc-pages-group.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3372 Feb  5  2017 class-vc-post-admin.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          8263 Feb  5  2017 class-vc-shared-library.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1811 Feb  5  2017 class-vc-sort.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         19949 Feb  5  2017 class-wpb-map.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           535 Feb  5  2017 interfaces.php
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 shared-templates

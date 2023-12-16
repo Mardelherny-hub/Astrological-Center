@@ -1,0 +1,13 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2043 Apr  7  2018 config.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9506 Apr  7  2018 http.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         30863 Apr  7  2018 json.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 parser
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         25185 Apr  7  2018 request.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         39010 Apr  7  2018 rules.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 storage
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1564 Apr  7  2018 storage.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         24220 Apr  7  2018 utils.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2175 Apr  7  2018 view.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         57366 Apr  7  2018 waf.php

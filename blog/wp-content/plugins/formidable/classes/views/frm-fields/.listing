@@ -1,0 +1,9 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 .
+drwxrwxrwx  11 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 ..
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 back-end
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Mar 27  2018 front-end
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1848 Mar 27  2018 import_choices.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           270 Mar 27  2018 input.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           147 Mar 27  2018 radio.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           201 Mar 27  2018 show-build.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1696 Mar 27  2018 single-option.php

@@ -1,0 +1,16 @@
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x   8 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           246 Oct 23  2014 FWException.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           164 Oct 23  2014 FWExceptionCode.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1120 Oct 23  2014 FWObject.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          2643 Oct 23  2014 Fecha.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505            86 Oct 23  2014 ISerializable.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          2290 Oct 23  2014 JScript.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1196 Oct 23  2014 Mail.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           352 Oct 23  2014 Object.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          3131 Oct 23  2014 Paginado.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           259 Oct 23  2014 SerializableMode.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           889 Oct 23  2014 Server.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505           562 Oct 23  2014 Session.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          2303 Oct 23  2014 Template.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1276 Oct 23  2014 XMLParser.class.php

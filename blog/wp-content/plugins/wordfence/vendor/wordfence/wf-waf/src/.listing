@@ -1,0 +1,9 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1434 Apr  7  2018 bootstrap-sample.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505        261889 Apr  7  2018 cacert.pem
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           450 Apr  7  2018 falsepositive.key
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1004 Apr  7  2018 init.php
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 lib
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           450 Apr  7  2018 rules.key
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 views

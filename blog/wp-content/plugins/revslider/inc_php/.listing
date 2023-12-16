@@ -1,0 +1,13 @@
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 .
+drwxrwxrwx  13 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 ..
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Sep 10  2015 framework
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505             0 Sep 10  2015 index.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1655 Sep 10  2015 revslider_globals.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         39848 Sep 10  2015 revslider_operations.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         59593 Sep 10  2015 revslider_output.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1137 Sep 10  2015 revslider_params.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         11691 Sep 10  2015 revslider_settings_product.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         29039 Sep 10  2015 revslider_slide.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         50484 Sep 10  2015 revslider_slider.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1431 Sep 10  2015 revslider_tinybox.class.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3972 Sep 10  2015 revslider_widget.class.php

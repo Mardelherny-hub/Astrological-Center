@@ -1,0 +1,6 @@
+drwxr-xr-x   2 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 .
+drwxr-xr-x   5 mgrtn@centroastrologico.com.ar 505          4096 Oct 23  2014 ..
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505        112859 Oct 23  2014 PHPMailer.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505          1649 Oct 23  2014 PHPMailerAutoload.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         11141 Oct 23  2014 POP3.class.php
+-rw-r--r--   1 mgrtn@centroastrologico.com.ar 505         28988 Oct 23  2014 class.smtp.php

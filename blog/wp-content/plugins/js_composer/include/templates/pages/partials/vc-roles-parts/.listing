@@ -1,0 +1,12 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 .
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Feb  5  2017 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           764 Feb  5  2017 _backend_editor.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           629 Feb  5  2017 _frontend_editor.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           636 Feb  5  2017 _grid_builder.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          7146 Feb  5  2017 _part.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           643 Feb  5  2017 _post_settings.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           824 Feb  5  2017 _post_types.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           748 Feb  5  2017 _presets.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           911 Feb  5  2017 _settings.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1213 Feb  5  2017 _shortcodes.tpl.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           728 Feb  5  2017 _templates.tpl.php

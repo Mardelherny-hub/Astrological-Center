@@ -1,0 +1,13 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Dec  9  2016 .
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Dec  9  2016 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         25828 Aug  2  2018 class-wp-rest-attachments-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         54479 Aug  2  2018 class-wp-rest-comments-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         19147 Aug  2  2018 class-wp-rest-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9556 Aug  2  2018 class-wp-rest-post-statuses-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          9803 Aug  2  2018 class-wp-rest-post-types-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         79191 Dec 13  2019 class-wp-rest-posts-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         16976 Aug  2  2018 class-wp-rest-revisions-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         10155 Mar 27  2018 class-wp-rest-settings-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         10974 Aug  2  2018 class-wp-rest-taxonomies-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         30642 Dec 13  2018 class-wp-rest-terms-controller.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         44353 Aug  2  2018 class-wp-rest-users-controller.php

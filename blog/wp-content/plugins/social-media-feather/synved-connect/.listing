@@ -1,0 +1,11 @@
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Jul 17  2017 .
+drwxrwxrwx   6 mgrtn@centroastrologico.com.ar 505          4096 Jul 17  2017 ..
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Jul 17  2017 image
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Jul 17  2017 style
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505            10 Jul 17  2017 synved-connect-addon.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           501 Jul 17  2017 synved-connect-component.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1302 Jul 17  2017 synved-connect-credit.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2022 Jul 17  2017 synved-connect-key.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          6855 Jul 17  2017 synved-connect-sponsor.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3494 Jul 17  2017 synved-connect-support.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          4602 Jul 17  2017 synved-connect.php

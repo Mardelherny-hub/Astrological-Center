@@ -1,0 +1,6 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 .
+drwxrwxrwx   7 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         57711 Nov 23  2019 class.jetpack-core-api-module-endpoints.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1876 Nov 23  2019 class.jetpack-core-api-site-endpoints.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1396 Nov 23  2019 class.jetpack-core-api-widgets-endpoints.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           773 Nov 23  2019 class.jetpack-core-api-xmlrpc-consumer-endpoint.php

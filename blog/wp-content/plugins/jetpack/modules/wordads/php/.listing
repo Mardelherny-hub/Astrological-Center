@@ -1,0 +1,8 @@
+drwxrwxrwx   3 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 .
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1092 Nov 23  2019 admin.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          2512 Nov 23  2019 api.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           825 Nov 23  2019 cron.php
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 networks
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          5429 Nov 23  2019 params.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3166 Nov 23  2019 widgets.php

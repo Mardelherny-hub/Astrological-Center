@@ -1,0 +1,5 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 .
+drwxrwxrwx  15 mgrtn@centroastrologico.com.ar 505          4096 Nov 23  2019 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1876 Nov 23  2019 partner-cancel.sh
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          3836 Nov 23  2019 partner-provision.sh
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           513 Nov 23  2019 travis_install.sh

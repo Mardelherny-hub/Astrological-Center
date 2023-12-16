@@ -1,0 +1,7 @@
+drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Dec  9  2016 .
+drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Dec  9  2016 ..
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           893 Aug  2  2018 class-wp-rest-comment-meta-fields.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         13649 Aug  2  2018 class-wp-rest-meta-fields.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1248 Aug  2  2018 class-wp-rest-post-meta-fields.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1245 Aug  2  2018 class-wp-rest-term-meta-fields.php
+-rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           860 Aug  2  2018 class-wp-rest-user-meta-fields.php
