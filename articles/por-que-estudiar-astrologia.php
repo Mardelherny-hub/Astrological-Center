@@ -1,111 +1,110 @@
-<h2 class="title">&iquest;Por qué estudiar Astrología?</h2>
-<h4 class="subtitle">15 RAZONES para estudiar Astrolog&iacute;a</h4>
+<h2 class="title">Why Study Astrology?</h2>
+<h4 class="subtitle">15 REASONS to Study Astrology</h4>
 <div class="social_networks"></div>
 <img class="article_image" src="img/articles_miniatures/por-que-estudiar-astrologia.jpg"></img>
 <?php include('social-networks.php'); ?>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num1.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	La Astrología, a través de la Carta Natal, nos revela <strong>tendencias y pautas</strong> de la personalidad de un modo claro y preciso. Nos permite observarnos a nosotros mismos y a otros individuos desde una <strong>visión holística</strong>, con mayor <strong>desapego y objetividad</strong>.
-	</p>
+    <img class="number" src="img/num1.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Astrology, through the Natal Chart, reveals <strong>tendencies and patterns</strong> of personality in a clear and precise way. It allows us to observe ourselves and others from a <strong>holistic perspective</strong>, with greater <strong>detachment and objectivity</strong>.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num2.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Al aprender Astrología compruebo que todo está sujeto a un <strong>ritmo cíclico</strong>. Así como en la naturaleza existe una periodicidad establecida a través de la sucesión de las estaciones, el día y la noche, los ciclos de la luna, las migraciones de las aves, etc. También en nuestra vida existen Períodos o ciclos de marcadas tendencias: <strong>Ciclos de Expansión, Retracción, Actividad y Pasividad</strong>. Conocer estos ciclos me permitirá saber en <strong>qué etapa o aprendizaje me encuentro</strong>, cuánto durará este ciclo, y más aún, cómo extraer lo mejor de esa experiencia.
-	</p>
+    <img class="number" src="img/num2.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Learning Astrology shows me that everything is subject to a <strong>cyclical rhythm</strong>. Just as in nature there is an established periodicity through the succession of seasons, day and night, lunar cycles, bird migrations, etc. In our lives, there are also Periods or cycles with marked tendencies: <strong>Cycles of Expansion, Contraction, Activity, and Passivity</strong>. Knowing these cycles will allow me to understand <strong>which stage or learning phase I am in</strong>, how long this cycle will last, and even more, how to extract the best from that experience.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num3.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Estudiar Astrología me ayuda a reconciliarme con mis experiencias: <strong>Pasado, Presente y Futuro</strong>. Es mucho más fácil permanecer en el presente con aceptación <strong>paciente y creativa</strong> del <strong>aquí y ahora</strong>, con el <strong>conocimiento</strong> de que la fase llegará a su fin y que forma parte de un <strong>proceso mayor</strong>.
-	</p>
+    <img class="number" src="img/num3.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Studying Astrology helps me reconcile with my experiences: <strong>Past, Present, and Future</strong>. It is much easier to remain in the present with a <strong>patient and creative acceptance</strong> of the <strong>here and now</strong>, with the <strong>knowledge</strong> that the phase will come to an end and is part of a <strong>larger process</strong>.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num4.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	La Astrología indica aquello en lo que debe trabajarse, el <strong>significado esencial</strong> de una <strong>experiencia</strong> o <strong>fase particular</strong> de la vida, a qué <strong>pautas interiores</strong> habrá que adecuarse y un modo exacto de regular y favorecer <strong>cambios cruciales</strong> de la vida.
-	</p>
+    <img class="number" src="img/num4.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Astrology indicates what needs to be worked on, the <strong>essential meaning</strong> of an <strong>experience</strong> or <strong>particular phase</strong> of life, the <strong>inner patterns</strong> to adapt to, and an exact way to regulate and promote <strong>crucial life changes</strong>.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num5.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Al estudiar la relación entre los seres humanos y el resto del Universo, provee una <strong>visión del ser humano como parte integrante de un organismo mayor</strong>, ampliando el significado a nuestra existencia.
-	</p>
+    <img class="number" src="img/num5.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Studying the relationship between humans and the rest of the Universe provides a <strong>vision of humans as an integral part of a larger organism</strong>, expanding the meaning of our existence.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num6.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Brindar un <strong>significado</strong> a las situaciones de nuestra vida no es de menor importancia. <i>Carl G. Jung</i>, Psicólogo suizo, quien también fue astrólogo, dice: <i>“El Hombre está preparado para afrontar cualquier situación, incluso la más adversa, siempre y cuando comprenda cuál es el Sentido de lo que le sucede”</i>.
-	</p>
+    <img class="number" src="img/num6.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Giving <strong>meaning</strong> to situations in our lives is not of minor importance. Swiss Psychologist <i>Carl G. Jung</i>, who was also an astrologer, said: <i>"Man is ready to face any situation, even the most adverse, as long as he understands the meaning of what is happening to him."</i>
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num7.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	La Astrología contextualiza al ser humano y nos da la posibilidad de observar el Universo en todo su <strong>potencial creativo</strong>. Como ya lo han afirmado los más avanzados descubrimientos científicos de la <strong>Física Cuántica</strong>, el Universo no es un ente mecánico, carente de vida y movido sólo por fuerzas ciegas, lo cual lo haría no ser otra cosa que una máquina. Sino que el <strong>Cosmos</strong> se encuentra rebosante de energía, fuerzas en movimiento, y su funcionamiento se asimila mucho más al de un <strong>gran Organismo inteligente</strong> que al de una máquina autómata.
-	</p>
+    <img class="number" src="img/num7.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Astrology contextualizes the human being and allows us to observe the Universe in all its <strong>creative potential</strong>. As advanced scientific discoveries in <strong>Quantum Physics</strong> have already affirmed, the Universe is not a mechanical entity devoid of life and moved only by blind forces, which would make it nothing more than a machine. Instead, the <strong>Cosmos</strong> is overflowing with energy, moving forces, and its functioning is much more akin to that of a <strong>great intelligent Organism</strong> than that of an automaton.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num8.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	La Astrología permite que la persona elija el tipo de actividad en la que sus <strong>energías vitales</strong> fluyan con mayor comodidad y satisfacción.
-	</p>
+    <img class="number" src="img/num8.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Astrology allows individuals to choose the type of activity where their <strong>vital energies</strong> flow with greater ease and satisfaction.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num9.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	A través de la Astrología, vas a poder responder preguntas tales como: ¿Cuál es mi verdadera <strong>Vocación</strong>? ¿Qué <strong>necesito</strong> para sentirme contento y satisfecho conmigo mismo? ¿Qué busco a la hora de entablar un <strong>vínculo</strong>?
-	</p>
+    <img class="number" src="img/num9.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Through Astrology, you will be able to answer questions such as: What is my true <strong>Vocation</strong>? What do I <strong>need</strong> to feel content and satisfied with myself? What am I looking for when forming a <strong>relationship</strong>?
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num10.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Conocer la Carta Natal nos puede ayudar a ganar más <strong>confianza</strong> en <i>nosotros mismos</i>, confirmando las <strong>intuiciones, los sentimientos o pensamientos</strong> que tal vez por una u otra razón hayamos temido expresar o postergado.
-	</p>
+    <img class="number" src="img/num10.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Knowing the Natal Chart can help us gain more <strong>confidence</strong> in <i>ourselves</i>, confirming <strong>intuitions, feelings, or thoughts</strong> that we may have feared expressing or postponed for one reason or another.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num11.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Más que la a menudo voceada crítica de la Astrología, que dice que uno se vuelve más débil dependiendo de fuerzas que están fuera del yo, el apropiado uso de la Astrología podrá ayudar a desarrollar más <strong>fortaleza y confianza interior</strong>. Con frecuencia una persona siente que tiene aptitudes especiales en cierta área, profesión, etc., pero debido a la falta de <strong>seguridad interior y determinación</strong> para realizar sus <i>anhelos más profundos</i> termina frustrando su deseo, dejándolo reprimido y a merced de factores externos al yo, que en definitiva son los que terminan prevaleciendo.
-	</p>
+    <img class="number" src="img/num11.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        More than the often-voiced criticism of Astrology, which claims that one becomes weaker by depending on forces outside the self, the proper use of Astrology can help develop more <strong>inner strength and confidence</strong>. Often, a person feels they have special abilities in a certain area, profession, etc., but due to a lack of <strong>inner security and determination</strong> to fulfill their <i>deepest desires</i>, they end up frustrating their desire, leaving it repressed and at the mercy of external factors, which ultimately prevail.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num12.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	La Astrología es un <strong>lenguaje de la energía</strong>. Está comprobado desde distintos campos de la ciencia que las <strong>influencias</strong> que ejercen los <strong>Planetas</strong> sobre nosotros, nuestro clima y el movimiento de las mareas son más que contundentes.  
-	</p>
+    <img class="number" src="img/num12.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Astrology is a <strong>language of energy</strong>. It is proven from various fields of science that the <strong>influences</strong> exerted by the <strong>Planets</strong> on us, our climate, and the movement of tides are more than compelling.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num13.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	La Luna, satélite de la Tierra, <strong>regula</strong> el <i>movimiento</i> de subida y bajada de las mareas. Así como influencia al mar, también influencia los líquidos de nuestro cuerpo (un adulto promedio está constituido en un <i>65% de agua</i>).
-	</p>
+    <img class="number" src="img/num13.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        The Moon, Earth's satellite, <strong>regulates</strong> the <i>movement</i> of the ebb and flow of tides. Just as it influences the sea, it also influences the fluids in our bodies (the average adult is made up of <i>65% water</i>).
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num14.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	Las <strong>grandes culturas y civilizaciones</strong> que conocemos hoy día han tenido su sistema de astrología y <strong>mantenían un sentimiento de unidad con el medio ambiente cósmico</strong>. Entre ellos encontramos a los <i>Mayas, Asirios-Caldeos; Egipcios; Hindúes; Griegos</i>; etc.
-	</p>
+    <img class="number" src="img/num14.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        The <strong>great cultures and civilizations</strong> we know today had their astrology systems and maintained a sense of unity with the cosmic environment. Among them are the <i>Mayans, Assyrians-Chaldeans; Egyptians; Hindus; Greeks</i>; etc.
+    </p>
 </div>
 
 <div style="display: table; margin: 2em 0px;">
-	<img class="number" src="img/num15.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
-	<p style="display:table-cell; vertical-align: top;">
-	El famoso Astrónomo <i>Johannes Kepler</i> nos dice que deseaba vigorosamente no creer en la eficacia de la Astrología, pero que luego de estudiarla dejó escrito:<strong> "La concurrencia infalible de las configuraciones estelares y acontecimientos sublunares hizo que revirtiera mi posición al respecto".</strong> Otros célebres astrólogos y a la vez científicos fueron: <i> Francis Bacon, Tycho Brache, Giordano Bruno, Edmond Halley</i>  (descubridor del cometa que llevó su nombre) e <i> Isaac Newton</i> . En el área de la Psicología: <i> Carl Gustav Jung</i>. Otros personajes famosos que han proclamado públicamente la astrología y su estudio son: <i> Benjamín Franklin, Xul Solar </i> (artista plástico y astrólogo), y <i> Julio Cortázar </i> (escritor y aficionado a la astrología) entre otros.
-
-	</p>
+    <img class="number" src="img/num15.png" style="display:table-cell; padding-top: 5px; vertical-align: top;">
+    <p style="display:table-cell; vertical-align: top;">
+        Famous Astronomer <i>Johannes Kepler</i> tells us that he strongly wished not to believe in the efficacy of Astrology, but after studying it, he wrote: <strong>"The infallible concurrence of stellar configurations and sublunary events made me reverse my position."</strong> Other famous astrologers and scientists include: <i>Francis Bacon, Tycho Brache, Giordano Bruno, Edmond Halley</i> (discoverer of Halley's Comet), and <i>Isaac Newton</i>. In the field of Psychology: <i>Carl Gustav Jung</i>. Other famous figures who have publicly endorsed astrology and its study include: <i>Benjamin Franklin, Xul Solar</i> (visual artist and astrologer), and <i>Julio Cortázar</i> (writer and astrology enthusiast), among others.
+    </p>
 </div>

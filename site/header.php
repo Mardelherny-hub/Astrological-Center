@@ -83,7 +83,7 @@
                         <li><a href="/article.php?article=que-son-los-transitos">What are transits?</a></li>
                         <li><a href="/article.php?article=compatibilidad-de-relacion-o-sinastrias">Compatibility / Synastry</a></li>
                         <li><a href="/article.php?article=la-astrologia-y-la-salud">Astrology and health</a></li>
-                        <li><a href="http://centroastrologico.com.ar/articles.php">&raquo; More articles...</a></li>
+                        <li><a href="/articles.php">&raquo; More articles...</a></li>
                     </ul>
                 </li>
 

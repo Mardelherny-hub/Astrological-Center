@@ -1,0 +1,23 @@
+# Ignorar archivos temporales
+*.tmp
+*.log
+
+
+# Ignorar archivos compilados
+*.class
+*.jar
+
+# Ignorar directorios específicos
+/target/
+/node_modules/
+/.vscode/
+/__clean
+/.well-know
+/cgi-bin
+/services
+/well-know
+/wp-admin
+/wp-content
+/
+
+#ignorar otros archivos

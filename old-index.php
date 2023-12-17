@@ -1,2 +1,0 @@
-<?php
- //wp-blog-header?>

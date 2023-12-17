@@ -1,77 +1,75 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
+
 <head>
-	<?php include('site/head.php'); ?>
+    <?php include('site/head.php'); ?>
 </head>
+
 <body>
 
-<!-- "Container" que contiene todo el contenido (header, footer incluídos) al cual se le define el ancho máximo que puede tener el sitio. -->
-<div id="container">
+    <!-- "Container" que contiene todo el contenido (header, footer incluídos) al cual se le define el ancho máximo que puede tener el sitio. -->
+    <div id="container">
 
-    <!-- Header del home. -->
-    <?php include('site/header.php'); ?>
+        <!-- Header del home. -->
+        <?php include('site/header.php'); ?>
 
-    <section id="content_section"><!-- Sección de contenido > comienzo -->
-    
-        <h4 class="subsection_title" style="margin-top: 0.3em;">CONSULTOR&Iacute;A ASTROL&Oacute;GICA</h4>
-        
-        
+        <section id="content_section"><!-- Sección de contenido > comienzo -->
 
-        <section class="consultory">
+            <h4 class="subsection_title" style="margin-top: 0.5em; padding-bottom: 0.5em;">ASTROLOGICAL CONSULTATION</h4>
 
-            <section class="info">
-                <h5 class="title">&iquest;Qu&eacute; es la Carta Natal&quest;</h5>
+            <section class="consultory">
 
-                <p>Es común que en algún momento de nuestra vida nos preguntemos: ¿Por qué esto me sucede a mí? ¿Cuál es la finalidad de determinada experiencia? O bien, ¿Cuál es mi Vocación?</p>
+                <section class="info">
+                    <h5 class="title">What is the Natal Chart?</h5>
 
-                <p>La <strong>Carta Natal</strong> permite responder estos y más interrogantes. Comprendiendo los <strong>patrones y mecanismos inconscientes</strong> que gobiernan nuestra personalidad y hallando posibles salidas a los conflictos personales.</p>
+                    <p>It's common for us to wonder at some point in our lives: Why is this happening to me? What is the purpose of a particular experience? Or, What is my vocation?</p>
 
-                <p>Así como el navegante usa una carta marítima para evitar escollos, podemos usar la Carta Natal como una <strong>guía para movernos en la vida en mayor sintonía con nuestra esencia</strong>, para llegar a tiempo, para evitar sufrimientos inútiles, para lograr nuestras metas y para reencontrar el rumbo cuando nos sentimos perdidos.</p>
-                
-                
+                    <p>The <strong>Natal Chart</strong> allows us to answer these and more questions. By understanding the <strong>patterns and unconscious mechanisms</strong> that govern our personality, we can find possible solutions to personal conflicts.</p>
 
-                <p style="font-size: 20px">Hacer tu Carta Natal te sirve para:<p> 
-                <ul style="font-size: 16px">
-                <li>Conocerte más a <strong>vos mismo</strong>.</li>
-                <li>Para conocer tu verdadera <strong>Vocación</strong>.</li>
-                <li>Para saber qué es lo que necesitás para <strong>sentirte satisfecho</strong> con vos mismo y con la vida.</li> 
-                <li>Para conocer tu <strong>misión</strong> en esta vida.</li>
-                <li>Para entender más el <strong>por qué</strong> de lo que te pasa, de los <strong>obstáculos</strong> que aparecen en tu camino.</li>
-                <li>Para poder lograr mayor sintonía con <strong>tu propia esencia</strong>.</li>
-                <li>Para saber qué es lo que tenés que <strong>modificar o trabajar sobre vos mismo</strong>, yendo al grano, sin perder tiempo.</li>
-               
-                </ul>          
-				<br>
-            <div class="center-box">
-                <!-- Go to www.addthis.com/dashboard to customize your tools -->
-                <div class="addthis_inline_share_toolbox"></div>
-            </div>
+                    <p>Just as a navigator uses a nautical chart to avoid obstacles, we can use the Natal Chart as a <strong>guide to move through life in greater harmony with our essence</strong>, to arrive on time, to avoid unnecessary suffering, to achieve our goals, and to rediscover our course when we feel lost.</p>
 
-            </section>
+                    <p style="font-size: 20px">Creating your Natal Chart helps you:</p>
+                    <ul style="font-size: 16px">
+                        <li>Know yourself better.</li>
+                        <li>Discover your true vocation.</li>
+                        <li>Understand what you need to <strong>feel satisfied</strong> with yourself and with life.</li>
+                        <li>Uncover your <strong>mission</strong> in this life.</li>
+                        <li>Gain insight into the <strong>reasons</strong> behind what happens to you, the <strong>obstacles</strong> that appear in your path.</li>
+                        <li>Harmonize more with <strong>your own essence</strong>.</li>
+                        <li>Identify what you need to <strong>modify or work on within yourself</strong>, getting to the point without wasting time.</li>
+                    </ul>
+                    <br>
+                    <div class="center-box">
+                        <!-- Go to www.addthis.com/dashboard to customize your tools -->
+                        <div class="addthis_inline_share_toolbox"></div>
+                    </div>
 
-            <section class="apply">
+                </section>
 
-                <figure class="carta-natal">
-                    <img src="img/carta-natal.jpg" alt="carta natal" />
-                </figure>
-                
-                <a href="http://www.centroastrologico.com.ar/consultoria_carta_astral.php" class="request_button">
-                    <p class="big_line">SOLICITAR MI CARTA NATAL</p>
-                </a>
+                <section class="apply">
+
+                    <figure class="carta-natal">
+                        <img src="img/carta-natal.jpg" alt="carta natal" />
+                    </figure>
+
+                    <a href="/consultoria_carta_astral.php" class="request_button">
+                    <p class="big_line">REQUEST MY NATAL CHART</p>
+                    </a>
+
+                </section>
 
             </section>
 
-        </section>
+        </section><!-- Sección de contenido > final -->
 
-    </section><!-- Sección de contenido > final -->
+        <!-- Footer -->
+        <?php include('site/footer.php'); ?>
 
-    <!-- Footer -->
-    <?php include('site/footer.php'); ?>
-  
-</div>
+    </div>
 
-<!-- Bootstrap JavaScript -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 </body>
+
 </html>
