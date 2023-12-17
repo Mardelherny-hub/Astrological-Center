@@ -48,7 +48,7 @@
           <!-- ANUARIO ASTROLÓGICO 2024 -->
       <div data-p="225.00">
         <a href="https://centroastrologico.com.ar/libro_anuario_astrologico_2024.php">
-          <img data-u="image" src="https://centroastrologico.com.ar/assets/images/home-novedades/home/anuario_2024_slide.jpg" />
+          <img data-u="image" src="assets/images/home-novedades/home/anuario_2024_slide.jpg" />
         </a>
       </div> 
 
@@ -64,7 +64,7 @@
                         <!-- ASTROLOGÍA MUNDIAL -->
 
       <div data-p="225.00">
-        <a href="https://centroastrologico.com.ar/curso_astrologia_mundial_b.php">
+        <a href="curso_astrologia_mundial_b.php">
           <img data-u="image" src="assets/images/home-novedades/home/curso_astrologiamundial_slide.jpg" />
         </a>
       </div>
