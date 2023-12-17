@@ -1,9 +1,0 @@
-drwxrwxrwx   2 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 .
-drwxrwxrwx   4 mgrtn@centroastrologico.com.ar 505          4096 Apr  7  2018 ..
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505         12466 Apr  7  2018 ClassLoader.php
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1075 Apr  7  2018 LICENSE
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           147 Apr  7  2018 autoload_classmap.php
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           149 Apr  7  2018 autoload_namespaces.php
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           143 Apr  7  2018 autoload_psr4.php
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505          1310 Apr  7  2018 autoload_real.php
--rwxrwxrwx   1 mgrtn@centroastrologico.com.ar 505           536 Apr  7  2018 installed.json
