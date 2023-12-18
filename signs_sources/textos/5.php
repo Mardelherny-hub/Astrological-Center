@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-leo.png" />
+						<img src="signs_sources/simbologia/simbolo-leo.png" alt="Leo Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">El Le&oacute;n</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Lion</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-fuego.png" />
+						<img src="signs_sources/elementos/elemento-fuego.png" alt="Fire Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Fuego</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Fire</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/sol.png" />
+						<img src="signs_sources/planetas-regentes/sol.png" alt="Ruling Planet: The Sun" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
-						<span class="content">Sol</span>
+						<span class="title">RULING PLANET</span>
+						<span class="content">The Sun</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/5.png" />
+						<img src="signs_sources/casas/5.png" alt="House: Fifth" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Quinta</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Fifth</span>
 					</td>
 				</tr>
 			</table>
@@ -60,11 +60,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-leo.png" />
+						<img src="signs_sources/opuestos/opuesto-a-leo.png" alt="Opposite Sign: Aquarius" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
-						<span class="content">Acuario</span>
+						<span class="title">OPPOSITE</span>
+						<span class="content">Aquarius</span>
 					</td>
 				</tr>
 			</table>
@@ -72,35 +72,35 @@
 	</tr>
 </table>
 
-<p>Leo es un signo de fuego que suele mostrarse confiado y seguro de sí mismo. Pienso que Leo es como el Sol, que irradia energía a los demás (entusiasmo, generosidad, calidez) y a la vez centraliza la atención, en un doble movimiento partiendo de él hacia el mundo externo, y viceversa. Ya que Leo suele liderar la acción, está atento a las respuestas de los demás frente a sus iniciativas, y le importará sentirse reconocido. Como todo signo de fuego Leo es audaz, creativo, suele moverse por la vida con optimismo, y espontaneidad, despertando en los otros esa “llama interior” que todos llevamos dentro. De ahí que se asocie este signo a líderes carismáticos, ya que su autoridad natural, fuerte presencia y su dramatismo, no suelen pasar desapercibidos. Esta firmeza puede volverse un problema cuando sus peores enemigos (el orgullo, la vanidad) toman la escena. Entonces deberá desandar el camino, para aprender a reconocer que todos nos equivocamos alguna vez, inclusive él mismo.</p>
+<p>Leo is a fire sign that tends to show confidence and self-assurance. I think Leo is like the Sun, radiating energy to others (enthusiasm, generosity, warmth) and at the same time centralizing attention, in a double movement from itself to the external world, and vice versa. Since Leo usually leads action, it is attentive to the responses of others to its initiatives, and it will care about feeling recognized. Like all fire signs, Leo is bold, creative, usually moves through life with optimism and spontaneity, awakening in others that "inner flame" that we all carry within. Hence, it is associated with charismatic leaders, as its natural authority, strong presence, and drama usually do not go unnoticed. This firmness can become a problem when its worst enemies (pride, vanity) take the stage. Then it will have to retrace its steps to learn to recognize that everyone makes mistakes at some point, including itself.</p>
 
-<p>Creo que Leo, en definitiva busca descubrirse a sí mismo, encontrarse a sí mismo, y en esta búsqueda muchas veces estará pendiente de la mirada de los otros, admiración o no, buscando responder a  la pregunta “¿Quién soy?”. Cuando lo logra su creatividad puede llegar a ser ilimitada.</p>
+<p>I believe that Leo, in the end, seeks to discover itself, find itself, and in this search, it will often be aware of the gaze of others, admiration or not, seeking to answer the question "Who am I?". When it succeeds, its creativity can become limitless.</p>
 
-<p>Algo interesante es que no se motivará sólo a sí mismo, también sabe cómo motivar a los otros.  Aunque no es un signo de estrategias (tal como el fuego no conoce el frío), su espontaneidad y espíritu de juego suele guiarlo. Sin embargo, otras veces esta falta de planificación frente a sus grandes metas, puede llevarlo a subestimar los pormenores y detalles, y a no ser muy realista en sus planes.</p>
+<p>Something interesting is that Leo will not only motivate itself but also knows how to motivate others. Although it is not a sign of strategies (just as fire does not know the cold), its spontaneity and spirit of play usually guide it. However, other times this lack of planning in the face of its great goals can lead it to underestimate details and not be very realistic in its plans.</p>
 
-<p>Leo es un signo pasional, en sus vínculos afectivos suele ser leal por sobre todas las cosas, generoso y protector. Sabe escuchar a su corazón y expresar sus sentimientos, exhibe su interés y destreza en las áreas expresivas, como el arte, la oratoria.</p>
+<p>Leo is a passionate sign; in its affective bonds, it tends to be loyal above all, generous, and protective. It knows how to listen to its heart and express its feelings, exhibiting its interest and skill in expressive areas such as art and oratory.</p>
 
-<p>Cuando llega al punto de estar tan centrado en sí mismo, sin ponerse en el lugar de los otros, puede pecar de soberbia. El exceso de autoconfianza, puede incluso llevarlo a decepciones. A veces las decepciones ocurren debido a sus altas ambiciones y expectativas. Después de todo algo es claro, Leo, como el Sol, su planeta asociado, gusta de hacer las cosas a lo grande, y no se anda con minucias o detalles. Por otro lado, el Sol, también se asocia con la vitalidad física, lo cual se relaciona directamente a Leo, ya que es un signo muy vital y con gran caudal de energías (de él dependerá en qué las invierta).</p>
+<p>When it reaches the point of being so centered on itself without putting itself in the place of others, it can sin of arrogance. Excessive self-confidence can even lead to disappointments. Sometimes disappointments occur due to its high ambitions and expectations. After all, one thing is clear: Leo, like the Sun, its associated planet, likes to do things on a grand scale and does not deal with details. On the other hand, the Sun is also associated with physical vitality, which relates directly to Leo, as it is a very vital sign with a large reservoir of energy (it will depend on it in what it invests).</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Leo (o con planetas ubicados en el signo de Leo):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Leos (or with planets located in the sign of Leo):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/stanley-kubrick.png" /></td>
-		<td class="data"><strong class="name">Stanley Kubrick</strong><strong class="job">, cineasta</strong>: Sol, Venus y Neptuno</td>
+		<td class="photo"><img src="signs_sources/famosos/stanley-kubrick.png" alt="Stanley Kubrick" /></td>
+		<td class="data"><strong class="name">Stanley Kubrick</strong><strong class="job">, filmmaker</strong>: Sun, Venus, and Neptune</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/bill-clinton.png" /></td>
-		<td class="data"><strong class="name">Bill Clinton</strong><strong class="job">, pol&iacute;tico</strong>: Sol, Mercurio, Saturno y Plut&oacute;n</td>
+		<td class="photo"><img src="signs_sources/famosos/bill-clinton.png" alt="Bill Clinton" /></td>
+		<td class="data"><strong class="name">Bill Clinton</strong><strong class="job">, politician</strong>: Sun, Mercury, Saturn, and Pluto</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/carl-gustav-jung.png" /></td>
-		<td class="data"><strong class="name">Carl G. Jung</strong><strong class="job">, psic&oacute;logo</strong>: Sol y Urano</td>
+		<td class="photo"><img src="signs_sources/famosos/carl-gustav-jung.png" alt="Carl G. Jung" /></td>
+		<td class="data"><strong class="name">Carl G. Jung</strong><strong class="job">, psychologist</strong>: Sun and Uranus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/barack-obama.png" /></td>
-		<td class="data"><strong class="name">Barack Obama</strong><strong class="job">, pol&iacute;tico</strong>: Sol, Urano, Mercuro y Nodo Norte</td>
+		<td class="photo"><img src="signs_sources/famosos/barack-obama.png" alt="Barack Obama" /></td>
+		<td class="data"><strong class="name">Barack Obama</strong><strong class="job">, politician</strong>: Sun, Uranus, Mercury, and North Node</td>
 	</tr>
 </table>

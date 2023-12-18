@@ -7,7 +7,7 @@
 
 			<!-- Item 1-->
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3700/3/1" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3700/3/1"  class="item_link">
 					<div class="item">
 						<h5>ASTROLOGICAL CONSULTATION</h5>
 						<figure>
@@ -22,7 +22,7 @@
 				
 
 			<div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_de_astrologia_psicologica_y_cientifica_2023.php" target="_blank" class="item_link">
+				<a href="curso_de_astrologia_psicologica_y_cientifica_2023.php"  class="item_link">
 					<div class="item">
 						<h5><span style="font-style: bold; color: #e61420;">New </span>Online Course 10/01</h5>
 						<figure>
@@ -34,7 +34,7 @@
 			</div>
 
 															<div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/libro_anuario_astrologico_2024.php" target="_blank" class="item_link">
+				<a href="libro_anuario_astrologico_2024.php"  class="item_link">
 					<div class="item">
 						<h5><span style="font-style: bold; color: #e61420;">New </span>YEARBOOK 2024</h5>
 						<figure>
@@ -47,7 +47,7 @@
 
 
 									<div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_astrologia_mundial_b.php" target="_blank" class="item_link">
+				<a href="curso_astrologia_mundial_b.php"  class="item_link">
 					<div class="item">
 						<h5><span style="font-style: bold; color: #e61420;">New </span>Online Course 09/01</h5>
 						<figure>
@@ -64,7 +64,7 @@
 			<!-- Item 3 -->			
 
 			 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_de_tarot_marzo_2022.php" target="_blank" class="item_link">
+				<a href="curso_de_tarot_marzo_2022.php"  class="item_link">
 					<div class="item">
 						<h5>Online Course | March 22</h5>
 						<figure>
@@ -81,7 +81,7 @@
 
 
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://www.aztlan.org.ar/pages/psi/?c=3712/30/7" target="_blank" class="item_link">
+				<a href="https://www.aztlan.org.ar/pages/psi/?c=3712/30/7"  class="item_link">
 					<div class="item">
 						<h5>ASTROLOGICAL YEARBOOK 2021</h5>
 						<figure>
@@ -101,7 +101,7 @@
 		<div class="flexslider" style="margin-top: 45px; margin-bottom: 0px;">
 			<ul class="slides">
 				<li>
-					<a href="https://www.youtube.com/watch?v=jrv-pkApBx4" target="_blank">
+					<a href="https://www.youtube.com/watch?v=jrv-pkApBx4" >
 						<img src="https://img.youtube.com/vi/jrv-pkApBx4/maxresdefault.jpg">
 						<p class="flex-caption" style="text-align: center;">The Tide Advances<br>Forecasts from December 4th to 10th for the 12 Signs</p>
 					</a>
@@ -120,7 +120,7 @@
 			
 			<!-- Item 2 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3641/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3641/30/7"  class="item_link">
 					<div class="item">
 						<h5>ONLINE WORKSHOP</h5>
 						<figure>
@@ -134,7 +134,7 @@
 												<!-- Item 1-->
 						
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_intensivo_de_revolucion_solar_2022.php" target="_blank" class="item_link">
+				<a href="curso_intensivo_de_revolucion_solar_2022.php"  class="item_link">
 					<div class="item">
 						<h5>Online Course</h5>
 						<figure>
@@ -148,7 +148,7 @@
 
 
 						<div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_intensivo_de_tarot_2023.php" target="_blank" class="item_link">
+				<a href="curso_intensivo_de_tarot_2023.php"  class="item_link">
 					<div class="item">
 						<h5>Online Course 09/01</h5>
 						<figure>
@@ -159,7 +159,7 @@
 				</a>
 			</div>
 						<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_de_direcciones_y_progresiones.php" target="_blank" class="item_link">
+				<a href="curso_de_direcciones_y_progresiones.php"  class="item_link">
 					<div class="item">
 						<h5>Online Course 30/11</h5>
 						<figure>
@@ -173,7 +173,7 @@
 
 
 			<div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://www.youtube.com/watch?v=3Mq7MDab1bk" target="_blank" class="item_link">
+				<a href="https://www.youtube.com/watch?v=3Mq7MDab1bk"  class="item_link">
 					<div class="item">
 						<h5>Astrological Services</h5>
 						<figure>
@@ -188,7 +188,7 @@
 
 
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://www.aztlan.org.ar/cursosonline/curso-tarot-egipcio/" target="_blank" class="item_link">
+				<a href="https://www.aztlan.org.ar/cursosonline/curso-tarot-egipcio/"  class="item_link">
 					<div class="item">
 						<h5>ONLINE WORKSHOP</h5>
 						<figure>
@@ -201,11 +201,11 @@
 
 			<!-- Item 1 -->
 			<div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="https://centroastrologico.com.ar/curso_predecir_por_la_astrologia.php" target="_blank" class="item_link">
+				<a href="curso_predecir_por_la_astrologia.php"  class="item_link">
 					<div class="item">
 						<h5>Online Course</h5>
 						<figure>
-							<img src="https://centroastrologico.com.ar/assets/images/predecir_astrologia_web.jpg" class="background_miniature">
+							<img src="assets/images/predecir_astrologia_web.jpg" class="background_miniature">
 						</figure>
 						<h6>Predicting through Astrology</h6>
 					</div>
@@ -216,7 +216,7 @@
 			
     		<!-- Item 3 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3629/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3629/30/7"  class="item_link">
 					<div class="item">
 						<h5>ONLINE WORKSHOP - Coming Soon</h5>
 						<figure>
@@ -229,7 +229,7 @@
 			
     		<!-- Item 3 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-4">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3647/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3647/30/7"  class="item_link">
 					<div class="item">
 						<h5>ONLINE WORKSHOP</h5>
 						<figure>
@@ -252,7 +252,7 @@
 	<div class="col-xs-12 col-sm-12 col-md-3 events_section">
 		
 		<!-- Event 1 >
-		<a target="_blank" href="http://www.aztlan.org.ar/pages/psi/?c=3380/30/7" class="event">
+		<a  href="http://www.aztlan.org.ar/pages/psi/?c=3380/30/7" class="event">
 			<div class="date">
 				<p class="day">14</p>
 				<p class="month">Sun</p>
@@ -270,7 +270,7 @@
 	<div class="col-xs-12 col-sm-12 col-md-3 events_section">		
 		
 
-								<a target="_blank" href="https://centroastrologico.com.ar/curso_intensivo_de_tarot_2023.php" class="event">
+								<a  href="curso_intensivo_de_tarot_2023.php" class="event">
 			<div class="date">
 				<p class="day">09</p>
 				<p class="month">Mar</p>
@@ -282,7 +282,7 @@
 			</div>
 		</a>
 
-				<a target="_blank" href="https://centroastrologico.com.ar/curso_astrologia_mundial_b.php" class="event">
+				<a  href="curso_astrologia_mundial_b.php" class="event">
 			<div class="date">
 				<p class="day">09</p>
 				<p class="month">Mar</p>
@@ -295,7 +295,7 @@
 		</a>
 
 
-						<!--a target="_blank" href="https://centroastrologico.com.ar/curso_intensivo_de_astrologia_2023.php" class="event">
+						<!--a  href="curso_intensivo_de_astrologia_2023.php" class="event">
 			<div class="date">
 				<p class="day">23</p>
 				<p class="month">Thu</p>
@@ -311,7 +311,7 @@
 
 
 
-							<!--a target="_blank" href="https://centroastrologico.com.ar/curso_de_revolucion_solar_2022.php" class="event">
+							<!--a  href="curso_de_revolucion_solar_2022.php" class="event">
 				<div class="date">
 					<p class="day">18</p>
 					<p class="month">Mon</p>
@@ -340,7 +340,7 @@
 
 			<!-- Item 3 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="https://www.youtube.com/watch?v=3Mq7MDab1bk" target="_blank" class="item_link">
+				<a href="https://www.youtube.com/watch?v=3Mq7MDab1bk"  class="item_link">
 					<div class="item">
 						<h5>Servicios Astrológicos</h5>
 						<figure>
@@ -353,7 +353,7 @@
 
 			<!-- Item 2 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="https://www.aztlan.org.ar/pages/psi/?c=3636/30/7" target="_blank" class="item_link">
+				<a href="https://www.aztlan.org.ar/pages/psi/?c=3636/30/7"  class="item_link">
 					<div class="item">
 						<h5>TALLER ONLINE</h5>
 						<figure>
@@ -364,7 +364,7 @@
 				</a>
 			</div-->
 			<div class="col-xs-12 col-sm-6 col-md-3">
-	<a href="https://www.youtube.com/watch?v=wdDDNBe_6fA" target="_blank" class="item_link">
+	<a href="https://www.youtube.com/watch?v=wdDDNBe_6fA"  class="item_link">
 		<div class="item">
 			<h5>VIDEO</h5>
 			<figure>
@@ -380,7 +380,7 @@
 
 <!-- Item 3 -->
 <!--div class="col-xs-12 col-sm-6 col-md-3">
-	<a href="http://www.aztlan.org.ar/pages/psi/?c=3647/30/7" target="_blank" class="item_link">
+	<a href="http://www.aztlan.org.ar/pages/psi/?c=3647/30/7"  class="item_link">
 		<div class="item">
 			<h5>ONLINE WORKSHOP</h5>
 			<figure>
@@ -393,7 +393,7 @@
 
 <!-- Item 3 -->
 <div class="col-xs-12 col-sm-6 col-md-3">
-	<a href="https://www.youtube.com/watch?v=krsvgsp1szM" target="_blank" class="item_link">
+	<a href="https://www.youtube.com/watch?v=krsvgsp1szM"  class="item_link">
 		<div class="item">
 			<h5>VIDEO</h5>
 			<figure>
@@ -409,7 +409,7 @@
 
 <!-- Item 3 -->
 <div class="col-xs-12 col-sm-6 col-md-3">
-	<a href="https://www.youtube.com/watch?v=I5mUIoukgdI" target="_blank" class="item_link">
+	<a href="https://www.youtube.com/watch?v=I5mUIoukgdI"  class="item_link">
 		<div class="item">
 			<h5>VIDEO</h5>
 			<figure>
@@ -422,7 +422,7 @@
 
 <!-- Item 3 -->
 <div class="col-xs-12 col-sm-6 col-md-3">
-	<a href="https://www.centroastrologico.com.ar/libro_guia_astrologica.php" target="_blank" class="item_link">
+	<a href="libro_guia_astrologica.php"  class="item_link">
 		<div class="item">
 			<h5>BOOK</h5>
 			<figure>
@@ -437,7 +437,7 @@
 
 <!--
 			<div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="https://www.youtube.com/watch?v=2fYxbPTLKHI" target="_blank" class="item_link">
+				<a href="https://www.youtube.com/watch?v=2fYxbPTLKHI"  class="item_link">
 					<div class="item">
 						<h5>VIDEO</h5>
 						<figure>
@@ -450,7 +450,7 @@
 -->
 			<!--
 			<div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3461/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3461/30/7"  class="item_link">
 					<div class="item">
 						<h5>TALLER [Próximamente]</h5>
 						<figure>
@@ -464,7 +464,7 @@
 
 			<!-- Item 3 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3191/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3191/30/7"  class="item_link">
 					<div class="item">
 						<h5>TALLER</h5>
 						<figure>
@@ -480,7 +480,7 @@
 
 
 				<!--div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3196/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3196/30/7"  class="item_link">
 					<div class="item">
 						<h5>TALLER</h5>
 						<figure>
@@ -494,7 +494,7 @@
 		
 
 			<!--div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3133/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3133/30/7"  class="item_link">
 					<div class="item">
 						<h5>TALLER - 17/01</h5>
 						<figure>
@@ -508,7 +508,7 @@
 
 			<!-- Item 3 -->
 			<!--div class="col-xs-12 col-sm-6 col-md-3">
-				<a href="http://www.aztlan.org.ar/pages/psi/?c=3195/30/7" target="_blank" class="item_link">
+				<a href="http://www.aztlan.org.ar/pages/psi/?c=3195/30/7"  class="item_link">
 					<div class="item">
 						<h5>TALLER</h5>
 						<figure>
@@ -526,7 +526,7 @@
 	<div class="row">
 		<!-- Item 1 -->
 		<div class="col-xs-12 col-sm-6 col-md-3">
-			<a href="https://www.youtube.com/watch?v=ufOo_BZu298" target="_blank" class="item_link">
+			<a href="https://www.youtube.com/watch?v=ufOo_BZu298"  class="item_link">
 				<div class="item video">
 					<figure>
 						<img src="assets/images/video_overlay.png" class="video_overlay">
@@ -538,7 +538,7 @@
 		</div>
 		<!-- Item 2 -->
 		<div class="col-xs-12 col-sm-6 col-md-3">
-			<a href="https://www.youtube.com/watch?v=fZTZoHm4JPU" target="_blank" class="item_link">
+			<a href="https://www.youtube.com/watch?v=fZTZoHm4JPU"  class="item_link">
 				<div class="item video">
 					<figure>
 						<img src="assets/images/video_overlay.png" class="video_overlay">
@@ -550,7 +550,7 @@
 		</div>
 		<!-- Item 3 -->
 		<div class="col-xs-12 col-sm-6 col-md-3">
-			<a href="https://www.youtube.com/watch?v=0dhALWO58Xw" target="_blank" class="item_link">
+			<a href="https://www.youtube.com/watch?v=0dhALWO58Xw"  class="item_link">
 				<div class="item video">
 					<figure>
 						<img src="assets/images/video_overlay.png" class="video_overlay">
@@ -562,7 +562,7 @@
 		</div>
 		<!-- Item 4 -->
 		<div class="col-xs-12 col-sm-6 col-md-3">
-			<a href="https://www.aztlan.org.ar/cursosonline/" target="_blank" class="item_link">
+			<a href="https://www.aztlan.org.ar/cursosonline/"  class="item_link">
 				<div class="item">
 					<figure>
 						<!--

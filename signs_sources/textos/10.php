@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-capricornio.png" />
+						<img src="signs_sources/simbologia/simbolo-capricornio.png" alt="Capricorn Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">La cabra con cola de pez</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Goat with a Fish Tail</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-tierra.png" />
+						<img src="signs_sources/elementos/elemento-tierra.png" alt="Earth Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Tierra</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Earth</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/saturno.png" />
+						<img src="signs_sources/planetas-regentes/saturno.png" alt="Ruling Planet: Saturn" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
-						<span class="content">Saturno</span>
+						<span class="title">RULING PLANET</span>
+						<span class="content">Saturn</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/10.png" />
+						<img src="signs_sources/casas/10.png" alt="House: Tenth" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">D&eacute;cima</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Tenth</span>
 					</td>
 				</tr>
 			</table>
@@ -60,11 +60,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-capricornio.png" />
+						<img src="signs_sources/opuestos/opuesto-a-capricornio.png" alt="Opposite Sign: Cancer" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
-						<span class="content">C&aacute;ncer</span>
+						<span class="title">OPPOSITE</span>
+						<span class="content">Cancer</span>
 					</td>
 				</tr>
 			</table>
@@ -72,42 +72,42 @@
 	</tr>
 </table>
 
-<p>Entre los signos del zodíaco, Capricornio es un signo que no suele tomarse las cosas a la ligera, sobre todo aquellas obligaciones que atañen a su trabajo, profesión o metas personales. Por ser un signo de tierra (como Tauro y Virgo), Capricornio tiende a ser concreto, pragmático, podría decirse con los pies en la tierra, siempre buscando construir basándose en su estructura interior. Como siempre, la tierra corre el peligro de volverse demasiado recelosa del mundo material, lo cual a veces hace que el capricorniano se preocupe tanto por este ámbito que termine descuidando otras esferas de su vida. Si bien gusta de la tranquilidad en lo material, no suele ser un signo para nada ostentoso, sino más bien austero lo que lo hace un excelente administrador.</p>
-<p>Capricornio es exigente consigo mismo y con los demás, siempre buscando llegar un poco más alto, ambición que lo empuja a esforzarse por superarse e intentar ser cada vez mejor en lo suyo. En este camino de autodesarrollo deberá prestar atención a no descuidar sus afectos y sus necesidades afectivas (con las cuales suele costarle ponerse en contacto) ya que antepone el deber al placer. Por otro lado, el compromiso con sus responsabilidades lo lleva muchas veces al lugar de jefe, capataz, autoridad, que transmite un mensaje claro, seguridad y generalmente es algo exigente a los demás.</p>
-<p>Capricornio tiene cierta veta por la que busca ser reconocido por los demás (aunque no siempre estará seguro de ser merecedor de una apreciación tan elevada, como en el caso de Leo), intentará ser realmente bueno en algo.</p>
-<p>Además de los intereses concretos y palpables, capricornio suele interesarse por adquirir conocimientos que le permitan subir un nuevo peldaño en la escala social, o en un nivel más espiritual, en la escala de su propia evolución personal. Es por ello que encontraremos muchos capricornios interesados no sólo en temas “materiales” sino también en filosofía, ciencias, metafísica, entre otras disciplinas. De ahí el misteriosos símbolo de la cabra, que sube lentamente y de manera solitaria (no como las ovejas que avanzan en rebaños) y la cola de pez que le confiere, a la vez, la posibilidad de poder acceder a las profundidades.</p>
-<p>En cuanto a los vínculos afectivos, suele ser reservado de sus sentimientos. Deberá evitar reprimir sus sentimientos, ya que en ese caso la falta de expresión emocional lo hará parecer algo indiferente o frío. Buscará generalmente un vínculo que le aporte cierta cuota de estabilidad  o seguridad, y sabrá dar sostén a los suyos.</p>
-<p>Su planeta regente, Saturno el dios mitológico considerado el anciano sabio o el maestro, está ligado al arquetipo del padre lo cual le confiere sus actitudes paternales o protectoras. Es probable que la vida acostumbre a los capricornianos y capricornianas a hacerse cargo de los demás de alguna manera (independientemente de la edad que tengan). Mostrar su costado maduro les servirá mucho para superar las pruebas, hasta que sienta que las mochilas o cargas se han vuelto demasiado pesadas. Entonces la vida deberá enseñarles a delegar, confiar más en los otros, a relajarse y no querer tener todo bajo control.</p>
+<p>Among the zodiac signs, Capricorn is a sign that usually does not take things lightly, especially those obligations related to work, profession, or personal goals. Being an earth sign (like Taurus and Virgo), Capricorn tends to be concrete, pragmatic, with its feet on the ground, always seeking to build based on its inner structure. As always, the earth runs the risk of becoming too wary of the material world, which sometimes makes the Capricornian worry so much about this area that it ends up neglecting other spheres of life. While it enjoys tranquility in material matters, it is not usually a flashy sign but rather austere, making it an excellent administrator.</p>
+<p>Capricorn is demanding of itself and others, always seeking to reach a little higher, an ambition that drives it to strive to improve and try to be better at what it does. In this path of self-development, it should pay attention not to neglect its affections and emotional needs (which it often finds challenging to connect with) since it prioritizes duty over pleasure. On the other hand, the commitment to responsibilities often puts it in the role of a leader, foreman, authority, transmitting a clear message of security and generally being somewhat demanding of others.</p>
+<p>Capricorn has a certain vein in which it seeks to be recognized by others (although it may not always be sure of deserving such high esteem, as in the case of Leo); it will try to be really good at something.</p>
+<p>In addition to concrete and tangible interests, Capricorn usually seeks to acquire knowledge that allows it to climb a new step on the social or, at a more spiritual level, on the scale of its own personal evolution. Hence, the mysterious symbol of the goat, which climbs slowly and alone (unlike sheep that progress in flocks), and the fish tail that gives it the possibility of accessing the depths.</p>
+<p>Regarding emotional relationships, it tends to be reserved about its feelings. It should avoid repressing its emotions, as in that case, the lack of emotional expression will make it seem somewhat indifferent or cold. Generally, it will seek a relationship that provides a certain amount of stability or security and will know how to provide support to those close to it.</p>
+<p>Its ruling planet, Saturn, the mythological god considered the wise old man or teacher, is linked to the archetype of the father, which gives it its paternal or protective attitudes. Capricorns are likely to be accustomed to taking care of others in some way throughout life (regardless of their age). Showing their mature side will serve them well to overcome challenges until they feel that the burdens have become too heavy. Then life will have to teach them to delegate, trust others more, relax, and not want to have everything under control.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Capricornio (o con planetas ubicados en el signo de Capricornio):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Capricorns (or with planets located in the sign of Capricorn):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/aristoteles-socrates-onassis.png" /></td>
-		<td class="data"><strong class="name">Arist&oacute;teles S&oacute;crates On&aacute;assis</strong><strong class="job">, magnate empresario</strong>: Sol, Mercurio, Venus y Urano</td>
+		<td class="photo"><img src="signs_sources/famosos/aristoteles-socrates-onassis.png" alt="Aristotle Onassis" /></td>
+		<td class="data"><strong class="name">Aristotle Socrates Onassis</strong><strong class="job">, business magnate</strong>: Sun, Mercury, Venus, and Uranus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/elvis-presley.png" /></td>
-		<td class="data"><strong class="name">Elvis Presley</strong><strong class="job">, cantante</strong>: Sol, Mercurio y Venus</td>
+		<td class="photo"><img src="signs_sources/famosos/elvis-presley.png" alt="Elvis Presley" /></td>
+		<td class="data"><strong class="name">Elvis Presley</strong><strong class="job">, singer</strong>: Sun, Mercury, and Venus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/dalai-lama.png" /></td>
-		<td class="data"><strong class="name">Dalai Lama</strong><strong class="job">, l&iacute;der budismo</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/dalai-lama.png" alt="Dalai Lama" /></td>
+		<td class="data"><strong class="name">Dalai Lama</strong><strong class="job">, Buddhist leader</strong>: Ascendant</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/carlos-castaneda.png" /></td>
-		<td class="data"><strong class="name">Carlos Castaneda</strong><strong class="job">, antrop&oacute;logo</strong>: Sol, Ascendente, Mercurio y Nodo Norte</td>
+		<td class="photo"><img src="signs_sources/famosos/carlos-castaneda.png" alt="Carlos Castaneda" /></td>
+		<td class="data"><strong class="name">Carlos Castaneda</strong><strong class="job">, anthropologist</strong>: Sun, Ascendant, Mercury, and North Node</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/george-i-gurdjieff.png" /></td>
-		<td class="data"><strong class="name">G. I. Gurdjieff</strong><strong class="job">, creador del Cuarto Camino</strong>: Sol</td>
+		<td class="photo"><img src="signs_sources/famosos/george-i-gurdjieff.png" alt="G. I. Gurdjieff" /></td>
+		<td class="data"><strong class="name">G. I. Gurdjieff</strong><strong class="job">, creator of the Fourth Way</strong>: Sun</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/carl-gustav-jung.png" /></td>
-		<td class="data"><strong class="name">Carl G. Jung</strong><strong class="job">, psic&oacute;logo</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/carl-gustav-jung.png" alt="Carl G. Jung" /></td>
+		<td class="data"><strong class="name">Carl G. Jung</strong><strong class="job">, psychologist</strong>: Ascendant</td>
 	</tr>
 </table>

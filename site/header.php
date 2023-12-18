@@ -99,7 +99,7 @@
                 </li>
 
                 <!--MOBILE AGENDA SECTION -->
-                <li class="hidden-md-up"><a href="/agenda.php" class="dropdown-toggle">DIARY</a></li>
+                <!-- <li class="hidden-md-up"><a href="/agenda.php" class="dropdown-toggle">DIARY</a></li> -->
 
                 <!--CONTACT on mobiles-->
                 <li class="visible-xs visible-sm hidden-md hidden-lg"><a href="/contacto.php">CONTACT</a></li>

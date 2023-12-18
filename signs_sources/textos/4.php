@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-cancer.png" />
+						<img src="signs_sources/simbologia/simbolo-cancer.png" alt="Cancer Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">El Cangrejo</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Crab</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-agua.png" />
+						<img src="signs_sources/elementos/elemento-agua.png" alt="Water Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Agua</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Water</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/luna.png" />
+						<img src="signs_sources/planetas-regentes/luna.png" alt="Ruling Planet: The Moon" />
 					</td>
-					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
-						<span class="content">La Luna</span>
+					td class="texts">
+						<span class="title">RULING PLANET</span>
+						<span class="content">The Moon</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/4.png" />
+						<img src="signs_sources/casas/4.png" alt="House: Fourth" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Cuarta</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Fourth</span>
 					</td>
 				</tr>
 			</table>
@@ -60,11 +60,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-cancer.png" />
+						<img src="signs_sources/opuestos/opuesto-a-cancer.png" alt="Opposite Sign: Capricorn" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
-						<span class="content">Capricornio</span>
+						<span class="title">OPPOSITE</span>
+						<span class="content">Capricorn</span>
 					</td>
 				</tr>
 			</table>
@@ -72,29 +72,29 @@
 	</tr>
 </table>
 
-<p>C&aacute;ncer est&aacute; caracterizado por su sensibilidad, es el primer signo del Zodíaco de agua, poniéndonos en contacto con nuestra alma, nuestras necesidades interiores, nuestras emociones. Apunta a una necesidad de dejar fluir m&aacute;s abiertamente sus emociones, y también por supuesto alberga su costado espiritual. Ser&aacute; por la fuerza de sus emociones, que le cuesta ocultarlas a los dem&aacute;s, su alegría o disgusto suelen ser m&aacute;s que evidentes. Según su estado anímico, mirar&aacute; la vida de ese color, blanco o negro, negro o blanco, lo cual lo vuelve f&aacute;cilmente subjetivo. C&aacute;ncer est&aacute; siempre alerta a los sentimientos manifiestos o no manifiestos de los dem&aacute;s, en cierto modo las necesidades de los otros suelen activar su capacidad de nutrir, de proteger aquello que sea vulnerable y necesite refugio. Ser&aacute; por eso que en C&aacute;ncer aparece la noción de clan, patria, grupo familiar, congregación, en definitiva constituyen su búsqueda de relaciones que se sostengan a través del tiempo y altibajos de la vida. La tranquilidad doméstica, del hogar, familia, los padres o los hijos, son cuestiones de vital importancia para C&aacute;ncer. Al punto de poder darse cuenta qué es lo que el otro necesita para sentirse mejor.</p>
-<p>C&aacute;ncer suele sentir una desconfianza frente a lo nuevo, los cambios, ya que a veces suele estar arraigado a lo conocido (o al pasado). Cuando C&aacute;ncer fue herido tiende a levantar muros protectores alrededor de su corazón, intentando transitar sólo por relaciones que parezcan seguras. No obstante su verdadera naturaleza es la calidez.</p>
-<p>El planeta asociado a C&aacute;ncer es la Luna, planeta receptivo por naturaleza (no tiene luz propia sino que emite la luz solar). Adem&aacute;s simbólicamente la luna representa al Arquetipo de la Madre y los antepasados, roles que suelen jugar papeles importantes en su vida. La Luna, adem&aacute;s, siempre est&aacute; cambiando, desde la luna nueva, a la luna llena, la luna es la causante de los permanentes cambios anímicos y de humor a los que es sometido C&aacute;ncer, altibajos que deber&aacute; ir dominando con el tiempo y la experiencia, para evitar desgastarse anímicamente.</p>
+<p>Cancer is characterized by its sensitivity, being the first Water sign of the Zodiac, putting us in touch with our soul, our inner needs, our emotions. It points to a need to let its emotions flow more openly, and also, of course, harbors its spiritual side. It is due to the force of its emotions that it finds it difficult to hide them from others; its joy or displeasure is often more than evident. Depending on its mood, it will see life in that color, black or white, black or white, which makes it easily subjective. Cancer is always alert to the manifest or unmanifest feelings of others; in a way, the needs of others often activate its ability to nurture, to protect what is vulnerable and needs shelter. That's why the notion of clan, homeland, family group, congregation appears in Cancer. In the end, they constitute its search for relationships that stand the test of time and the ups and downs of life. Domestic tranquility, home, family, parents or children are matters of vital importance to Cancer. To the point of being able to realize what the other needs to feel better.</p>
+<p>Cancer usually feels a distrust of the new, changes, as it is sometimes rooted in the known (or the past). When Cancer has been hurt, it tends to build protective walls around its heart, trying to navigate only through relationships that seem secure. However, its true nature is warmth.</p>
+<p>The planet associated with Cancer is the Moon, receptive by nature (it has no light of its own but emits solar light). Symbolically, the moon also represents the archetype of the Mother and the ancestors, roles that often play important roles in its life. The Moon, moreover, is always changing, from the new moon to the full moon. The moon is the cause of the permanent emotional and mood changes to which Cancer is subjected, ups and downs that it must master over time and experience to avoid emotional wear and tear.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de C&aacute;ncer (o con planetas ubicados en el signo de C&aacute;ncer):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Cancers (or with planets located in the sign of Cancer):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/meryl-streep.png" /></td>
-		<td class="data"><strong class="name">Meryl Streep</strong><strong class="job">, actriz</strong>: Sol, Venus y Urano</td>
+		<td class="photo"><img src="signs_sources/famosos/meryl-streep.png" alt="Meryl Streep" /></td>
+		<td class="data"><strong class="name">Meryl Streep</strong><strong class="job">, actress</strong>: Sun, Venus, and Uranus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/dalai-lama.png" /></td>
-		<td class="data"><strong class="name">Dalai Lama</strong><strong class="job">, l&iacute;der budista</strong>: Sol</td>
+		<td class="photo"><img src="signs_sources/famosos/dalai-lama.png" alt="Dalai Lama" /></td>
+		<td class="data"><strong class="name">Dalai Lama</strong><strong class="job">, Buddhist leader</strong>: Sun</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/sigmund-freud.png" /></td>
-		<td class="data"><strong class="name">Sigmund Freud</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/sigmund-freud.png" alt="Sigmund Freud" /></td>
+		<td class="data"><strong class="name">Sigmund Freud</strong>: Ascendant</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/hermann-hesse.png" /></td>
-		<td class="data"><strong class="name">Hermann Hesse</strong><strong class="job">, escritor</strong>: Sol y Venus</td>
+		<td class="photo"><img src="signs_sources/famosos/hermann-hesse.png" alt="Hermann Hesse" /></td>
+		<td class="data"><strong class="name">Hermann Hesse</strong><strong class="job">, writer</strong>: Sun and Venus</td>
 	</tr>
 </table>

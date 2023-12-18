@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-sagitario.png" />
+						<img src="signs_sources/simbologia/simbolo-sagitario.png" alt="Sagittarius Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">El Centauro</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Centaur</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-fuego.png" />
+						<img src="signs_sources/elementos/elemento-fuego.png" alt="Fire Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Fuego</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Fire</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/jupiter.png" />
+						<img src="signs_sources/planetas-regentes/jupiter.png" alt="Ruling Planet: Jupiter" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
-						<span class="content">J&uacute;piter</span>
+						<span class="title">RULING PLANET</span>
+						<span class="content">Jupiter</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/9.png" />
+						<img src="signs_sources/casas/9.png" alt="House: Ninth" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Novena</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Ninth</span>
 					</td>
 				</tr>
 			</table>
@@ -60,11 +60,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-sagitario.png" />
+						<img src="signs_sources/opuestos/opuesto-a-sagitario.png" alt="Opposite Sign: Gemini" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
-						<span class="content">G&eacute;minis</span>
+						<span class="title">OPPOSITE</span>
+						<span class="content">Gemini</span>
 					</td>
 				</tr>
 			</table>
@@ -72,46 +72,46 @@
 	</tr>
 </table>
 
-<p>Como buen signo de fuego Sagitario incita al movimiento y a la búsqueda de expansión de la propia identidad. La osadía del fuego lo aventurará en viajes físicos o mentales, buscando moverse en el plano geográfico y en el plano del pensamiento. El viaje, nos pone en contacto con lo diferente, nos saca de nuestro contexto cotidiano para trasladarnos a escenarios desconocidos, alejándonos de nuestros acostumbrados símbolos familiares. Confrontar con el mundo implica tener que tratar con “extraños, y no necesariamente en una relación estrecha o íntima. De hecho, Sagitario es un signo que precisa de libertad, nada peor para él que sentirse restringido o coartado en su necesidad de movimiento. Puede decirse que Sagitario es un signo que lucha contra las restricciones, al menos contra las que se imponen en su camino.</p>
-<p>Sagitario es un optimista y entusiasta por definición. Su actitud positiva acompañada de su ambición, lo insta a desear lograr grandes cosas. De hecho Sagitario no se conformará fácilmente con aquello que esté a su alcance, con lo conocido, lo chiquito, lo cotidiano, incluso hasta puede aburrirse terriblemente si carece de otro tipo de estímulos.</p>
-<p>Por ser un entusiasta por definición, le resulta fácil y espontáneo transmitir sus ideas y comunicar a los otros, por lo que puede convertirse en un excelente educador, comunicador, transmisor de ideas.</p>
-<p>Combinar lo intelectual con lo físico es lo que propone el símbolo mitológico del centauro. Podemos decir que en todo Sagitario cohabitan 2 partes: la física, instintiva, simbolizada por el caballo; y por otro lado, la parte racional, mental, idealista, simbolizada por la parte humana. De ahí, la afición del sagitario por el movimiento, el deporte, a la vez que la necesidad de formar parte de un todo mayor. Es decir, formar parte de un Ideal superior, sea de carácter intelectual, político, religioso, profesional, etc.</p>
-<p>La generosidad, caracteriza a este signo, que muchas veces no suele modular sus energías, volviéndose a veces, algo exagerado, desordenado, o hasta desbordado en su accionar. Aprender a administrar sus energías y recursos, administrar la comunicación, son cosas que la vida deberá enseñarle.</p>
-<p>En los vínculos Sagitario suele ser expresivo de sus sentimientos, aunque siempre respetando el espacio y la libertad individual, no suele ser un signo posesivo, ni dependiente. De hecho a veces pueden tender a aburrirse rápidamente en los vínculos muy estáticos, lo que los llevará a buscar introducir cambios que inyecten una dosis de energía y reaviven sus relaciones.</p>
-<p>Sagitario se asocia también con las creencias y las Fe. Cualquiera sea su creencia, Sagitario da testimonio del poder sanador de la fe y la esperanza. Sin la fe sagitariana la vida puede parecer un páramo, sin significado, demasiado mundana y opresiva. Los sagitarianos menos filosóficos, aquellos que tal vez dudan de la existencia de una guía divina, siempre depositarán su creencia o ideal en algo (un ideal político, familiar, deportivo, intelectual, etc), aunque esto vaya cambiando a lo largo de la vida.</p>
-<p>Sagitario deberá aprender a expandirse, sin sobreestimarse. La imagen sería la del fuego que se expande, pero con un control y una guía para que no se convierta en una expansión descontrolada, o sea un “incendio”. En término psicológicos el peligro sería el de la soberbia, y la exaltación del Yo.</p>
-<p>Volviendo a la parte más positiva, Sagitario suele buscar personalidades que ejerzan el rol de Guía a lo largo de su vida, estas figuras las pueden ejercer diversas personas, puede ser desde un maestro o profesor, hasta un ídolo espiritual, una ideología intelectual, o de cualquier otra índole. En la medida en que va creciendo y madurando puede  volverse él mismo quien dé guía y ayuda a otros, pasando a ocupar la figura de líder.</p>
-<p>Júpiter es el planeta asociado a Sagitario, el planeta más grande del sistema solar, justamente en un signo que gusta de expandirse. Júpiter se relaciona con la búsqueda de crecimiento, con el optimismo y lo que solemos llamar ¨suerte¨. En la mitología griega Júpiter- Zeus era el máximo dios del olimpo quien impertía justicia y daba guía al resto de los seres.</p>
+<p>As a true fire sign, Sagittarius encourages movement and the search for the expansion of one's own identity. The boldness of fire will venture into physical or mental journeys, seeking to move on the geographical and thought planes. Travel puts us in contact with the different, takes us out of our everyday context to transport us to unknown scenarios, distancing us from our accustomed family symbols. Confronting the world implies having to deal with "strangers," not necessarily in a close or intimate relationship. In fact, Sagittarius is a sign that needs freedom; nothing is worse for it than feeling restricted or constrained in its need for movement. It can be said that Sagittarius is a sign that fights against restrictions, at least those imposed in its path.</p>
+<p>Sagittarius is an optimist and enthusiast by definition. Its positive attitude, coupled with its ambition, urges it to desire great things. In fact, Sagittarius will not easily settle for what is within reach, for the known, the small, the everyday. It can even get terribly bored if it lacks other types of stimuli.</p>
+<p>Being an enthusiast by definition, it is easy and spontaneous for Sagittarius to convey its ideas and communicate with others, making it an excellent educator, communicator, transmitter of ideas.</p>
+<p>Combining the intellectual with the physical is what the mythological symbol of the centaur proposes. We can say that in every Sagittarius, two parts coexist: the physical, instinctive part symbolized by the horse; and, on the other hand, the rational, mental, idealistic part symbolized by the human part. Hence, Sagittarius' fondness for movement, sports, and the need to be part of a larger whole. That is, being part of a higher Ideal, whether intellectual, political, religious, professional, etc.</p>
+<p>Generosity characterizes this sign, which often does not modulate its energies, becoming at times somewhat exaggerated, disorderly, or even overwhelmed in its actions. Learning to manage its energies and resources, managing communication, are things that life will have to teach it.</p>
+<p>In relationships, Sagittarius is often expressive of its feelings, although always respecting individual space and freedom. It is not usually a possessive or dependent sign. In fact, they may sometimes tend to get bored quickly in very static relationships, leading them to seek to introduce changes that inject a dose of energy and revive their relationships.</p>
+<p>Sagittarius is also associated with beliefs and faith. Whatever its belief, Sagittarius bears witness to the healing power of faith and hope. Without Sagittarian faith, life can seem like a wasteland, meaningless, too mundane, and oppressive. The less philosophical Sagittarians, those who may doubt the existence of a divine guide, will always place their belief or ideal in something (a political, family, sports, intellectual ideal, etc.), although this may change throughout life.</p>
+<p>Sagittarius must learn to expand without overestimating itself. The image would be that of fire expanding but with control and guidance so that it does not become uncontrolled expansion or a "fire." In psychological terms, the danger would be pride and the exaltation of the Self.</p>
+<p>Returning to the more positive side, Sagittarius usually seeks personalities to play the role of a guide throughout their lives. These figures can be various people, from a teacher or professor to a spiritual idol, an intellectual ideology, or any other kind. As they grow and mature, they may become the ones who guide and help others, taking on the role of a leader.</p>
+<p>Jupiter is the planet associated with Sagittarius, the largest planet in the solar system, precisely in a sign that likes to expand. Jupiter is related to the search for growth, optimism, and what we usually call "luck." In Greek mythology, Jupiter-Zeus was the supreme god of Olympus who imparted justice and guided the rest of the beings.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Sagitario (o con planetas ubicados en el signo de Sagitario):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Sagittarians (or with planets located in the sign of Sagittarius):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/margaret-mead.png" /></td>
-		<td class="data"><strong class="name">Margaret Mead</strong><strong class="job">, antrop&oacute;loga</strong>: Sol, Mercurio y Urano</td>
+		<td class="photo"><img src="signs_sources/famosos/margaret-mead.png" alt="Margaret Mead" /></td>
+		<td class="data"><strong class="name">Margaret Mead</strong><strong class="job">, anthropologist</strong>: Sun, Mercury, and Uranus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/hermann-hesse.png" /></td>
-		<td class="data"><strong class="name">Hermann Hesse</strong><strong class="job">, escritor</strong>: Ascendente, J&uacute;piter</td>
+		<td class="photo"><img src="signs_sources/famosos/hermann-hesse.png" alt="Hermann Hesse" /></td>
+		<td class="data"><strong class="name">Hermann Hesse</strong><strong class="job">, writer</strong>: Ascendant, Jupiter</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/julio-cortazar.png" /></td>
-		<td class="data"><strong class="name">Julio Cort&aacute;zar</strong><strong class="job">, escritor</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/julio-cortazar.png" alt="Julio Cortázar" /></td>
+		<td class="data"><strong class="name">Julio Cortázar</strong><strong class="job">, writer</strong>: Ascendant</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/brad-pitt.png" /></td>
-		<td class="data"><strong class="name">Brad Pitt</strong><strong class="job">, actor</strong>: Sol</td>
+		<td class="photo"><img src="signs_sources/famosos/brad-pitt.png" alt="Brad Pitt" /></td>
+		<td class="data"><strong class="name">Brad Pitt</strong><strong class="job">, actor</strong>: Sun</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/woody-allen.png" /></td>
-		<td class="data"><strong class="name">Woody Allen</strong><strong class="job">, director</strong>: Sol, Mercurio y J&uacute;piter</td>
+		<td class="photo"><img src="signs_sources/famosos/woody-allen.png" alt="Woody Allen" /></td>
+		<td class="data"><strong class="name">Woody Allen</strong><strong class="job">, director</strong>: Sun, Mercury, and Jupiter</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/frank-sinatra.png" /></td>
-		<td class="data"><strong class="name">Frank Sinatra</strong><strong class="job">, cantante</strong>: Sol y Mercurio</td>
+		<td class="photo"><img src="signs_sources/famosos/frank-sinatra.png" alt="Frank Sinatra" /></td>
+		<td class="data"><strong class="name">Frank Sinatra</strong><strong class="job">, singer</strong>: Sun and Mercury</td>
 	</tr>
 </table>

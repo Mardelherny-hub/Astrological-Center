@@ -4,25 +4,25 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-libra.png" />
+						<img src="signs_sources/simbologia/simbolo-libra.png" alt="Libra Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">La Balanza</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Scales</span>
 					</td>
 				</tr>
 			</table>
 		</td>
-		
+
 		<td class="seccion dos">
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-aire.png" />
+						<img src="signs_sources/elementos/elemento-aire.png" alt="Air Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Aire</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Air</span>
 					</td>
 				</tr>
 			</table>
@@ -32,10 +32,10 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/venus.png" />
+						<img src="signs_sources/planetas-regentes/venus.png" alt="Ruling Planet: Venus" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
+						<span class="title">RULING PLANET</span>
 						<span class="content">Venus</span>
 					</td>
 				</tr>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/7.png" />
+						<img src="signs_sources/casas/7.png" alt="House: Seventh" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">S&eacute;ptima</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Seventh</span>
 					</td>
 				</tr>
 			</table>
@@ -60,10 +60,10 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-libra.png" />
+						<img src="signs_sources/opuestos/opuesto-a-libra.png" alt="Opposite Sign: Aries" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
+						<span class="title">OPPOSITE</span>
 						<span class="content">Aries</span>
 					</td>
 				</tr>
@@ -72,33 +72,33 @@
 	</tr>
 </table>
 
-<p>La Balanza es el único objeto inanimado de todo el zodíaco, lo cual introduce el concepto impersonal de la Justicia, así como su carácter imparcial. Libra quiere ser justo en sus decisiones y acciones, por ello sopesa con la balanza. Para Libra la Balanza es símbolo de la eterna búsqueda de Equilibrio de este signo. Buscará el Equilibrio, por momentos lo encontrará, y por momentos aprenderá a moverse lo más elegantemente dentro de situaciones desequilibrantes.</p>
-<p>Además los dos platillos de la Balanza, pueden relacionarse uno con el “Yo” y el otro con el ¨Tú¨. Es decir que Libra busca el equilibrio o armonía entre el Yo y el Tú, es decir en los vínculos o relaciones humanas. De hecho Libra pertenece al elemento Aire (junto con Géminis y Acuario), que es esa sustancia invisible que nos conecta los unos a los otros (todos respiramos el mismo aire). Es por ello que para Libra la comunicación, el intercambio unos con otros, y el oír la opinión de los otros serán cuestiones de vital importancia. Le encanta llegar a acuerdos, buscando siempre el camino que le permita evitar el conflicto y la tensión, de allí su fama de diplomáticos, mediadores, consejeros, la búsqueda de la “Justicia Social”... La vida le enseñará que no siempre es posible, eludir una discusión o conflicto, hay veces que debemos sentar nuestra posición con firmeza y aprender a escuchar la no-aceptación o el disenso de lo otros (esto no le será fácil, pero con trabajo interior puede lograrlo).</p>
-<p>Desde otra perspectiva, Libra también puede ser más “liviano” (como buen signo de Aire). Un poco en broma, a modo de ejemplo, yo siempre digo que si una reunión social se vuelve aburrida o demasiado silenciosa, será bueno tener a mano el teléfono de un Libra para que se incorpore a la reunión y reavive la comunicación. Libra siempre sabrá sacar un As de la manga para poder sacar temas de conversación, entablar e iniciar el diálogo y volver el encuentro con los otros más agradable y llevadero.</p>
-<p>La necesidad de dar y recibir, de intercambiar, es una de las características que hace de Libra un signo para el cual la vida recobra mayor sentido cuando está en pareja. Libra desea compartir su vida y su afecto de manera plena, desea incluir a alguien más en su vida; es por ello que como acompañante, necesitará de alguien que esté dispuesto a relegar parte de su independencia en pos de la pareja; puede ser muy buen compañero y estará pendiente de sus vínculos primarios. Suele ser seductor y muchas veces carismático.</p>
-<p>La búsqueda de armonía, lo lleva a la atracción por lo Bello, lo Estético, lo refinado. De hecho esta característica está dada también por su planeta asociado que es Venus, diosa del amor, la estética y las artes.</p>
-<p>Libra deberá aprender a superar la tendencia a la indecisión o la duda (la búsqueda de equilibrio en ese caso se transforma en dualidad y paralización) permitiendo mostrar sus puntos de vista, cuando sea necesario, de manera directa y sincera, aunque a veces la franqueza implique cierta desarmonía momentánea. Así como también, aprender a no dejarse llevar sólo por las apariencias, que como sabemos, a veces, engañan.</p>
-<p>Por último, el recoger y considerar las opiniones de los demás, y el interés por los demás, son unas de sus mayores fortalezas, algo que todos los signos podrán aprender del signo de la Balanza.</p>
+<p>The Scales is the only inanimate object in the entire zodiac, introducing the impersonal concept of Justice, as well as its impartial character. Libra wants to be fair in its decisions and actions, thus weighing with the scales. For Libra, the Scale is a symbol of the eternal search for balance. It will seek balance, find it at times, and at other times, learn to move most elegantly within unbalancing situations.</p>
+<p>Moreover, the two pans of the Scale can be related to the "I" and the "You." That is, Libra seeks balance or harmony between the self and the other, i.e., in human relationships. In fact, Libra belongs to the Air element (along with Gemini and Aquarius), which is the invisible substance that connects us all (we all breathe the same air). That's why communication, the exchange with others, and listening to others' opinions will be vital for Libra. They love reaching agreements, always seeking the path that allows them to avoid conflict and tension, hence their reputation as diplomats, mediators, advisors, and their pursuit of "Social Justice"... Life will teach them that it's not always possible to avoid a discussion or conflict; sometimes, we must assert our position firmly and learn to listen to the non-acceptance or dissent of others (this won't be easy, but with inner work, they can achieve it).</p>
+<p>From another perspective, Libra can also be "lighter" (as a good Air sign). As a half-joke, by way of example, I always say that if a social gathering becomes boring or too silent, it's good to have a Libra's phone number on hand to join the meeting and revive communication. Libra will always know how to come up with topics of conversation, initiate dialogue, and make the gathering with others more pleasant and enjoyable.</p>
+<p>The need to give and receive, to exchange, is one of the characteristics that make Libra a sign for which life regains greater meaning when in a relationship. Libra wants to fully share life and affection, wishing to include someone else in their life. Therefore, as a partner, they will need someone willing to relinquish some of their independence for the sake of the relationship. They can be great companions and will be attentive to their primary relationships. They are often seductive and charismatic.</p>
+<p>The pursuit of harmony leads them to an attraction to the Beautiful, the Aesthetic, the refined. In fact, this characteristic is also given by their associated planet, Venus, the goddess of love, aesthetics, and the arts.</p>
+<p>Libra must learn to overcome the tendency to indecision or doubt (the search for balance, in this case, becomes duality and paralysis), allowing them to express their views when necessary, directly and honestly, even if frankness implies some momentary disharmony. They must also learn not to be solely guided by appearances, which, as we know, can be deceiving.</p>
+<p>Finally, gathering and considering the opinions of others, and the interest in others, are some of their greatest strengths, something that all signs can learn from the sign of the Scale.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Libra (o con planetas ubicados en el signo de Libra):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Libras (or with planets located in the sign of Libra):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/juan-domingo-peron.png" /></td>
-		<td class="data"><strong class="name">Juan Domingo Per&oacute;n</strong><strong class="job">, ex-presidente argentino</strong>: Sol y Marte</td>
+		<td class="photo"><img src="signs_sources/famosos/juan-domingo-peron.png" alt="Juan Domingo Per&oacute;n" /></td>
+		<td class="data"><strong class="name">Juan Domingo Per&oacute;n</strong><strong class="job">, former Argentine president</strong>: Sun and Mars</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/john-lennon.png" /></td>
-		<td class="data"><strong class="name">John Lennon</strong><strong class="job">, m&uacute;sico</strong>: Sol, Marte y Nodo Norte</td>
+		<td class="photo"><img src="signs_sources/famosos/john-lennon.png" alt="John Lennon" /></td>
+		<td class="data"><strong class="name">John Lennon</strong><strong class="job">, musician</strong>: Sun, Mars, and North Node</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/friedrich-nietzsche.png" /></td>
-		<td class="data"><strong class="name">Friedrich Nietzsche</strong><strong class="job">, fil&oacute;sofo</strong>: Sol y Mercurio</td>
+		<td class="photo"><img src="signs_sources/famosos/friedrich-nietzsche.png" alt="Friedrich Nietzsche" /></td>
+		<td class="data"><strong class="name">Friedrich Nietzsche</strong><strong class="job">, philosopher</strong>: Sun and Mercury</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/mahatma-gandhi.png" /></td>
-		<td class="data"><strong class="name">Mahatma Gandhi</strong><strong class="job">, l&iacute;der espiritual y pol&iacute;tico</strong>: Sol</td>
+		<td class="photo"><img src="signs_sources/famosos/mahatma-gandhi.png" alt="Mahatma Gandhi" /></td>
+		<td class="data"><strong class="name">Mahatma Gandhi</strong><strong class="job">, spiritual and political leader</strong>: Sun</td>
 	</tr>
 </table>

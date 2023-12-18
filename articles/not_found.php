@@ -1,1 +1,1 @@
-<h2 class="title">No se ha encontrado dicho art&iacute;culo.</h2>
+<h2 class="title">Article Not Found</h2>

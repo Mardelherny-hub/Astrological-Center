@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-acuario.png" />
+						<img src="signs_sources/simbologia/simbolo-acuario.png" alt="Aquarius Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">El Aguador</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Water Bearer</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-aire.png" />
+						<img src="signs_sources/elementos/elemento-aire.png" alt="Air Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Aire</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Air</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/urano.png" />
+						<img src="signs_sources/planetas-regentes/urano.png" alt="Ruling Planets: Saturn and Uranus" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETAS REGENTES</span>
-						<span class="content">Saturno y Urano</span>
+						<span class="title">RULING PLANETS</span>
+						<span class="content">Saturn and Uranus</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/11.png" />
+						<img src="signs_sources/casas/11.png" alt="House: Eleventh" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Und&eacute;cima</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Eleventh</span>
 					</td>
 				</tr>
 			</table>
@@ -60,10 +60,10 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-acuario.png" />
+						<img src="signs_sources/opuestos/opuesto-a-acuario.png" alt="Opposite Sign: Leo" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
+						<span class="title">OPPOSITE</span>
 						<span class="content">Leo</span>
 					</td>
 				</tr>
@@ -72,26 +72,26 @@
 	</tr>
 </table>
 
-<p>Acuario muchas veces se define como el “rebelde” del zodíaco. Luego del orden y el compromiso capricorniano, luego de haber edificado los cimientos y  estructuras, aparece este signo que cuestionará mucho de lo construido por su antecesor. Simbólicamente, esto no necesariamente representa el romper estructuras (aunque no vamos a negar que muchas veces sí lo logra hacer) al menos en la mayoría de los casos habrá en Acuario una necesidad de renovarse e innovar. Es por ello que podemos decir que los acuarianos miran hacia el futuro, y muchas veces cuando esta tendencia es llevada al extremo acuario puede olvidarse de vivir el presente y ahí sí que tendrá que volverse sobre sus propios pasos para reencontrarse con el Aquí y Ahora.</p>
-<p>Aclaremos que acuario a pesar de tener un nombre “acuático” es un signo de Aire, y justamente en el área de las emociones y sentimientos no es donde se desenvuelve con más comodidad. Ya que es un signo lo bastante desapegado como para caer en exceso de sentimentalismo o romanticismo, además teme perder algo, lo más preciado que es su propia Libertad, por eso evitará los vínculos excesivamente demandantes. Esto no significa que los acuarianos sean anti-sociables (como muchas veces lo es su signo antecesor), en realidad acuario puede desenvolverse como pez en el agua (siguiendo con las metáforas del agua) en el área de las relaciones humanas, amistades, vínculos con colegas, grupos, etc.</p>
-<p>Muchas veces me encontré charlando con Acuarianos que me decían: “lo que yo quiero es crear algo, inventar algo, hacer algo diferente”, esto es el motor que los impulsa a estar en movimiento. Como es un signo muy idealista, muchas veces sufre al darse cuenta de que el mundo está muy alejado del Ideal. Aquí se da un casi eterno dilema entre lo que es y lo que debería ser, esto los hace muchas veces muy críticos (¿acaso creían que sólo los virginianos tenían derecho a crítica?).</p>
-<p>Sus planetas regentes son Saturno (el regente tradicional) y Urano (co-regente). Uranos es el que rompe con lo caduco, con las rigideces y esquemas rígidos que nos atan al pasado. Saturno, en cambio,  en Acuario representa las nuevas estructuras a construir, luego de que el paso de urano haya introducido todas la reformas necesarias. </p>
-<p>El gran desafío para los aguadores es lograr concretizar sus anhelos y visiones y poder plasmarlas en carne y hueso, ya que muchas veces no ponen en practica lo que predican con tanta vehemencia. Acuario viene a enseñarnos que todos formamos parte de una gran familia que es la familia Humana.</p>
+<p>Aquarius is often defined as the "rebel" of the zodiac. After Capricorn's order and commitment, after having built the foundations and structures, this sign appears, questioning much of what its predecessor constructed. Symbolically, this does not necessarily represent the breaking of structures (although we cannot deny that it often achieves this) - at least in most cases, Aquarius will have a need to renew and innovate. That's why we can say that Aquarians look to the future, and many times when this tendency is taken to the extreme, Aquarius can forget to live in the present, and that's when it will have to retrace its steps to reconnect with the Here and Now.</p>
+<p>Let's clarify that despite having a "watery" name, Aquarius is an Air sign, and precisely in the area of emotions and feelings is not where it feels most comfortable. Since it is detached enough to fall into excessive sentimentality or romanticism, it also fears losing something, the most precious thing being its own Freedom, so it will avoid excessively demanding bonds. This does not mean that Aquarians are anti-social (as their predecessor's sign often is); in reality, Aquarius can thrive in the area of human relationships, friendships, connections with colleagues, groups, etc.</p>
+<p>Many times I have chatted with Aquarians who told me, "what I want is to create something, invent something, do something different." This is the driving force that propels them to be in motion. As it is a very idealistic sign, it often suffers when realizing that the world is far from the Ideal. Here is an almost eternal dilemma between what is and what should be, which often makes them very critical (did you think only Virgos had the right to criticism?).</p>
+<p>Its ruling planets are Saturn (the traditional ruler) and Uranus (co-ruler). Uranus is the one that breaks with the outdated, with the rigidities and rigid schemes that bind us to the past. Saturn, on the other hand, in Aquarius represents the new structures to be built after the passage of Uranus has introduced all the necessary reforms.</p>
+<p>The great challenge for the Water Bearers is to materialize their desires and visions and be able to materialize them in flesh and blood since they often do not put into practice what they preach so vehemently. Aquarius comes to teach us that we all are part of a great family, the Human Family.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Acuario (o con planetas ubicados en el signo de Acuario):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Aquarians (or with planets located in the sign of Aquarius):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/oprah-winfrey.png" /></td>
-		<td class="data"><strong class="name">Oprah Winfrey</strong><strong class="job">, presentadora norteamericana</strong>: Sol, Mercurio y Venus</td>
+		<td class="photo"><img src="signs_sources/famosos/oprah-winfrey.png" alt="Oprah Winfrey" /></td>
+		<td class="data"><strong class="name">Oprah Winfrey</strong><strong class="job">, American presenter</strong>: Sun, Mercury, and Venus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/wolfgang-amadeus-mozart.png" /></td>
-		<td class="data"><strong class="name">Wolgang Amadeus Mozart</strong><strong class="job">, compositor</strong>: Sol, Mercurio, Venus y Saturno</td>
+		<td class="photo"><img src="signs_sources/famosos/wolfgang-amadeus-mozart.png" alt="Wolfgang Amadeus Mozart" /></td>
+		<td class="data"><strong class="name">Wolfgang Amadeus Mozart</strong><strong class="job">, composer</strong>: Sun, Mercury, Venus, and Saturn</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/thomas-alva-edison.png" /></td>
-		<td class="data"><strong class="name">Thomas Edison</strong><strong class="job">, inventor</strong>: Sol, Mercurio y Neptuno</td>
+		<td class="photo"><img src="signs_sources/famosos/thomas-alva-edison.png" alt="Thomas Alva Edison" /></td>
+		<td class="data"><strong class="name">Thomas Edison</strong><strong class="job">, inventor</strong>: Sun, Mercury, and Neptune</td>
 	</tr>
 </table>

@@ -26,7 +26,7 @@
 
 
 				<div class="line">
-					<a target="_blank" href="article.php?article=colores">
+					<a  href="article.php?article=colores">
 						<article>
 							<img src="img/articles_miniatures/colores-s.jpg" />
 							<h5 class="title">What's Your Color According to Your Sign?</h5>
@@ -34,7 +34,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=acuario">
+					<a  href="article.php?article=acuario">
 						<article>
 							<img src="img/articles_miniatures/acuario-s.jpg" />
 							<h5 class="title">Astrology: The 11th House and True Humanism</h5>
@@ -42,7 +42,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=destino">
+					<a  href="article.php?article=destino">
 						<article>
 							<img src="img/articles_miniatures/destino-s.jpg" />
 							<h5 class="title">Who I Am, Where I Come From, and Where I'm Going</h5>
@@ -50,7 +50,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=personalidad">
+					<a  href="article.php?article=personalidad">
 						<article>
 							<img src="img/articles_miniatures/personalidad-s.jpg" />
 							<h5 class="title">The Astrological Theory of Personality</h5>
@@ -61,7 +61,7 @@
 
 
 				<div class="line">
-					<a target="_blank" href="article.php?article=numeros">
+					<a  href="article.php?article=numeros">
 						<article>
 							<img src="img/articles_miniatures/numeros-s.jpg" />
 							<h5 class="title">Astrology and Numbers</h5>
@@ -69,7 +69,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=nasa_bruno">
+					<a  href="article.php?article=nasa_bruno">
 						<article>
 							<img src="img/articles_miniatures/NASA_BRUNO-s.jpg" />
 							<h5 class="title">NASA Confirms What Giordano Bruno Already Said</h5>
@@ -77,7 +77,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=compatibilidad">
+					<a  href="article.php?article=compatibilidad">
 						<article>
 							<img src="img/articles_miniatures/compatibilidad-s.jpg" />
 							<h5 class="title">Keys to Compatibility in Love and Astrology</h5>
@@ -85,7 +85,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=megalitos">
+					<a  href="article.php?article=megalitos">
 						<article>
 							<img src="img/articles_miniatures/megalitos-s.jpg" />
 							<h5 class="title">Scientists Demonstrate the Relationship Between Megaliths and Celestial Bodies</h5>
@@ -95,7 +95,7 @@
 				</div>
 
 				<div class="line">
-					<a target="_blank" href="article.php?article=para-que-estudiar-astrologia">
+					<a  href="article.php?article=por-que-estudiar-astrologia">
 						<article>
 							<img src="img/articles_miniatures/por-que-estudiar-astrologia-chica.jpg" />
 							<h5 class="title">Why Study Astrology?</h5>
@@ -103,7 +103,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=que-es-el-signo-ascendente">
+					<a  href="article.php?article=que-es-el-signo-ascendente">
 						<article>
 							<img src="img/articles_miniatures/que-es-el-signo-ascendente-chica.jpg" />
 							<h5 class="title">What Is the Ascendant Sign?</h5>
@@ -111,7 +111,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=que-son-los-transitos">
+					<a  href="article.php?article=que-son-los-transitos">
 						<article>
 							<img src="img/articles_miniatures/que-son-los-transitos-chica.jpg" />
 							<h5 class="title">What Are Transits?</h5>
@@ -119,7 +119,7 @@
 						</article>
 					</a>
 
-					<a target="_blank" href="article.php?article=compatibilidad-de-relacion-o-sinastrias">
+					<a  href="article.php?article=compatibilidad-de-relacion-o-sinastrias">
 						<article>
 							<img src="img/articles_miniatures/compatibilidad-de-relacion-o-sinastrias-chica.jpg" />
 							<h5 class="title">Relationship Compatibility or Synastry</h5>
@@ -130,7 +130,7 @@
 
 
 				<div class="line">
-    <a target="_blank" href="article.php?article=la-astrologia-y-la-salud">
+    <a  href="article.php?article=la-astrologia-y-la-salud">
         <article>
             <img src="img/articles_miniatures/la-astrologia-y-la-salud-chica.jpg" />
             <h5 class="title">Astrology and Health</h5>
@@ -138,7 +138,7 @@
         </article>
     </a>
 
-    <a target="_blank" href="article.php?article=destino-o-libre-albedrio">
+    <a  href="article.php?article=destino-o-libre-albedrio">
         <article>
             <img src="img/articles_miniatures/destino-o-libre-albedrio-chica.jpg" />
             <h5 class="title">Destiny or Free Will</h5>
@@ -146,7 +146,7 @@
         </article>
     </a>
 
-    <a target="_blank" href="article.php?article=ascendente-cancer-en-la-revolucion-solar">
+    <a  href="article.php?article=ascendente-cancer-en-la-revolucion-solar">
         <article>
             <img src="img/articles_miniatures/ascendente-cancer-en-la-revolucion-solar-chica.jpg" />
             <h5 class="title">Cancer Ascendant in Solar Revolution</h5>
@@ -154,7 +154,7 @@
         </article>
     </a>
 
-    <a target="_blank" href="article.php?article=aspectos-jupiter-neptuno">
+    <a  href="article.php?article=aspectos-jupiter-neptuno">
         <article>
             <img src="img/articles_miniatures/aspectos-jupiter-neptuno-chica.jpg" />
             <h5 class="title">Jupiter/Neptune Aspects</h5>
@@ -164,7 +164,7 @@
 </div>
 
 <div class="line">
-    <a target="_blank" href="article.php?article=planetas-retrogrados">
+    <a  href="article.php?article=planetas-retrogrados">
         <article>
             <img src="img/articles_miniatures/planetas-retrogrados-chica.jpg" />
             <h5 class="title">Retrograde Planets</h5>
@@ -172,7 +172,7 @@
         </article>
     </a>
 
-    <a target="_blank" href="article.php?article=arquetipos-y-la-astrologia">
+    <a  href="article.php?article=arquetipos-y-la-astrologia">
         <article>
             <img src="img/articles_miniatures/arquetipos-y-la-astrologia-chica.jpg" />
             <h5 class="title">Archetypes and Astrology</h5>

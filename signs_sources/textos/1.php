@@ -4,25 +4,25 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-aries.png" />
+						<img src="signs_sources/simbologia/simbolo-aries.png" alt="Aries Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">El Carnero</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Ram</span>
 					</td>
 				</tr>
 			</table>
 		</td>
-		
+
 		<td class="seccion dos">
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-fuego.png" />
+						<img src="signs_sources/elementos/elemento-fuego.png" alt="Fire Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Fuego</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Fire</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/marte.png" />
+						<img src="signs_sources/planetas-regentes/marte.png" alt="Ruling Planet: Mars" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
-						<span class="content">Marte</span>
+						<span class="title">RULING PLANET</span>
+						<span class="content">Mars</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/1.png" />
+						<img src="signs_sources/casas/1.png" alt="House: First" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Primera</span>
+						<span class="title">HOUSE</span>
+						<span class="content">First</span>
 					</td>
 				</tr>
 			</table>
@@ -60,10 +60,10 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-aries.png" />
+						<img src="signs_sources/opuestos/opuesto-a-aries.png" alt="Opposite Sign: Libra" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
+						<span class="title">OPPOSITE</span>
 						<span class="content">Libra</span>
 					</td>
 				</tr>
@@ -72,26 +72,26 @@
 	</tr>
 </table>
 
-<p>Por ser el primer signo del Zod&iacute;aco, Aries representa el Arquetipo del Pionero, el iniciador, el que abre caminos. Es por ello que Aries exige movimiento ante todas las cosas, nada peor para ellos que tener que estar mucho tiempo quietos. Aries naci&oacute; para dar canal a su necesidad de autoexpresi&oacute;n, y para lograrlo muestra su gran determinaci&oacute;n y muchas veces es guiado por fuertes impulsos. En los v&iacute;nculos intentar&aacute; preservar su independencia. Pienso que todo esto hace de Aries un signo que siente que tiene permiso para equivocarse, y es por ello que se aventura (a veces se equivocar&aacute; y otras no, pero ese es otro tema...). Encender el motor es algo que no le cuesta a Aries, y esto har&aacute; que sean grandes motivadores, entusiasmando o motivando a otros con sus acciones e ideas. Tanta energ&iacute;a no siempre es f&aacute;cil de canalizar, de all&iacute; a menudo los estallidos emocionales, especialmente cuando se interponen en su camino. Eso s&iacute; no suelen guardar ning&uacute;n tipo de rencor, tienen la capacidad de dar vuelta de p&aacute;gina r&aacute;pidamente.</p>
+<p>As the first sign of the Zodiac, Aries represents the archetype of the Pioneer, the initiator, the one who blazes trails. This is why Aries demands movement above all else; nothing is worse for them than having to stay still for a long time. Aries was born to give expression to their need for self-expression, and to achieve this, they show great determination and are often guided by strong impulses. In relationships, they will try to preserve their independence. I think all of this makes Aries a sign that feels it has permission to make mistakes, which is why they venture (sometimes they will be wrong and other times not, but that's another matter...). Starting the engine is something that doesn't cost Aries much, and this will make them great motivators, inspiring or motivating others with their actions and ideas. Managing so much energy is not always easy to channel, often leading to emotional outbursts, especially when obstacles stand in their way. However, they usually don't hold any grudges and have the ability to turn the page quickly.</p>
 
-<p>El inter&eacute;s que Aries siente por s&iacute; mismo es fuerte, adem&aacute;s de su iniciativa y emprendimiento, a menudo suele ignorar, minimizar o rechazar la necesidades de los dem&aacute;s. La vida le ense&ntilde;a que no siempre puede vivir o actuar s&oacute;lo para s&iacute; mismo, y as&iacute; poder equilibrar mejor sus energ&iacute;as entre el YO y el LOS OTROS.</p>
+<p>Aries' self-interest is strong, in addition to their initiative and entrepreneurship; they often ignore, minimize, or reject the needs of others. Life teaches them that they cannot always live or act only for themselves, helping them better balance their energies between SELF and OTHERS.</p>
 
-<p>El planeta asociado a Aries es Marte, conocido en la Mitolog&iacute;a como el luchador de valiente decisi&oacute;n propia, planeta de acci&oacute;n y empuje.</p>
+<p>The planet associated with Aries is Mars, known in mythology as the brave fighter with independent decision-making, a planet of action and drive.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Aries (o con planetas ubicados en el signo de Aries):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Aries Individuals (or with planets located in the sign of Aries):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/marlon-brando.png" /></td>
-		<td class="data"><strong class="name">Marlon Brando</strong><strong class="job">, actor</strong>: Sol, Luna y Mercurio</td>
+		<td class="photo"><img src="signs_sources/famosos/marlon-brando.png" alt="Marlon Brando" /></td>
+		<td class="data"><strong class="name">Marlon Brando</strong><strong class="job">, actor</strong>: Sun, Moon, and Mercury</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/john-lennon.png" /></td>
-		<td class="data"><strong class="name">John Lennon</strong><strong class="job">, m&uacute;sico</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/john-lennon.png" alt="John Lennon" /></td>
+		<td class="data"><strong class="name">John Lennon</strong><strong class="job">, musician</strong>: Ascendant</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/joseph-campbell.png" /></td>
-		<td class="data"><strong class="name">Joseph Campbell</strong><strong class="job">, mit&oacute;logo</strong>: Sol, Mercurio, J&uacute;piter y Marte</td>
+		<td class="photo"><img src="signs_sources/famosos/joseph-campbell.png" alt="Joseph Campbell" /></td>
+		<td class="data"><strong class="name">Joseph Campbell</strong><strong class="job">, mythologist</strong>: Sun, Mercury, Jupiter, and Mars</td>
 	</tr>
 </table>

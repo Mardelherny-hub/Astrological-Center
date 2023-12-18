@@ -1,32 +1,32 @@
-<h2 class="title">La Astrología y la salud</h2>
+<h2 class="title">Astrology and Health</h2>
 <div class="social_networks"></div>
-<img class="article_image" src="img/articles_miniatures/la-astrologia-y-la-salud.jpg"></img>
+<img class="article_image" src="img/articles_miniatures/la-astrologia-y-la-salud.jpg" alt="Illustration depicting the relationship between astrology and health"></img>
 <?php include('social-networks.php'); ?>
 
-<p>Existe una relacion más que interesante entre medicina y astrologia. De hecho somos seres de energía, una psique o alma que encarna en un cuerpo físico, conformando un todo inseparable hasta el momento de la muerte. Los signos del zodiaco y los planetas nos influencian tanto a nivel psicológico (marcando influencias en el ánimo, tendencias vocacionales, emocionales, etc.) como a nivel físico. Ya que la carta natal y el estudio de la astrologia nos permite ver nuestras PREDISPOSICIONES FÍSICAS en cuanto a salud y enfermedad. Cada uno de los 12 signos del zodíaco se asocia con una parte del cuerpo, veamos algunas de las analogias entre astrologia y cuerpo físico:</p>
+<p>There is a more than interesting relationship between medicine and astrology. In fact, we are beings of energy, a psyche or soul that embodies in a physical body, forming an inseparable whole until the moment of death. The zodiac signs and planets influence us both psychologically (marking influences on mood, vocational tendencies, emotions, etc.) and physically. Since the natal chart and the study of astrology allow us to see our PHYSICAL PREDISPOSITIONS regarding health and disease. Each of the 12 zodiac signs is associated with a part of the body; let's look at some of the analogies between astrology and the physical body:</p>
 
-<p>Aries: La Cabeza</p>
+<p>Aries: The Head</p>
 
-<p>Tauro: Garganta, Glandula Tiroides, cuello y cervicales</p>
+<p>Taurus: Throat, Thyroid Gland, neck, and cervical spine</p>
 
-<p>Geminis: Pulmones, funcion respiratoria y extremidades</p>
+<p>Gemini: Lungs, respiratory function, and extremities</p>
 
-<p>Cancer: Estómago, funcion digestiva</p>
+<p>Cancer: Stomach, digestive function</p>
 
-<p>Leo: Corazón, aparato circulatorio, espalda</p>
+<p>Leo: Heart, circulatory system, and back</p>
 
-<p>Virgo: Intestinos, colon</p>
+<p>Virgo: Intestines, colon</p>
 
-<p>Libra: Riñones, sistema nefríticos</p>
+<p>Libra: Kidneys, nephritic system</p>
 
-<p>Escorpio: organos genitourinarios y intestino grueso</p>
+<p>Scorpio: Genitourinary organs and large intestine</p>
 
-<p>Sagitario: muslos, lumbares, nervio ciático, hígado y funcion hepática</p>
+<p>Sagittarius: Thighs, lumbar region, sciatic nerve, liver, and liver function</p>
 
-<p>Capricornio: Rodillas y articulaciones en general, dientes, piel</p>
+<p>Capricorn: Knees and joints in general, teeth, skin</p>
 
-<p>Acuario: Tobillos, circulación sanguínea, sistema nervioso</p>
+<p>Aquarius: Ankles, blood circulation, nervous system</p>
 
-<p>Piscis: Pies, las mucosas y sistema linfatico</p>
+<p>Pisces: Feet, mucous membranes, and lymphatic system</p>
 
-<p>¿Querés aprender astrologia y su relación con el cuerpo humano? Informate sobre los proximos cursos de astrologia y sobre la carrera de astrologia que se dicta en la Escuela Aztlan (ciudad de Buenos Aires, Argentina)</p>
+<p>Want to learn astrology and its relationship with the human body? Find out about upcoming astrology courses and the astrology career offered at the Aztlan School (City of Buenos Aires, Argentina).</p>

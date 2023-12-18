@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-piscis.png" />
+						<img src="signs_sources/simbologia/simbolo-piscis.png" alt="Pisces Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">Los peces</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Fish</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-agua.png" />
+						<img src="signs_sources/elementos/elemento-agua.png" alt="Water Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Agua</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Water</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/neptuno.png" />
+						<img src="signs_sources/planetas-regentes/neptuno.png" alt="Ruling Planets: Jupiter and Neptune" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETAS REGENTES</span>
-						<span class="content">J&uacute;piter y Neptuno</span>
+						<span class="title">RULING PLANETS</span>
+						<span class="content">Jupiter and Neptune</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/12.png" />
+						<img src="signs_sources/casas/12.png" alt="House: Twelfth" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Doceava</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Twelfth</span>
 					</td>
 				</tr>
 			</table>
@@ -60,10 +60,10 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-piscis.png" />
+						<img src="signs_sources/opuestos/opuesto-a-piscis.png" alt="Opposite Sign: Virgo" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
+						<span class="title">OPPOSITE</span>
 						<span class="content">Virgo</span>
 					</td>
 				</tr>
@@ -72,29 +72,29 @@
 	</tr>
 </table>
 
-<p>Piscis es uno de los signos más sensibles y receptivos del zodíaco. De hecho su elemento es el Agua, es el elemento más receptivo de todos, asociado con el mundo interior y con los aspectos emocionales de la existencia. El agua no tiene forma propia, se adapta a su envase, ésta cualidad le confiere a Piscis su flexibilidad y adaptabilidad a distintas personas y ambientes; algo que le da la capacidad para entrar en empatía con otros seres  humanos, mejor dicho con otros seres vivos, ya que piscis es un signo que también se interesa frecuentemente por el cuidado de los animales y la naturaleza. Difícilmente Piscis sea indiferente frente al dolor o sufrimiento ajeno, suelen ser psicólogos naturales, al poder prestar oído atento y dar consejo a otros. Básicamente es un signo muy humanista. Sin embargo, Piscis puede llegar a involucrarse tanto emocionalmente con los demás al punto de terminar absorbiendo los conflictos ajenos., y por otro lado suele ser bastante influenciable e impresionable frente a todo tipo de influjos. Será de suma importancia el rodearse de ambientes positivos.</p>
-<p>Piscis es soñador, místico y romántico, por lo tanto puede tener sensibilidad artística y estética. Su punto débil es que no suele ser lo que se dice un signo pragmático, a la hora de concretizar, tomar decisiones o enfrentar situaciones hostiles muchas veces prefiere simplemente evadirse o postergarlo de alguna manera. A veces se verá a si mismo como alguien más débil de lo que verdaderamente es, y tendrá el desafío de ir reconociendo su fortaleza para enfrentar los desafíos de la vida. De esta manera podrá evitar el proyectar en los demás las cualidades positivas que él mismo cree no poseer. Muchas veces este mecanismo esconde cierta baja autoestima, pero a la vez termina idealizando a personas que lo rodean y muchas veces atribuyéndoles características que en verdad los otros no poseen y que muchas veces finalmente los hacen sentirse “defraudados”.  En el ámbito del corazón  Piscis tiene sentimientos profundos, necesita de vínculos que le permitan obtener intimidad y contención emocional; será por la profundidad de sus sentimientos que es uno de los signos a los que más le cuesta afrontar separaciones y asumir el final de una relación. Piscis deberá ampararse en creencias hacia metas superiores o de servicio a los demás, para contrarrestar su tendencia a los bajones anímicos. La dualidad de este signo lo llevará a vivenciar estados anímicos cambiantes, pero también esto le da una capacidad multifacética por la cual encontramos tantos actores y excelentes intérpretes de papeles sumamente diversos que pertenecen a Piscis.</p>
-<p>Piscis representa las creencias, la fe y las esperanzas, por eso básicamente su verbo es Creer: creer en las personas, creer en una filosofía, ideología, religión o su propia forma de espiritualidad. Su planeta, Neptuno representa como arquetipo los sentimientos espirituales, la compasión y el sacrificio por los seres sufrientes, así como también neptuno representa el mundo de las fantasías como por ejemplo el cine, pero también las “visiones” e intuiciones que proviene del inconsciente para dar una guía y orientación a nuestro Ego cotidiano. A veces sin darse cuenta puede engañarse a si mismo, recortando la realidad y siendo algo parcial en sus juicios. si eso sucede serña bueno recuperar la objetividad frente a los hechos, y animarse a vivir la realidad que nos toca, o si no nos gusta, jugarnos por intentar modificarla.</p>
+<p>Pisces is one of the most sensitive and receptive signs of the zodiac. In fact, its element is Water, the most receptive element of all, associated with the inner world and the emotional aspects of existence. Water has no inherent form; it adapts to its container. This quality gives Pisces its flexibility and adaptability to different people and environments. It grants Pisces the ability to empathize with other living beings, including a frequent interest in caring for animals and nature. Pisces is seldom indifferent to the pain or suffering of others; they are natural psychologists, able to lend a listening ear and offer advice to others. Basically, it is a very humanistic sign. However, Pisces can become so emotionally involved with others to the point of absorbing other people's conflicts. On the other hand, they are often quite impressionable and susceptible to various influences. It is crucial for them to surround themselves with positive environments.</p>
+<p>Pisces is a dreamer, mystic, and romantic. Therefore, they may possess artistic and aesthetic sensitivity. Their weakness lies in not being particularly pragmatic. When it comes to making decisions or facing hostile situations, Pisces often prefers to evade or postpone. Sometimes, they see themselves as weaker than they really are and face the challenge of recognizing their strength to deal with life's challenges. This way, they can avoid projecting onto others the positive qualities that they believe they lack. Often, this mechanism hides a certain low self-esteem, but at the same time, they tend to idealize people around them, attributing to them qualities that others may not possess, which can lead to feelings of disappointment. In matters of the heart, Pisces has deep feelings and needs relationships that allow for intimacy and emotional support. Due to the depth of their feelings, they find it challenging to face separations and accept the end of a relationship. Pisces should rely on beliefs in higher goals or service to others to counteract their tendency to mood swings. The duality of this sign leads them to experience changing emotional states, but it also gives them a multifaceted capacity, explaining why many actors and excellent performers with diverse roles belong to Pisces.</p>
+<p>Pisces represents beliefs, faith, and hopes. Therefore, their main verb is "to believe": believe in people, believe in a philosophy, ideology, religion, or their own form of spirituality. Their ruling planet, Neptune, represents spiritual feelings, compassion, and sacrifice for suffering beings. Neptune also represents the world of fantasies, such as cinema, but also the "visions" and intuitions that come from the unconscious to guide and orient our everyday ego. Sometimes, without realizing it, they can deceive themselves, cutting reality and being somewhat partial in their judgments. If this happens, it is good to regain objectivity in the face of facts and dare to live the reality that confronts us, or, if we don't like it, strive to change it.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Piscis (o con planetas ubicados en el signo de Piscis):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Pisceans (or with planets located in the sign of Pisces):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/miguel-angel.png" /></td>
-		<td class="data"><strong class="name">Miguel &Aacute;ngel</strong><strong class="job">, artista</strong>: Sol, Luna y Marte</td>
+		<td class="photo"><img src="signs_sources/famosos/miguel-angel.png" alt="Miguel Ángel" /></td>
+		<td class="data"><strong class="name">Miguel Ángel</strong><strong class="job">, artist</strong>: Sun, Moon, and Mars</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/elizabeth-taylor.png" /></td>
-		<td class="data"><strong class="name">Elizabeth Taylor</strong><strong class="job">, actriz</strong>: Sol, Mercurio, Marte y Nodo Norte</td>
+		<td class="photo"><img src="signs_sources/famosos/elizabeth-taylor.png" alt="Elizabeth Taylor" /></td>
+		<td class="data"><strong class="name">Elizabeth Taylor</strong><strong class="job">, actress</strong>: Sun, Mercury, Mars, and North Node</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/edgar-cayce.png" /></td>
-		<td class="data"><strong class="name">Edgar Cayce</strong><strong class="job">, ps&iacute;quico</strong>: Sol, Mercurio, Venus y Saturno</td>
+		<td class="photo"><img src="signs_sources/famosos/edgar-cayce.png" alt="Edgar Cayce" /></td>
+		<td class="data"><strong class="name">Edgar Cayce</strong><strong class="job">, psychic</strong>: Sun, Mercury, Venus, and Saturn</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/cristina-fernandez-de-kirchner.png" /></td>
-		<td class="data"><strong class="name">Cristina Fern&aacute;ndez de Kirchner</strong><strong class="job">, presidenta</strong>: Sol, Mercurio</td>
+		<td class="photo"><img src="signs_sources/famosos/cristina-fernandez-de-kirchner.png" alt="Cristina Fernández de Kirchner" /></td>
+		<td class="data"><strong class="name">Cristina Fernández de Kirchner</strong><strong class="job">, president</strong>: Sun, Mercury</td>
 	</tr>
 </table>

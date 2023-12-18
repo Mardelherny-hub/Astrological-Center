@@ -1,81 +1,87 @@
 <!DOCTYPE html>
-<html lang="es">
-	<head>
-		<?php include('site/head.php'); $asunto = 'Solicitud de Información - Curso de Astrología'; ?>
-		
-		<style>
+<html lang="en">
 
+<head>
+	<?php include('site/head.php');
+	$asunto = 'Solicitud de Información - Curso de Astrología'; ?>
+
+	<style>
 		/* ESTILOS DEL FORMULARIO */
-			.contacto {
-				background: #5E397A;
-				width: 100%;
-				padding: 20px;
-				margin-top: 30px;
-				margin-bottom: 50px;
-			}
+		.contacto {
+			background: #5E397A;
+			width: 100%;
+			padding: 20px;
+			margin-top: 30px;
+			margin-bottom: 50px;
+		}
 
-			input, textarea {
-				padding: 10px;
-				margin: 10px 0px;
-				font-size: 1.5em;
-				width: 100%;
-			}
+		input,
+		textarea {
+			padding: 10px;
+			margin: 10px 0px;
+			font-size: 1.5em;
+			width: 100%;
+		}
 
-			button {
-				background: #4C0B5F;
-				color: #fff;
-				border-radius: 2px;
-				border: none;
-				padding: 10px 20px;
-				font-size: 1.5em;
-				font-weight: bold;
-				margin-top: 10px!important;
-			}
+		button {
+			background: #4C0B5F;
+			color: #fff;
+			border-radius: 2px;
+			border: none;
+			padding: 10px 20px;
+			font-size: 1.5em;
+			font-weight: bold;
+			margin-top: 10px !important;
+		}
 
-			/*  FIN ESTILOS DEL FORMULARIO */
+		/*  FIN ESTILOS DEL FORMULARIO */
 
-		.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover, .dropdown-menu>li>a:hover
-		{
+		.dropdown-menu>.active>a,
+		.dropdown-menu>.active>a:focus,
+		.dropdown-menu>.active>a:hover,
+		.dropdown-menu>li>a:hover {
 			color: #ff8b1e;
 			text-decoration: none;
 			background-color: #f5f5f5;
 			outline: 0;
 		}
-		.panel-default
-		{
+
+		.panel-default {
 			border-color: white;
 		}
-		.panel-default>.panel-heading
-		{
+
+		.panel-default>.panel-heading {
 			color: #333;
 			background-color: white;
 			border-color: white;
 		}
-		.nav-tabs
-		{
+
+		.nav-tabs {
 			border-bottom: 0px solid #eee;
 		}
-		.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover
-		{
+
+		.nav-tabs>li.active>a,
+		.nav-tabs>li.active>a:focus,
+		.nav-tabs>li.active>a:hover {
 			color: white;
 			cursor: default;
 			background-color: #ff8b1e;
 			border: 0px solid #ddd;
 			border-bottom-color: #eee;
 		}
-		.nav-tabs>li>a:hover
-		{
+
+		.nav-tabs>li>a:hover {
 			border-color: #eee;
 			font-size: 16px;
 		}
-		.nav-tabs>li>a
-		{
+
+		.nav-tabs>li>a {
 			border-color: #eee;
 			font-size: 16px;
-			color:#ff8b1e;
+			color: #ff8b1e;
 		}
-		.solicita_btn
-		{
+
+		.solicita_btn {
 			cursor: pointer;
 			border: none;
 			background: #3277ae;
@@ -88,99 +94,105 @@
 			font: bold 16px "PT Sans", sans-serif;
 			text-transform: uppercase;
 		}
-		.solicita_btn:hover
-		{
+
+		.solicita_btn:hover {
 			background: #be0f34;
 			-webkit-transition: background 0.3s ease-in-out;
 			-moz-transition: background 0.3s ease-in-out;
 			transition: background-color 0.3s ease-in-out;
 		}
-		.tab-content p
-		{
+
+		.tab-content p {
 			font-size: 16px !important;
 		}
-		img.program_image
-		{
+
+		img.program_image {
 			float: left;
 			margin-right: 20px;
 			width: 100px;
 		}
-		ul.program_list
-		{
+
+		ul.program_list {
 			margin-left: 120px;
 			width: auto;
 			padding-bottom: 30px;
 		}
-		a, a:link, a:visited, a:hover, a:focus
-		{
+
+		a,
+		a:link,
+		a:visited,
+		a:hover,
+		a:focus {
 			color: #fff;
 		}
-		.article_image
-		{
+
+		.article_image {
 			max-width: 100%;
 		}
-		.panel-body li:before
-		{
+
+		.panel-body li:before {
 			content: "● ";
-			color: #ff8b1e; /* or whatever color you prefer */
+			color: #ff8b1e;
+			/* or whatever color you prefer */
 		}
-		.panel-body li
-		{
+
+		.panel-body li {
 			padding-left: 1em;
 			text-indent: -.7em;
 			font-size: 15px;
 		}
-		.panel-body ul
-		{
+
+		.panel-body ul {
 			list-style: none;
-			padding:0;
-			margin:0;
+			padding: 0;
+			margin: 0;
 		}
-		.panel-default
-		{
-			color:#333333;
+
+		.panel-default {
+			color: #333333;
 			font-size: 16px;
 		}
-		.panel-default h2
-		{
-			color:#333333;
+
+		.panel-default h2 {
+			color: #333333;
 			font-weight: normal;
-			margin-top:30px;
+			margin-top: 30px;
 		}
-		.panel-default h3
-		{
+
+		.panel-default h3 {
 			font-size: 15px;
 			border-bottom: 0px;
 		}
-		.panel-default h4
-		{
-			color:#ff8b1e;
+
+		.panel-default h4 {
+			color: #ff8b1e;
 			font-weight: bold;
 			font-size: 21px;
 		}
-		.panel-default h5
-		{
-			color:#333333;
+
+		.panel-default h5 {
+			color: #333333;
 			font-size: 17px;
 			padding-bottom: 5px;
 		}
-		.col-sm-6
-		{
+
+		.col-sm-6 {
 			padding-bottom: 15px;
 		}
-		.panel-heading>h4>a
-		{
+
+		.panel-heading>h4>a {
 			color: #ff8b1e;
 		}
-		.panel
-		{
-			border:0px;
+
+		.panel {
+			border: 0px;
 		}
-		.youtube-video
-		{
+
+		.youtube-video {
 			padding: 15px;
 			min-width: : 420px;
 		}
+
 		/* ▼▼▼▼▼▼▼▼▼▼ NOTAS ▼▼▼▼▼▼▼▼▼▼
 			SHORTHAND > font: font-style // font-variant // font-weight // font-size // font-family;
 
@@ -191,79 +203,220 @@
 			lg: >=1200 (en adelante)
 			▲▲▲▲▲▲▲▲▲▲ FIN NOTAS ▲▲▲▲▲▲▲▲▲▲ */
 
-			/* ▼▼▼▼▼▼ Estilos <768 (tamaño xs en Bootstrap) ▼▼▼▼▼▼ */
+		/* ▼▼▼▼▼▼ Estilos <768 (tamaño xs en Bootstrap) ▼▼▼▼▼▼ */
+		/* Contenedor de la sección de contenido */
+		.harmonic-styles {
+			border-bottom: 1px solid #ddd;
+			margin: 0px 40px 10px 0px;
+			padding: 0px 0px 5px 0px;
+			width: 100%;
+		}
+
+		/* Cabecera del contenido donde está
+			la información operativa del evento */
+		.harmonic-styles .header-section {
+			border-bottom: 1px solid #ddd;
+			margin: 0px;
+			padding: 0px;
+			width: 90%;
+		}
+
+		/* Título */
+		.harmonic-styles h1 {
+			color: #414141;
+			font-family: "Roboto", Arial, sans-serif;
+			font-size: 27px;
+			font-weight: 500;
+			line-height: 135%;
+			margin: 0px;
+			width: 90%;
+		}
+
+		/* Subtítulo */
+		.harmonic-styles h2 {
+			color: #414141;
+			font-family: "Roboto", Arial, sans-serif;
+			font-size: 22px;
+			font-weight: 300;
+			line-height: 110%;
+			margin: 8px 0px 0px 0px;
+		}
+
+		/* Tipo de evento (CHARLA, CLASE PRESENCIAL, etc.) */
+		.harmonic-styles .header-section h3 {
+			border-left-style: solid;
+			border-left-width: 2px;
+			font-family: "Roboto", Arial, sans-serif;
+			font-size: 16px;
+			font-weight: 600;
+			line-height: 145%;
+			margin: 0px 0px 7px 0px;
+			padding: 0px 0px 0px 7px;
+		}
+
+		/* Color lila del tipo de evento, en eventos de astrología */
+		.harmonic-styles.astro .header-section h3 {
+			border-left-color: #9f6cf7;
+			color: #9f6cf7;
+		}
+
+		/* Color azul claro del tipo de evento, en eventos de psicología */
+		.harmonic-styles.psico .header-section h3 {
+			border-left-color: #3c59ea;
+			color: #3c59ea;
+		}
+
+		/* Fecha */
+		.harmonic-styles h4 {
+			color: #414141;
+			font-family: "Roboto", Arial, sans-serif;
+			font-size: 15px;
+			font-weight: 300;
+			line-height: 145%;
+			margin: 7px 0px 10px 0px;
+		}
+
+		.harmonic-styles.psico h4 {
+			font-weight: 400;
+		}
+
+		/* Título menor dentro del contenido */
+		.harmonic-styles h5 {
+			color: #2A2B2C;
+			font-family: "PT Sans", "Roboto", sans-serif;
+			font-size: 18px;
+			font-weight: 700;
+			line-height: 145%;
+			margin: 8px 0px;
+			padding: 0px;
+		}
+
+		/* Subtítulo menor dentro del contenido */
+		.harmonic-styles h6 {
+			color: #2A2B2C;
+			font-family: "PT Sans", "Roboto", sans-serif;
+			font-size: 17px;
+			font-weight: 700;
+			line-height: 145%;
+			margin: 8px 0px;
+			padding: 0px;
+		}
+
+		/* Párrafos */
+		.harmonic-styles p {
+			color: #2A2B2C;
+			font-family: "PT Sans", "Roboto", sans-serif;
+			font-size: 15px;
+			font-weight: 400;
+			line-height: 145%;
+			margin: 8px 0px;
+		}
+
+		/* Negritas dentro de los párrafos e items de listas no ordenadas */
+		.harmonic-styles p strong,
+		.harmonic-styles li strong {
+			color: #606060;
+			font-weight: 700;
+		}
+
+		/* Links */
+		.harmonic-styles p a {
+			color: #3c59ea;
+			font-family: "PT Sans", "Roboto", sans-serif;
+			font-size: 15px;
+			font-weight: 400;
+		}
+
+		/* Listas no ordenadas */
+		.harmonic-styles ul {
+			color: #2A2B2C;
+			font-family: "PT Sans", "Roboto", sans-serif;
+			font-size: 15px;
+			font-weight: 400;
+			line-height: 145%;
+			list-style-type: none;
+			padding: 0px 0px 0px 15px;
+			margin: 0px;
+		}
+
+		/* Items de las listas no ordenadas */
+		.harmonic-styles ul li {
+			margin: 8px 0px;
+			padding: 0px;
+		}
+
+		/* Listas ordenadas */
+		.harmonic-styles ol {
+			color: #2A2B2C;
+			font-family: "PT Sans", "Roboto", sans-serif;
+			font-size: 15px;
+			font-weight: 400;
+			line-height: 145%;
+			list-style-type: decimal;
+			padding: 0px 0px 0px 15px;
+			margin: 0px;
+		}
+
+		.harmonic-styles ol li {
+			margin: 8px 0px;
+			padding: 0px;
+		}
+
+		.harmonic-styles .panel-body ul {
+			list-style-type: none;
+		}
+
+		@media screen and (min-width: 768px) {
+
+			/* ▼▼▼▼▼▼ Estilos para >=768 (tamaños sm, md y lg en Bootstrap) ▼▼▼▼▼▼ */
 			/* Contenedor de la sección de contenido */
-			.harmonic-styles
-			{
-				border-bottom: 1px solid #ddd;
-				margin: 0px 40px 10px 0px;
-				padding: 0px 0px 5px 0px;
+			.harmonic-styles {
+				margin: 30px auto 30px 20px;
 				width: 100%;
 			}
 
 			/* Cabecera del contenido donde está
-			la información operativa del evento */
-			.harmonic-styles .header-section
-			{
+				la información operativa del evento */
+			.harmonic-styles .header-section {
 				border-bottom: 1px solid #ddd;
 				margin: 0px;
 				padding: 0px;
-				width: 90%;
 			}
 
 			/* Título */
-			.harmonic-styles h1
-			{
+			.harmonic-styles h1 {
 				color: #414141;
 				font-family: "Roboto", Arial, sans-serif;
 				font-size: 27px;
 				font-weight: 500;
-				line-height: 135%;
+				line-height: 85%;
 				margin: 0px;
-				width: 90%;
 			}
 
 			/* Subtítulo */
-			.harmonic-styles h2
-			{
+			.harmonic-styles h2 {
 				color: #414141;
 				font-family: "Roboto", Arial, sans-serif;
 				font-size: 22px;
 				font-weight: 300;
-				line-height: 110%;
-				margin: 8px 0px 0px 0px;
+				line-height: 145%;
+				margin: 0px;
 			}
 
 			/* Tipo de evento (CHARLA, CLASE PRESENCIAL, etc.) */
-			.harmonic-styles .header-section h3
-			{
-				border-left-style: solid;
-				border-left-width: 2px;
+			.harmonic-styles h3 {
+				border-left: 2px solid #9f6cf7;
+				color: #9f6cf7;
 				font-family: "Roboto", Arial, sans-serif;
 				font-size: 16px;
 				font-weight: 600;
 				line-height: 145%;
-				margin: 0px 0px 7px 0px;
+				margin: 0px;
 				padding: 0px 0px 0px 7px;
 			}
 
-			/* Color lila del tipo de evento, en eventos de astrología */
-			.harmonic-styles.astro .header-section h3
-			{
-				border-left-color: #9f6cf7;
-				color: #9f6cf7;
-			}
-
-			/* Color azul claro del tipo de evento, en eventos de psicología */
-			.harmonic-styles.psico .header-section h3
-			{
-				border-left-color: #3c59ea;
-				color: #3c59ea;
-			}
-
 			/* Fecha */
-			.harmonic-styles h4
-			{
+			.harmonic-styles h4 {
 				color: #414141;
 				font-family: "Roboto", Arial, sans-serif;
 				font-size: 15px;
@@ -271,17 +424,12 @@
 				line-height: 145%;
 				margin: 7px 0px 10px 0px;
 			}
-			.harmonic-styles.psico h4
-			{
-				font-weight: 400;
-			}
 
 			/* Título menor dentro del contenido */
-			.harmonic-styles h5
-			{
+			.harmonic-styles h5 {
 				color: #2A2B2C;
 				font-family: "PT Sans", "Roboto", sans-serif;
-				font-size: 18px;
+				font-size: 20px;
 				font-weight: 700;
 				line-height: 145%;
 				margin: 8px 0px;
@@ -289,8 +437,7 @@
 			}
 
 			/* Subtítulo menor dentro del contenido */
-			.harmonic-styles h6
-			{
+			.harmonic-styles h6 {
 				color: #2A2B2C;
 				font-family: "PT Sans", "Roboto", sans-serif;
 				font-size: 17px;
@@ -301,8 +448,7 @@
 			}
 
 			/* Párrafos */
-			.harmonic-styles p
-			{
+			.harmonic-styles p {
 				color: #2A2B2C;
 				font-family: "PT Sans", "Roboto", sans-serif;
 				font-size: 15px;
@@ -311,17 +457,23 @@
 				margin: 8px 0px;
 			}
 
-			/* Negritas dentro de los párrafos e items de listas no ordenadas */
+			/* Los párrafos que estén inmediatamente después de un h5 */
+			.harmonic-styles h5+p {
+				margin-top: 8px;
+			}
+
+			/* Negritas dentro de los párrafos */
 			.harmonic-styles p strong,
-			.harmonic-styles li strong,
-			{
+			.harmonic-styles li strong {
 				color: #606060;
 				font-weight: 700;
 			}
 
 			/* Links */
-			.harmonic-styles p a
-			{
+			.harmonic-styles p a,
+			.harmonic-styles p a:active,
+			.harmonic-styles p a:link,
+			.harmonic-styles p a:visited {
 				color: #3c59ea;
 				font-family: "PT Sans", "Roboto", sans-serif;
 				font-size: 15px;
@@ -329,445 +481,270 @@
 			}
 
 			/* Listas no ordenadas */
-			.harmonic-styles ul
-			{
+			.harmonic-styles ul {
 				color: #2A2B2C;
 				font-family: "PT Sans", "Roboto", sans-serif;
 				font-size: 15px;
 				font-weight: 400;
 				line-height: 145%;
-				list-style-type: none;
-				padding: 0px 0px 0px 15px;
+				list-style-type: disc;
+				padding: 0px 0px 0px 30px;
 				margin: 0px;
 			}
 
 			/* Items de las listas no ordenadas */
-			.harmonic-styles ul li
-			{
-				margin: 8px 0px;
+			.harmonic-styles ul li {
+				margin: 0 0 0 -12px;
 				padding: 0px;
 			}
 
-			/* Listas ordenadas */
-			.harmonic-styles ol
-			{
+			/* Listas no ordenadas */
+			.harmonic-styles ol {
 				color: #2A2B2C;
 				font-family: "PT Sans", "Roboto", sans-serif;
 				font-size: 15px;
 				font-weight: 400;
 				line-height: 145%;
 				list-style-type: decimal;
-				padding: 0px 0px 0px 15px;
+				padding: 0px 0px 0px 30px;
 				margin: 0px;
 			}
 
-			.harmonic-styles ol li
-			{
-				margin: 8px 0px;
+			/* Items de las listas no ordenadas */
+			.harmonic-styles ol li {
+				margin: 10px 0px;
 				padding: 0px;
 			}
 
-			.harmonic-styles .panel-body ul
-			{
+			/* El primer li de los ul que estén inmediatamente después de un h5 */
+			.harmonic-styles h5+ul li:first-child {
+				margin-top: 8px;
+			}
+
+			.harmonic-styles .panel-body ul {
 				list-style-type: none;
 			}
-			
-			@media screen and (min-width: 768px)
-			{
-				/* ▼▼▼▼▼▼ Estilos para >=768 (tamaños sm, md y lg en Bootstrap) ▼▼▼▼▼▼ */
-				/* Contenedor de la sección de contenido */
-				.harmonic-styles
-				{
-					margin: 30px auto 30px 20px;
-					width: 100%;
-				}
+		}
 
-				/* Cabecera del contenido donde está
-				la información operativa del evento */
-				.harmonic-styles .header-section
-				{
-					border-bottom: 1px solid #ddd;
-					margin: 0px;
-					padding: 0px;
-				}
-
-				/* Título */
-				.harmonic-styles h1
-				{
-					color: #414141;
-					font-family: "Roboto", Arial, sans-serif;
-					font-size: 27px;
-					font-weight: 500;
-					line-height: 85%;
-					margin: 0px;
-				}
-
-				/* Subtítulo */
-				.harmonic-styles h2
-				{
-					color: #414141;
-					font-family: "Roboto", Arial, sans-serif;
-					font-size: 22px;
-					font-weight: 300;
-					line-height: 145%;
-					margin: 0px;
-				}
-
-				/* Tipo de evento (CHARLA, CLASE PRESENCIAL, etc.) */
-				.harmonic-styles h3
-				{
-					border-left: 2px solid #9f6cf7;
-					color: #9f6cf7;
-					font-family: "Roboto", Arial, sans-serif;
-					font-size: 16px;
-					font-weight: 600;
-					line-height: 145%;
-					margin: 0px;
-					padding: 0px 0px 0px 7px;
-				}
-
-				/* Fecha */
-				.harmonic-styles h4
-				{
-					color: #414141;
-					font-family: "Roboto", Arial, sans-serif;
-					font-size: 15px;
-					font-weight: 300;
-					line-height: 145%;
-					margin: 7px 0px 10px 0px;
-				}
-
-				/* Título menor dentro del contenido */
-				.harmonic-styles h5
-				{
-					color: #2A2B2C;
-					font-family: "PT Sans", "Roboto", sans-serif;
-					font-size: 20px;
-					font-weight: 700;
-					line-height: 145%;
-					margin: 8px 0px;
-					padding: 0px;
-				}
-
-				/* Subtítulo menor dentro del contenido */
-				.harmonic-styles h6
-				{
-					color: #2A2B2C;
-					font-family: "PT Sans", "Roboto", sans-serif;
-					font-size: 17px;
-					font-weight: 700;
-					line-height: 145%;
-					margin: 8px 0px;
-					padding: 0px;
-				}
-
-				/* Párrafos */
-				.harmonic-styles p
-				{
-					color: #2A2B2C;
-					font-family: "PT Sans", "Roboto", sans-serif;
-					font-size: 15px;
-					font-weight: 400;
-					line-height: 145%;
-					margin: 8px 0px;
-				}
-
-				/* Los párrafos que estén inmediatamente después de un h5 */
-				.harmonic-styles h5 + p
-				{
-					margin-top: 8px;
-				}
-
-				/* Negritas dentro de los párrafos */
-				.harmonic-styles p strong,
-				.harmonic-styles li strong,
-				{
-					color: #606060;
-					font-weight: 700;
-				}
-
-				/* Links */
-				.harmonic-styles p a,
-				.harmonic-styles p a:active,
-				.harmonic-styles p a:link,
-				.harmonic-styles p a:visited,
-				{
-					color: #3c59ea;
-					font-family: "PT Sans", "Roboto", sans-serif;
-					font-size: 15px;
-					font-weight: 400;
-				}
-
-				/* Listas no ordenadas */
-				.harmonic-styles ul
-				{
-					color: #2A2B2C;
-					font-family: "PT Sans", "Roboto", sans-serif;
-					font-size: 15px;
-					font-weight: 400;
-					line-height: 145%;
-					list-style-type: disc;
-					padding: 0px 0px 0px 30px;
-					margin: 0px;
-				}
-
-				/* Items de las listas no ordenadas */
-				.harmonic-styles ul li
-				{
-					margin: 0 0 0 -12px;
-					padding: 0px;
-				}
-
-				/* Listas no ordenadas */
-				.harmonic-styles ol
-				{
-					color: #2A2B2C;
-					font-family: "PT Sans", "Roboto", sans-serif;
-					font-size: 15px;
-					font-weight: 400;
-					line-height: 145%;
-					list-style-type: decimal;
-					padding: 0px 0px 0px 30px;
-					margin: 0px;
-				}
-
-				/* Items de las listas no ordenadas */
-				.harmonic-styles ol li
-				{
-					margin: 10px 0px;
-					padding: 0px;
-				}
-
-				/* El primer li de los ul que estén inmediatamente después de un h5 */
-				.harmonic-styles h5 + ul li:first-child
-				{
-					margin-top: 8px;
-				}
-				.harmonic-styles .panel-body ul
-				{
-					list-style-type: none;
-				}
-			}
 		/* Estilos para que los videos de YouTube sean responsive */
+
+
+		.iframe-global-responsive-container {
+			clear: both;
+			float: left;
+			margin-bottom: 30px;
+			width: 100%;
+		}
+
+		.iframe-container {
+			position: relative;
+			width: 100%;
+			padding-bottom: 59.25%;
+			height: 0;
+		}
+
+		.iframe-container iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+
+		@media screen and (min-width: 360px) {
+			.video-container {
+				min-width: 300px;
+				width: 50%;
 			}
-      .iframe-global-responsive-container
-      {
-        clear: both;
-        float: left;
-        margin-bottom: 30px;
-        width: 100%;
-      }
-      .iframe-container
-      {
-        position: relative;
-        width: 100%;
-        padding-bottom: 59.25%;
-        height: 0;
-      }
-      .iframe-container iframe
-      {
-        position: absolute;
-        top:0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-      }
-      @media screen and (min-width: 360px)
-      {
-        .video-container
-        {
-          min-width: 300px;
-          width: 50%;
-        }
-      }
-      @media screen and (max-width: 600px)
-      {
-        .articulo_text_header
-        {
-          font-size: 26px;
-        }
-        .mobile-visibility-none
-        {
-          display: none;
-        }
-      }
-      @media screen and (min-width: 768px)
-      {
-		/* FIN Estilos para que los videos de YouTube sean responsive */
-			@media screen and (min-width: 500px)
-			{
-				.astrology-video
-				{
+		}
+
+		@media screen and (max-width: 600px) {
+			.articulo_text_header {
+				font-size: 26px;
+			}
+
+			.mobile-visibility-none {
+				display: none;
+			}
+		}
+
+		@media screen and (min-width: 768px) {
+			/* FIN Estilos para que los videos de YouTube sean responsive */
+			@media screen and (min-width: 500px) {
+				.astrology-video {
 					display: none;
 				}
 			}
-		</style>
-	</head>
-	<body>
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.8";
-		fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
-		<div id="container" style="background-color: #fff;">
-			<?php include('site/header.php'); ?>
-			<div class="col-sm-12" style="padding: 0px;">
-				<img src="https://centroastrologico.com.ar/assets/images/curso-astrologia-landing-nuevo.jpg" width="100%">	
-			</div>
-			
-			<section id="content_section">
-				<!-- Secci&oacute;n principal > comienzo -->
-				<section class="main_section">
-					<div class="container-fluid" style="background-color: #fff; padding: 0px 30px 0px 30px;">
-            <div class="row">
-                <div class="col-xs-12 col-md-9 col-lg-8" style="margin-bottom: 0px;">
-                  <div class="harmonic-styles astro">
-                    <div class="header-section" style="margin-bottom: 10px;">
-                      <h3>CURSO ONLINE</h3>
+	</style>
+</head>
+
+<body>
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.8";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	</script>
+	<div id="container" style="background-color: #fff;">
+		<?php include('site/header.php'); ?>
+		<div class="col-sm-12" style="padding: 0px;">
+			<img src="assets/images/curso-astrologia-landing-nuevo.jpg" width="100%">
+		</div>
+
+		<section id="content_section">
+			<!-- Secci&oacute;n principal > comienzo -->
+			<section class="main_section">
+				<div class="container-fluid" style="background-color: #fff; padding: 0px 30px 0px 30px;">
+					<div class="row">
+						<div class="col-xs-12 col-md-9 col-lg-8" style="margin-bottom: 0px;">
+							<div class="harmonic-styles astro">
+								<div class="header-section" style="margin-bottom: 10px;">
+									<h3>ONLINE COURSE</h3>
+
+									<h1>PSYCHOLOGICAL AND SCIENTIFIC ASTROLOGY</h1>
+									<h2 style="font-size: 17px;">C. G. Jung's Approach</h2>
+
+									<h4 style="font-size:17px;"> <b>Start:</b> Wednesday, January 10th at 5:30 pm (Argentine Time)</h4>
+									<h4 style="font-size:17px;">Gift: Your Natal Chart Drawing!</h4>
+									<!--h4 style="font-size:17px;">2x1 Promotion!</h4-->
+								</div>
+
+								<p style="text-align: justify-all;">In this course, we will explore the foundations of Scientific and Psychological Astrology. The great Swiss psychologist C. G. Jung contributed to the creation of a "New Astrology" based on his worldview of the human being and what he called the process of Individuation. This process involves gathering the fragments of the constitutive parts of ourselves and turning them into a harmonious whole, a task for which the wisdom of astrological science becomes indispensable.</p>
+
+								<br>
+
+								<!-- Contenido -->
+								<div class="row" style="margin-bottom: 0px; padding-bottom: 0px;">
+									<div class="col-xs-12 col-md-6">
+										<div class="iframe-global-responsive-container cancel-width">
+											<div class="iframe-container">
+												<iframe src="https://www.youtube.com/embed/0RQHiLtUw_M" frameborder="0" allowfullscreen></iframe>
+											</div>
+										</div>
+									</div>
+									<div class="col-xs-12 col-md-6">
+										<h4 class="h2sub" style="margin-bottom: 5px; margin-top: 0px; font-size: 17px !important; background-color: #f7efef">DIARY:</h4>
+										<h4 style="font-size:17px">1st Module</h4>
+										<ul class="font18" style="margin: 0px; padding-left: 16px; font-size: 16px; line-height: 26px;">
+											<li>Celestial Quantum Mechanics - Causal Laws and Synchronicity.</li>
+											<li>Zodiacal Archetypes and the Individuation Process of the Psyche.</li>
+										</ul>
+									</div>
+
+								</div>
+
+								<div style="margin: 10px 0px 15px 28px">
+									<!--p style="font-weight: bold; margin-top: 0px; margin-bottom: 0">AGENDA:</p-->
+									<ul class="font18" style="margin: 0px; padding-left: 16px; font-size: 16px; line-height: 26px;">
+										<li>The Planets and the Dimensions of the Mind.</li>
+										<li>The 12 Fields of Experience at their 3 and 7 Levels of General Evolution.</li>
+									</ul>
+								</div>
 
 
-                      <h1>ASTROLOGÍA PSICOLÓGICA Y CIENTÍFICA</h1>
-                      <h2 style="font-size: 17px;">Enfoque de C. G. Jung</strong><h2>
-                      <h4 style="font-size:17px;"> <b>Inicio:</b> Miércoles 10 de Enero a las 5:30 pm. (Hora Arg.)</h4>
-                      <h4 style="font-size:17px;">¡De Regalo el Dibujo de tu Carta Natal!</h4>
-                      <!--h4 style="font-size:17px;">¡Promoción 2x1!</h4-->
+								<div style="margin-top: 0px;" class="col-xs-12 col-md-6">
+									<ul class="font18" style="margin: 0px; padding-left: 0px; font-size: 16px; line-height: 26px;">
+										<h4 style="font-size:17px">2nd Module</h4>
+										<ul>
+											<li>Planetary Harmonics in a "new" approach to the Duality of Life.</li>
+											<li>Alchemy and the 4 Psychological Types. Balance and Imbalance.</li>
+											<li>Symbolism of the Natal Chart Cross. The movement of Energy in its four operations.</li>
+											<li>Guidance according to your Astrological Type based on the Mandalic figure of the Natal/Astral Chart.</li>
+										</ul>
+										<!--li>How Harmonious and tense relationships unfold between different aspects of our Personality and Life situations.</li-->
+									</ul>
+								</div>
 
-                    </div>
+								<div style="margin-top: 0px;" class="col-xs-12 col-md-6">
+									<ul class="font18" style="margin: 0px; padding-left: 0px; font-size: 16px; line-height: 26px;">
 
-                   <p style="text-align: justify-all;">En este curso veremos las bases y fundamentos de la Astrología Científica y Psicológica. El gran psicólogo suizo C. G. Jung contribuyó a una creación de una “Nueva Astrología” a partir de su cosmovisión del ser humano y lo que el llamara el proceso de Individuación. Este proceso implica reunir los fragmentos de las partes constitutivas de nosotros mismos y volverlos un todo armónico, tarea para la cual se vuelve imprescindible la sabiduría de la ciencia astrológica. 
-                   </p>
-                   <br>
+										<h4 style="font-size:17px">3rd Module</h4>
+										<ul>
+											<li>Reordering of Planetary Functions. Rational, Irrational, and A-rational.</li>
+											<li>Psychological/Physical Complexes in the Natal Chart.</li>
+											<li>The Transcendent Function in the Natal Chart, Mission vs. Fulfillment.</li>
+											<li>Clarifications of the Most Typical Errors in Judgments.</li>
+										</ul>
 
-                    <!-- Contenido -->
-										<div class="row" style="margin-bottom: 0px; padding-bottom: 0px;">
-                      <div class="col-xs-12 col-md-6">
-                        <div class="iframe-global-responsive-container cancel-width">
-                          <div class="iframe-container">
-                            <iframe src="https://www.youtube.com/embed/0RQHiLtUw_M" frameborder="0" allowfullscreen></iframe>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="col-xs-12 col-md-6">
-                        <h4 class="h2sub" style="margin-bottom: 5px; margin-top: 0px; font-size: 17px !important; background-color: #f7efef">TEMARIO:</h4>
-                        	<h4 style="font-size:17px">1° Módulo</h4>
-                          <ul class="font18" style="margin: 0px; padding-left: 16px; font-size: 16px; line-height: 26px;">
-                            <li>La Mecánica Cuántica Celeste – Las leyes Causales y la de Sincronicidad.</li>
-                            <li>Arquetipos Zodiacales y el proceso de Individuación de la Psique.</li>
-                            
-
-                        </ul>
-                      </div>
-                    </div>
-
-                     <div style="margin: 10px 0px 15px 28px">
-                        <!--p style="font-weight: bold; margin-top: 0px; margin-bottom: 0">TEMARIO:</p-->
-                        <ul class="font18" style="margin: 0px; padding-left: 16px; font-size: 16px; line-height: 26px;">
-                          <li>Los Planetas y las Dimensiones de la Mente.</li>
-                          <li>Los 12 Campos de la Experiencia en sus 3 y 7 Niveles de Evolución generales.</li>
-
-                        </ul>
-                      </div>
-
-                      <div style="margin-top: 0px;" class="col-xs-12 col-md-6">
-                          <ul class="font18" style="margin: 0px; padding-left: 0px; font-size: 16px; line-height: 26px;">
-                            
-                            <h4 style="font-size:17px">2° Módulo</h4>
-                            <ul>
-                            <li>Los Armónicos Planetarios en un “nuevo” enfoque de la Dualidad de la Vida.</li>
-                            <li>La Alquimia y los 4 Tipos Psicológicos. Equilibrio y Desequilibrio. </li>
-                            <li>Simbolismo de la Cruz de la Carta Natal. El movimiento de la Energía en sus cuatro operaciones.</li>
-                            <li>Orientaciones según su Tipo Astrológico de acuerdo a la figura Mandálica de la Carta Natal/Astral.</li>
-                            </ul>
-                            <!--li>Cómo son las relaciones Armónicas y tensas entre los diferentes aspectos de nuestra Personalidad y situaciones de la Vida.</li-->
-                        </ul>
-                      </div>
-
-                      <div style="margin-top: 0px;" class="col-xs-12 col-md-6">
-                          <ul class="font18" style="margin: 0px; padding-left: 0px; font-size: 16px; line-height: 26px;">
-                            
-                            <h4 style="font-size:17px">3° Módulo</h4>
-                            <ul>
-                            <li>Reordenamiento de las Funciones Planetarias. Racional, Irracional y Arracional.</li>
-                            <li>Los Complejos Psicológicos/Físicos en la Carta Natal.</li>
-                            <li>La Función Trascendente en la Carta Natal, Misión vs. Realización.</li>
-                            <li>Aclaraciones de los Errores más típicos en los Juicios.</li>
-                            </ul>
-                        </ul>
-                        <br>
-                        <br>
-<br>
-<br>
-                      </div>
+									</ul>
+									<br>
+									<br>
+									<br>
+									<br>
+								</div>
 
 
-                       <div style="margin-top: 0px;" class="col-xs-12 col-md-6">
-                          <ul class="font18" style="margin: 0px; padding-left: 0px; font-size: 16px; line-height: 26px;">
-                            
-                            <h4 style="font-size:17px">4° Módulo</h4>
-                            <ul>
-                            <li>La Adaptación Creciente o la Inadaptación según los Nodos de la Luna.</li>
-                            <li>Planetoides, Asteroides y Estrellas Fijas. Quirón, su función y alcance.</li>
-                            <li>Los Arquetipos de Sombra, Personaje, Anima-Animus y Self en la Carta Natal.</li>
-                            <li>Preguntas y Respuestas. Preparaciones para profundizar.</li>
-                            </ul>
-                        </ul>
-                        <br>
-                      </div>
+								<div style="margin-top: 0px;" class="col-xs-12 col-md-6">
+									<ul class="font18" style="margin: 0px; padding-left: 0px; font-size: 16px; line-height: 26px;">
 
-                    <hr>
-                    <hr>
+										<h4 style="font-size:17px">4th Module</h4>
+										<ul>
+											<li>Increasing Adaptation or Inadaptation according to the Moon's Nodes.</li>
+											<li>Planetoids, Asteroids, and Fixed Stars. Chiron, its function, and scope.</li>
+											<li>Shadow Archetypes, Persona, Anima-Animus, and Self in the Natal Chart.</li>
+											<li>Questions and Answers. Preparations for further exploration.</li>
+										</ul>
 
-                    <div class="row">
-                      <div class="col-xs-12 col-sm-12">
+									</ul>
+									<br>
+								</div>
 
-                        <div class="col-xs-12 col-sm-12">
-                         
+								<hr>
+								<hr>
 
-                          <p style="font-size:16px;"><strong>Duración:</strong> 4 meses (16 Clases).<br>
-                          <strong>Modalidad:</strong> 1 Clase por semana de 1 hora. Clases en vivo y disponibles por 72 hs.
+								<div class="row">
+									<div class="col-xs-12 col-sm-12">
 
-                        </p>
+										<div class="col-xs-12 col-sm-12">
 
 
-                          <p style="font-size: 16px;"><strong>Incluye:</strong></p>
-                          <ul style="font-size:15px;">
-                            <li>¡De Regalo el Dibujo de tu Carta Natal!</li>
-                            <li>Participación en el chat en vivo para que respondamos todas tus dudas en el momento.</li>
-                            <li>Las clases quedan disponibles por 3 días para que las puedas ver las veces que necesites.</li>
-                          </ul>
-                          
+											<p style="font-size:16px;"><strong>Duration:</strong> 4 months (16 Classes).<br>
+												<strong>Modality:</strong> 1 Class per week, 1 hour each. Live classes and available for 72 hours.
 
-                          <br>
-                        </div>
+											</p>
+
+											<p style="font-size: 16px;"><strong>Includes:</strong></p>
+											<ul style="font-size:15px;">
+												<li>Free Drawing of your Natal Chart!</li>
+												<li>Participation in the live chat for immediate clarification of your doubts.</li>
+												<li>Classes remain available for 3 days so you can watch them as many times as needed.</li>
+											</ul>
 
 
-                        <div class="col-xs-12 col-sm-12">
-                      </div>
-                        <!--p><strong>Valor:</strong> <s>u$s 70 Dólares</s> / Ahora: u$s 25 Dólares
+
+											<br>
+										</div>
+
+
+										<div class="col-xs-12 col-sm-12">
+										</div>
+										<!--p><strong>Valor:</strong> <s>u$s 70 Dólares</s> / Ahora: u$s 25 Dólares
                         <i><b>¡Descuento Especial!</b></i>
                         <br>(Consultar por valor en Argentina)</p-->
 
 
-                      </div>
-                      <!-- Video acompañante -->
-                      <!-- <div class="col-xs-12 col-md-6">
-                      </div> -->
-                      
-                      <!-- Texto -->
-                      <!-- <div class="col-xs-12 col-md-6">
+									</div>
+									<!-- Video acompañante -->
+									<!-- <div class="col-xs-12 col-md-6">
                       </div> -->
 
-                      <!-- Cierre -->
-                      <!-- <div class="col-xs-12 col-sm-12">
+									<!-- Texto -->
+									<!-- <div class="col-xs-12 col-md-6">
                       </div> -->
-                    </div>
 
-                   </div>
+									<!-- Cierre -->
+									<!-- <div class="col-xs-12 col-sm-12">
+                      </div> -->
+								</div>
 
-                    <!-- <div class="visible-xs" id="mobile-contents">
+							</div>
+
+							<!-- <div class="visible-xs" id="mobile-contents">
                       
                       <div class="col-xs-12  visible-xs visible-sm" style="background-color: #fff;">
                         <div class="form-mobile">
@@ -822,45 +799,46 @@
                       <div class="clearfix"></div>
                     </div> -->
 
-                    <!-- <div class="page-header articulo_header" style="border-bottom: none; padding-bottom: 0 !important; margin: 0 !important; border-bottom: 0 !important">
+							<!-- <div class="page-header articulo_header" style="border-bottom: none; padding-bottom: 0 !important; margin: 0 !important; border-bottom: 0 !important">
                     </div> -->
-                    
-                    <br><br><br>
-                  </div>
-                  							<div class="col-xs-12 col-md-3 side_section">
-								<?php include('site/form-astro.php'); ?>
 
-								<?php include('site/events-astro.php'); ?>
-							</div>
-                </div>
+							<br><br><br>
+						</div>
+						<div class="col-xs-12 col-md-3 side_section">
+							<?php include('site/form-astro.php'); ?>
+
+							<?php include('site/events-astro.php'); ?>
+						</div>
+					</div>
 
 
-         </div>
-      <!-- TERMINA TEXTO CHARLA ASTROLOGÍA -->
+				</div>
+				<!-- TERMINA TEXTO CHARLA ASTROLOGÍA -->
 
-    </div>
+	</div>
 
-					
-				</section>
-				<!-- Go to www.addthis.com/dashboard to customize your tools -->
-				<div class="follow_us_section" style="margin: 14px 0 9px">
-	<a target="_blank" href="https://www.facebook.com/AstrologiaAztlan/" class="facebook">
-		<img style="width: 36px; margin-right: 5px;" src="img/follow_us_facebook.png" />
-	</a>
-	<a target="_blank" href="https://twitter.com/AstrologiAztlan" class="twitter">
-		<img style="width: 36px; margin-right: 5px;" src="img/follow_us_twitter.png" />
-	</a>
-	<a target="_blank" href="https://www.instagram.com/centro.astrologico.aztlan/" class="instagram">
-		<img style="width: 36px; margin-right: 5px;" src="img/follow_us_instagram.png" />
-	</a>
-	<a target="_blank" href="https://www.youtube.com/user/sedecentral" class="youtube">
-		<img style="width: 36px;" src="img/follow_us_youtube.png" />
-	</a>
-</div>
-			</section>
-		</div>
-		<?php include('site/footer.php'); ?>
-		<!-- Bootstrap JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-	</body>
+
+	</section>
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<div class="follow_us_section" style="margin: 14px 0 9px">
+		<a target="_blank" href="https://www.facebook.com/AstrologiaAztlan/" class="facebook">
+			<img style="width: 36px; margin-right: 5px;" src="img/follow_us_facebook.png" />
+		</a>
+		<a target="_blank" href="https://twitter.com/AstrologiAztlan" class="twitter">
+			<img style="width: 36px; margin-right: 5px;" src="img/follow_us_twitter.png" />
+		</a>
+		<a target="_blank" href="https://www.instagram.com/centro.astrologico.aztlan/" class="instagram">
+			<img style="width: 36px; margin-right: 5px;" src="img/follow_us_instagram.png" />
+		</a>
+		<a target="_blank" href="https://www.youtube.com/user/sedecentral" class="youtube">
+			<img style="width: 36px;" src="img/follow_us_youtube.png" />
+		</a>
+	</div>
+	</section>
+	</div>
+	<?php include('site/footer.php'); ?>
+	<!-- Bootstrap JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+
 </html>

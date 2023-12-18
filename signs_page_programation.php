@@ -6,17 +6,17 @@ if(isset($_GET['sign']))
 
 $signs_name = array(
     1 => 'Aries',
-    2 => 'Tauro',
-    3 => 'G&eacute;minis',
-    4 => 'C&aacute;ncer',
+    2 => 'Taurus',
+    3 => 'Gemini',
+    4 => 'Cancer',
     5 => 'Leo',
     6 => 'Virgo',
     7 => 'Libra',
-    8 => 'Escorpio',
-    9 => 'Sagitario',
-    10 => 'Capricornio',
-    11 => 'Acuario',
-    12 => 'Piscis'
+    8 => 'Scorpio',
+    9 => 'Sagittarius',
+    10 => 'Capricorn',
+    11 => 'Aquarius',
+    12 => 'Pisces'
     );
 
 print('<div class="title_section">');

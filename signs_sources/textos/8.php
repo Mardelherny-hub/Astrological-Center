@@ -4,11 +4,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-escorpio.png" />
+						<img src="signs_sources/simbologia/simbolo-escorpio.png" alt="Scorpio Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">El Escorpi&oacute;n</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Scorpion</span>
 					</td>
 				</tr>
 			</table>
@@ -18,11 +18,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-agua.png" />
+						<img src="signs_sources/elementos/elemento-agua.png" alt="Water Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Agua</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Water</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/pluton.png" />
+						<img src="signs_sources/planetas-regentes/pluton.png" alt="Ruling Planets: Mars and Pluto" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETAS REGENTES</span>
-						<span class="content">Marte y Plut&oacute;n</span>
+						<span class="title">RULING PLANETS</span>
+						<span class="content">Mars and Pluto</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/8.png" />
+						<img src="signs_sources/casas/8.png" alt="House: Eighth" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Octava</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Eighth</span>
 					</td>
 				</tr>
 			</table>
@@ -60,11 +60,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-escorpio.png" />
+						<img src="signs_sources/opuestos/opuesto-a-escorpio.png" alt="Opposite Sign: Taurus" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
-						<span class="content">Tauro</span>
+						<span class="title">OPPOSITE</span>
+						<span class="content">Taurus</span>
 					</td>
 				</tr>
 			</table>
@@ -72,39 +72,39 @@
 	</tr>
 </table>
 
-<p>Escorpio es un signo de intensidad. Su símbolo indica que muchas veces aparenta  ser duro por fuera pero por dentro es muy sensible. Pienso que Escorpio es el signo del zodíaco que viene a enseñarnos que no todo es armonía y equilibrio en la vida (algo que gusta creer Libra, por ejemplo) sino que también existen las crisis.</p>
-<p>Escorpio busca abrir puertas que otros ignoran o que tal vez por comodidad prefieren dejar cerradas. De allí su fama instigadora, casi detectivesca, tratando de descubrir lo oculto, intuyendo lo que no se dice o lo que no se ve de una situación. Su capacidad estratégica también está ligada a su intuición y prudencia.</p>
-<p>Escorpio suele ser un signo que va a lo profundo en aquello que se propone. Esto le da gran determinación y tenacidad en sus metas y en sus pasiones. De hecho Escorpio es uno de los 4 signos llamados Fijos (junto con Tauro, Leo y Acuario) los cuales comparten la determinación de que se haga su voluntad y también su innato sentido del orgullo personal.</p>
-<p>Escorpio viene a enseñar, además, que las crisis (aunque dolorosas) son necesarias ya que nos sirven para transitar hacia nuevas oportunidades, purificando aquello que ya no nos sirve, transmutando hacia formas más creativas de afrontar las experiencias. Como todo signo de agua, Escorpio es emocional y sensible, aunque  demuestre mucho menos que Cáncer y Piscis (los otros signos de agua), lo que le pasa por dentro. No quiere revelar de una manera simple y directa lo que siente, y suele guardar bajo llave sus emociones e íntimos sentimientos. Tal vez sea una manera de autopreservarse frente a las posibles agresiones o traiciones que pudiéramos recibir del entorno. Hasta cierto punto, para Escorpio, autopreservarse es una sabia conducta, ya que una vez que ha sido herido, le resultará tremendamente difícil olvidar la ofensa y cerrar la herida. Como decía antes, vive con intensidad, tanto lo bueno como lo malo que nos propone la vida.</p>
-<p>Será porque Escorpio no conoce términos medios que se expresa de dos maneras opuestas: el Escorpio sensual, que busca permanentemente la gratificación de los 5 sentidos físicos, y el otro, el Escorpio espiritual, profundo y trascendente. A veces ambos conviven dentro de una misma persona; otras veces se destacará más uno u  otro aspecto según sea la carta natal de cada individuo.</p>
-<p>Otro de los arquetipos ligados a Escorpio, tiene que ver con la búsqueda de tener el control o dominio de sí mismos, así como también de las situaciones y personas frente a las cuales se encuentra. Cuanto más se domine a sí mismo, de manera consciente, es decir dominio de sus bajezas, instintos y compulsiones, más se elevará y se parecerá más al Aguila (el otro símbolo ligado a Escorpio) que sobrevuela por encima todas las situaciones. Es bueno aclarar que Auto-dominio, no es Auto-represión. Reprimir es buscar eliminar algo de manera totalmente inorgánica, de modo que aquello vuelve a aparecer una y otra vez de distintas formas. Auto dominarse es lograr superar y transmutar aquellos defectos o bajezas en Virtudes, y así poder cumplir nuestras metas sin desviarnos de nuestro camino.</p>
-<p>En los vínculos afectivos, Escorpio intentará no exponerse demasiado (al menos al iniciar una relación) ya que teme ser traicionado. Una vez que deposite la confianza en el otro, vivirá sus sentimientos de manera profunda y apasionada. La vida deberá enseñarle a perdonar y perdonarse, a olvidar las ofensas, a evitar la desconfianza que le produce el miedo a ser traicionado a nivel emocional o material.</p>
-<p>Los planetas ligados a Escorpio son Marte y Plutón. Marte el planeta de las luchas indica que Escorpio frente a los obstáculos sabe librar batallas, debido a su fortaleza. Por otro lado, Plutón es el planeta de las Transformaciones, el cual como el Ave Fénix, muere para resurgir de las cenizas fortalecido. Comprendiendo que la Muerte y la Resurrección están siempre unidas, y esto es algo de lo que todos los signos podrán aprender del escorpión.</p>
+<p>Scorpio is a sign of intensity. Its symbol indicates that it often appears tough on the outside but is very sensitive on the inside. I think Scorpio is the zodiac sign that comes to teach us that not everything in life is harmony and balance (something that Libra likes to believe, for example), but that crises also exist.</p>
+<p>Scorpio seeks to open doors that others ignore or that perhaps, out of convenience, they prefer to leave closed. Hence its instigating, almost detective-like, fame, trying to uncover the hidden, intuiting what is not said or what is not seen in a situation. Its strategic ability is also linked to its intuition and prudence.</p>
+<p>Scorpio is often a sign that goes deep into what it proposes. This gives it great determination and tenacity in its goals and passions. In fact, Scorpio is one of the 4 so-called Fixed signs (along with Taurus, Leo, and Aquarius), which share the determination to have their will done and also their innate sense of personal pride.</p>
+<p>Scorpio also comes to teach that crises (although painful) are necessary since they serve us to move towards new opportunities, purifying what no longer serves us, transmuting towards more creative ways of facing experiences. Like all water signs, Scorpio is emotional and sensitive, although it demonstrates much less than Cancer and Pisces (the other water signs) what happens inside. It does not want to reveal in a simple and direct way what it feels and usually keeps its emotions and intimate feelings under lock and key. Perhaps it is a way of self-preservation against possible aggressions or betrayals that we could receive from the environment. To some extent, for Scorpio, self-preservation is wise conduct since once it has been hurt, it will find it tremendously difficult to forget the offense and close the wound. As I mentioned before, it lives with intensity, both the good and the bad that life proposes to us.</p>
+<p>Perhaps because Scorpio does not know middle terms, it expresses itself in two opposite ways: the sensual Scorpio, who constantly seeks the gratification of the 5 physical senses, and the other, the spiritual Scorpio, deep and transcendent. Sometimes both coexist within the same person; other times, one aspect or the other will stand out more depending on the natal chart of each individual.</p>
+<p>Another archetype linked to Scorpio has to do with the search to have control or mastery of oneself, as well as of situations and people they encounter. The more one masters oneself, consciously, that is, mastery of one's baseness, instincts, and compulsions, the more one will rise and resemble the Eagle (the other symbol linked to Scorpio) that soars above all situations. It is good to clarify that Self-mastery is not Self-repression. To repress is to seek to eliminate something in a totally inorganic way, so that it reappears again and again in different forms. Self-mastery is to overcome and transmute those defects or baseness into Virtues, and thus be able to fulfill our goals without deviating from our path.</p>
+<p>In emotional relationships, Scorpio will try not to expose itself too much (at least when starting a relationship) as it fears being betrayed. Once it places trust in the other, it will live its feelings deeply and passionately. Life should teach them to forgive and forgive themselves, to forget offenses, to avoid the distrust that the fear of being betrayed on an emotional or material level produces.</p>
+<p>The planets linked to Scorpio are Mars and Pluto. Mars, the planet of struggles, indicates that Scorpio knows how to fight battles in the face of obstacles due to its strength. On the other hand, Pluto is the planet of Transformations, which, like the Phoenix, dies to rise from the ashes strengthened. Understanding that Death and Resurrection are always linked, and this is something that all signs can learn from the scorpion.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de Escorpio (o con planetas ubicados en el signo de Escorpio):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Scorpios (or with planets located in the sign of Scorpio):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/hillary-clinton.png" /></td>
-		<td class="data"><strong class="name">Hillary Clinton</strong><strong class="job">, Sec. De Estado USA</strong>: Sol, Venus y Mercurio</td>
+		<td class="photo"><img src="signs_sources/famosos/hillary-clinton.png" alt="Hillary Clinton" /></td>
+		<td class="data"><strong class="name">Hillary Clinton</strong><strong class="job">, U.S. Secretary of State</strong>: Sun, Venus, and Mercury</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/marie-curie.png" /></td>
-		<td class="data"><strong class="name">Marie Curie</strong><strong class="job">, f&iacute;sico-qu&iacute;mica</strong>: Sol, Mercurio, Venus, Marte y Saturno</td>
+		<td class="photo"><img src="signs_sources/famosos/marie-curie.png" alt="Marie Curie" /></td>
+		<td class="data"><strong class="name">Marie Curie</strong><strong class="job">, physicist and chemist</strong>: Sun, Mercury, Venus, Mars, and Saturn</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/bill-gates.png" /></td>
-		<td class="data"><strong class="name">Bill Gates</strong><strong class="job">, empresario</strong>: Sol, Venus y Saturno</td>
+		<td class="photo"><img src="signs_sources/famosos/bill-gates.png" alt="Bill Gates" /></td>
+		<td class="data"><strong class="name">Bill Gates</strong><strong class="job">, entrepreneur</strong>: Sun, Venus, and Saturn</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/friedrich-nietzsche.png" /></td>
-		<td class="data"><strong class="name">Friedrich Nietzsche</strong><strong class="job">, fil&oacute;sofo</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/friedrich-nietzsche.png" alt="Friedrich Nietzsche" /></td>
+		<td class="data"><strong class="name">Friedrich Nietzsche</strong><strong class="job">, philosopher</strong>: Ascendant</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/george-i-gurdjieff.png" /></td>
-		<td class="data"><strong class="name">G. I. Gurdjieff</strong><strong class="job">, creador del Cuarto Camino</strong>: Ascendente</td>
+		<td class="photo"><img src="signs_sources/famosos/george-i-gurdjieff.png" alt="G. I. Gurdjieff" /></td>
+		<td class="data"><strong class="name">G. I. Gurdjieff</strong><strong class="job">, creator of the Fourth Way</strong>: Ascendant</td>
 	</tr>
 </table>

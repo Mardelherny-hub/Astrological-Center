@@ -1,23 +1,23 @@
-<h2 class="title">¿Cuál es tu color según tu Signo?</h2>
+<h2 class="title">What's Your Color According to Your Sign?</h2>
 <div class="social_networks"></div>
-<img class="article_image" src="img/articles_miniatures/colores.jpg"></img>
+<img class="article_image" src="img/articles_miniatures/colores.jpg" alt="Illustration of colors"></img>
 <?php include('social-networks.php'); ?>
 
 <div>
-  <p><strong>Los colores nos atraen o producen rechazo según nuestros estados emocionales pero también según nuestro signo y carta natal. Enterate de cuál es el color asociado a tu Signo solar</strong></p>
-  <p>Ya en la antigüedad se conocía el influjo de <strong>los colores</strong> sobre el cuerpo humano y la psiquis, por lo que se los empleaba como <strong>terapia.</strong> Hace relativamente poco tiempo que la ciencia comprobó que los colores estimulan el <strong>sistema nervioso autónomo,</strong> el <strong>metabolismo</strong> y la producción de <strong>hormonas.</strong> Se demostró que la luz amarilla y la roja elevan la presión sanguínea, mientras que el azul tiende a bajarla. Los colores nos juegan algunas trampas: el azul, por ejemplo, aleja los objetos; el rojo los acerca.</p>
-  <p>L<strong>a <a style="color: coral" href="https://www.youtube.com/watch?v=HhXX9DR8KSM">Astrologia</a>,</strong> nos permite aprender que <strong>cada uno</strong> de los <strong>12 signos</strong> vibra en una cierta <strong>longitud de onda,</strong> igual que los colores, las piedras preciosas, los metales incluso cada órgano de nuestro cuerpo, vibran en una cierta frecuencia. Aquí una breve guía de los 12 signos y su color asociado.</p>
-  <p>Ten en cuenta que puedes sentirte atraído por <strong>más</strong> <strong>de un color,</strong> debido a que en nuestra <a style="color: coral"  href="http://centroastrologico.com.ar/consultory-que-es-la-carta-natal.php">carta natal</a>, el signo del <strong>Ascendente,</strong> la <strong>L</strong><strong>una</strong> y otros planetas también cuentan a la hora de definir nuestros <strong>colores</strong> más <strong>afines.</strong></p>
-  <p><strong>ARIES:</strong> Rojo, el color de la sangre para este signo de fuego</p>
-  <p><strong>TAURO:</strong> Verde, que es el color de Venus su planeta regente</p>
-  <p><strong>GÉMINIS:</strong> Amarillo, que se relaciona con la actividad mental (debido a su regente Mercurio)</p>
-  <p><strong>CÁNCER:</strong> Blanco y plateado, con matices suaves, asociados al planeta que lo rige la Luna</p>
-  <p><strong>LEO:</strong> Dorado, el color del sol, del oro y de la nobleza</p>
-  <p><strong>VIRGO:</strong> Violeta Oscuro, que representa la capacidad de depurativa de este signo</p>
-  <p><strong>LIBRA:</strong> Rosado, asociados a la búsqueda del amor, propio de su naturaleza</p>
-  <p><strong>ESCORPIO:</strong> Negro y rojo carmín, asociados a Plutón y Marte, sus regentes</p>
-  <p><strong>SAGITARIO:</strong> Púrpura, asociado a un aspecto de la naturaleza Jupiteriana y también el Azul Oscuro</p>
-  <p><strong>CAPRICORNIO:</strong> Marrón y grises oscuros, colores formales y regidos por Saturno</p>
-  <p><strong>ACUARIO:</strong> Azul eléctrico, conectados con la simbología de su regente Urano</p>
-  <p><strong>PISCIS:</strong> Azul oscuro y verdemar, colores asociados a Neptuno que en la mitología se llamaba Poseidón</p>
+  <p><strong>Colors attract us or trigger rejection based on our emotional states but also on our zodiac sign and natal chart. Find out which color is associated with your Sun sign</strong></p>
+  <p>Even in ancient times, the influence of <strong>colors</strong> on the human body and psyche was known, and they were used as <strong>therapy.</strong> It wasn't until relatively recently that science confirmed that colors stimulate the <strong>autonomous nervous system,</strong> metabolism, and hormone production. It was shown that yellow and red light raise blood pressure, while blue tends to lower it. Colors play some tricks on us; for example, blue distances objects, and red brings them closer.</p>
+  <p><strong><a style="color: coral" href="https://www.youtube.com/watch?v=HhXX9DR8KSM">Astrology</a>,</strong> allows us to learn that <strong>each</strong> of the <strong>12 signs</strong> vibrates at a certain <strong>wavelength,</strong> just like colors, gemstones, metals, and even each organ in our body vibrate at a certain frequency. Here's a brief guide to the 12 signs and their associated colors.</p>
+  <p>Keep in mind that you may be attracted to <strong>more than one color,</strong> because in our <a style="color: coral" href="http://centroastrologico.com.ar/consultory-que-es-la-carta-natal.php">natal chart,</a> the Ascendant sign, the <strong>M</strong><strong>oon,</strong> and other planets also matter when defining our <strong>most</strong> <strong>compatible colors.</strong></p>
+  <p><strong>ARIES:</strong> Red, the color of blood for this fire sign</p>
+  <p><strong>TAURUS:</strong> Green, which is the color of Venus, its ruling planet</p>
+  <p><strong>GEMINI:</strong> Yellow, associated with mental activity (due to its ruler Mercury)</p>
+  <p><strong>CANCER:</strong> White and silver, with soft nuances, associated with its ruling planet, the Moon</p>
+  <p><strong>LEO:</strong> Golden, the color of the sun, gold, and nobility</p>
+  <p><strong>VIRGO:</strong> Dark Violet, representing the purifying ability of this sign</p>
+  <p><strong>LIBRA:</strong> Pink, associated with the pursuit of love, inherent in its nature</p>
+  <p><strong>SCORPIO:</strong> Black and crimson red, associated with Pluto and Mars, its rulers</p>
+  <p><strong>SAGITTARIUS:</strong> Purple, associated with a Jupiterian nature, and also Dark Blue</p>
+  <p><strong>CAPRICORN:</strong> Brown and dark grays, formal colors ruled by Saturn</p>
+  <p><strong>AQUARIUS:</strong> Electric Blue, connected to the symbolism of its ruler, Uranus</p>
+  <p><strong>PISCES:</strong> Dark Blue and Sea Green, colors associated with Neptune, known in mythology as Poseidon</p>
 </div>

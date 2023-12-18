@@ -4,25 +4,25 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/simbologia/simbolo-geminis.png" />
+						<img src="signs_sources/simbologia/simbolo-geminis.png" alt="Gemini Symbol" />
 					</td>
 					<td class="texts">
-						<span class="title">S&Iacute;MBOLO</span>
-						<span class="content">Los Gemelos</span>
+						<span class="title">SYMBOL</span>
+						<span class="content">The Twins</span>
 					</td>
 				</tr>
 			</table>
 		</td>
-		
+
 		<td class="seccion dos">
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/elementos/elemento-aire.png" />
+						<img src="signs_sources/elementos/elemento-aire.png" alt="Air Element" />
 					</td>
 					<td class="texts">
-						<span class="title">ELEMENTO</span>
-						<span class="content">Aire</span>
+						<span class="title">ELEMENT</span>
+						<span class="content">Air</span>
 					</td>
 				</tr>
 			</table>
@@ -32,11 +32,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/planetas-regentes/mercurio.png" />
+						<img src="signs_sources/planetas-regentes/mercurio.png" alt="Ruling Planet: Mercury" />
 					</td>
 					<td class="texts">
-						<span class="title">PLANETA REGENTE</span>
-						<span class="content">Mercurio</span>
+						<span class="title">RULING PLANET</span>
+						<span class="content">Mercury</span>
 					</td>
 				</tr>
 			</table>
@@ -46,11 +46,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/casas/3.png" />
+						<img src="signs_sources/casas/3.png" alt="House: Third" />
 					</td>
 					<td class="texts">
-						<span class="title">CASA</span>
-						<span class="content">Tercera</span>
+						<span class="title">HOUSE</span>
+						<span class="content">Third</span>
 					</td>
 				</tr>
 			</table>
@@ -60,11 +60,11 @@
 			<table>
 				<tr>
 					<td class="icon">
-						<img src="signs_sources/opuestos/opuesto-a-geminis.png" />
+						<img src="signs_sources/opuestos/opuesto-a-geminis.png" alt="Opposite Sign: Sagittarius" />
 					</td>
 					<td class="texts">
-						<span class="title">OPUESTO</span>
-						<span class="content">Sagitario</span>
+						<span class="title">OPPOSITE</span>
+						<span class="content">Sagittarius</span>
 					</td>
 				</tr>
 			</table>
@@ -72,34 +72,34 @@
 	</tr>
 </table>
 
-<p>Géminis al ser un signo de Aire trae aires de flexibilidad, adaptabilidad. Es como el viento, de ánimo juguetón, con corrientes de aire que cambian su velocidad y dirección a su antojo, yendo desde una suave brisa a una repentina ráfaga. Géminis necesita más que ninguno de la comunicación y el intercambio casi permanente con otros. Suelen ser curiosos, con una mente muy activa (lo que muchas veces los lleva a dispersarse). A Géminis le agradan los contrastes y contradicciones de la vida,  pues nos brindan distintas maneras de ver las cosas. Necesita expresarse y si hay algo que le molesta es la censura. Conectan ideas con ideas, personas con personas, lo que los hacer tener una gran actividad mental, siempre asociando y conectando. Tiene la capacidad de relacionarse con gente muy diversa y diferente entre sí, lo cual a géminis no le causa ningún tipo de contrariedad. Los viajes, los estudios le proporcionan la prueba de la diversidad humana.</p>
-<p>Todo ello lo hace un signo muy activo, pero que no garantiza el terminar con todo lo que emprende ya que suele aburrirse o perder el interés rápidamente para pasar a algo nuevo. Sería el caso de quien empieza tres libros al mismo tiempo pero no termina ninguno de ellos, pecando de cierta inconstancia y superficialidad. Esto a veces se puede aplicar a los vínculos, donde buscará la estimulación permanente, e intentará de evitar lo muy rutinario y sobretodo aquello que restrinja su libertad. Valorará la comunicación dentro de la pareja, así como en el resto de los vínculos.</p>
-<p>Su planeta Mercurio, ligado a lo mental, los estudios e intercambios, lo hará un signo más mental que emocional, tratando de comprender sus emociones, pasándolas a través del tamiz de la razón.</p>  
+<p>Gemini, being an Air sign, brings a breath of flexibility and adaptability. It's like the wind, with a playful spirit, with air currents that change speed and direction at will, going from a gentle breeze to a sudden gust. Gemini needs more than anyone communication and almost constant interaction with others. They are usually curious, with a very active mind (which often leads them to become scattered). Gemini likes the contrasts and contradictions of life, as they provide different ways of seeing things. They need to express themselves, and if there's something that bothers them, it's censorship. They connect ideas with ideas, people with people, which makes them have great mental activity, always associating and connecting. They have the ability to relate to very diverse and different people, which does not bother Gemini at all. Travel and studies provide evidence of human diversity to Gemini.</p>
+<p>All this makes them a very active sign, but it doesn't guarantee finishing everything they start since they tend to get bored or lose interest quickly to move on to something new. This would be the case of someone who starts three books at the same time but doesn't finish any of them, showing a certain inconsistency and superficiality. This can sometimes apply to relationships, where they will seek constant stimulation and try to avoid anything too routine and, above all, anything that restricts their freedom. They will value communication within the couple, as well as in the rest of their relationships.</p>
+<p>Their planet Mercury, linked to the mental aspect, studies, and exchanges, makes them a more mental than emotional sign, trying to understand their emotions, passing them through the filter of reason.</p>
 
-<p style="margin-bottom: 0px;"><strong>Famosos de G&eacute;minis (o con planetas ubicados en el signo de G&eacute;minis):</strong></p>
+<p style="margin-bottom: 0px;"><strong>Famous Geminis (or with planets located in the sign of Gemini):</strong></p>
 <table class="famous">
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/johnny-depp.png" /></td>
-		<td class="data"><strong class="name">Johnny Depp</strong><strong class="job">, actor</strong>: Sol</td>
+		<td class="photo"><img src="signs_sources/famosos/johnny-depp.png" alt="Johnny Depp" /></td>
+		<td class="data"><strong class="name">Johnny Depp</strong><strong class="job">, actor</strong>: Sun</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/bob-dylan.png" /></td>
-		<td class="data"><strong class="name">Bob Dylan</strong><strong class="job">, m&uacute;sica</strong>: Sol, Mercurio y Venus</td>
+		<td class="photo"><img src="signs_sources/famosos/bob-dylan.png" alt="Bob Dylan" /></td>
+		<td class="data"><strong class="name">Bob Dylan</strong><strong class="job">, musician</strong>: Sun, Mercury, and Venus</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/clint-eastwood.png" /></td>
-		<td class="data"><strong class="name">Clint Eastwood</strong><strong class="job">, actor</strong>: Sol y J&uacute;piter</td>
+		<td class="photo"><img src="signs_sources/famosos/clint-eastwood.png" alt="Clint Eastwood" /></td>
+		<td class="data"><strong class="name">Clint Eastwood</strong><strong class="job">, actor</strong>: Sun and Jupiter</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/barack-obama.png" /></td>
-		<td class="data"><strong class="name">Barack Obama</strong><strong class="job">, pol&iacute;tico</strong>: Luna</td>
+		<td class="photo"><img src="signs_sources/famosos/barack-obama.png" alt="Barack Obama" /></td>
+		<td class="data"><strong class="name">Barack Obama</strong><strong class="job">, politician</strong>: Moon</td>
 	</tr>
 
 	<tr>
-		<td class="photo"><img src="signs_sources/famosos/juan-domingo-peron.png" /></td>
-		<td class="data"><strong class="name">Juan Domingo Per&oacute;n</strong><strong class="job">, pol&iacute;tico</strong>: Luna, Neptuno y Plut&oacute;n</td>
+		<td class="photo"><img src="signs_sources/famosos/juan-domingo-peron.png" alt="Juan Domingo Perón" /></td>
+		<td class="data"><strong class="name">Juan Domingo Perón</strong><strong class="job">, politician</strong>: Moon, Neptune, and Pluto</td>
 	</tr>
 </table>
